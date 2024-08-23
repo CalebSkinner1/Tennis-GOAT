@@ -1,0 +1,310 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,8/12/74,0,875
+2,John Newcombe,Australia,AUS,0,1,8/12/74,0,0
+3,Rod Laver,Australia,AUS,0,1,8/12/74,1,0
+4,Stan Smith,United States,USA,0,2,8/12/74,1,0
+5,Tom Okker,Netherlands,NED,0,3,8/12/74,-2,0
+6,Ken Rosewall,Australia,AUS,0,1,8/12/74,1,0
+7,Ilie Nastase,Romania,ROU,0,1,8/12/74,-1,0
+8,Bjorn Borg,Sweden,SWE,0,1,8/12/74,1,10
+9,Arthur Ashe,United States,USA,0,2,8/12/74,-1,0
+10,Guillermo Vilas,Argentina,ARG,0,2,8/12/74,15,47
+11,Manuel Orantes,Spain,ESP,0,2,8/12/74,-1,0
+12,Marty Riessen,United States,USA,0,8,8/12/74,2,0
+13,Jan Kodes,Czech Republic,CZE,0,5,8/12/74,-2,14
+14,Cliff Drysdale,South Africa,RSA,0,9,8/12/74,-1,0
+15,Alex Metreveli,Russian Federation,RUS,0,9,8/12/74,-3,0
+16,Dick Stockton,United States,USA,0,8,8/12/74,0,0
+17,Tom Gorman,United States,USA,0,7,8/12/74,-2,0
+18,Eddie Dibbs,United States,USA,0,5,8/12/74,1,0
+19,Jaime Fillol,Chile,CHI,0,14,8/12/74,1,0
+20,Harold Solomon,United States,USA,0,5,8/12/74,11,2
+21,Roscoe Tanner,United States,USA,0,4,8/12/74,-4,0
+22,John Alexander,Australia,AUS,0,8,8/12/74,-1,0
+23,Raul Ramirez,Mexico,MEX,0,4,8/12/74,-5,0
+24,Paolo Bertolucci,Italy,ITA,0,12,8/12/74,3,0
+25,Tony Roche,Australia,AUS,0,2,8/12/74,-2,0
+26,Cliff Richey,United States,USA,0,4,8/12/74,-4,0
+27,Francois Jauffret,France,FRA,0,20,8/12/74,2,0
+28,Nikola Pilic,Croatia,CRO,0,10,8/12/74,-4,0
+29,Mark Cox,United Kingdom,GBR,0,12,8/12/74,-3,0
+30,Andrew Pattison,United States,USA,0,21,8/12/74,2,0
+31,Onny Parun,New Zealand,NZL,0,19,8/12/74,4,0
+32,Ross Case,Australia,AUS,0,14,8/12/74,-2,0
+33,Roy Emerson,Australia,AUS,0,4,8/12/74,-5,0
+34,Brian Gottfried,United States,USA,0,3,8/12/74,0,0
+35,Adriano Panatta,Italy,ITA,0,4,8/12/74,3,0
+36,Phil Dent,Australia,AUS,0,17,8/12/74,1,0
+37,Jiri Hrebec,Czech Republic,CZE,0,25,8/12/74,-4,0
+38,Balazs Taroczy,Hungary,HUN,0,12,8/12/74,43,0
+39,Vijay Amritraj,India,IND,0,18,8/12/74,-3,69
+40,Robert Lutz,United States,USA,0,11,8/12/74,2,0
+41,Billy Martin,United States,USA,0,32,8/12/74,83,0
+42,Han Jurgen Pohmann,Germany,GER,0,30,8/12/74,-2,0
+43,Ismail El Shafei,Egypt,EGY,0,28,8/12/74,8,0
+44,Jeff Borowiak,United States,USA,0,20,8/12/74,1,0
+45,Corrado Barazzutti,Italy,ITA,0,7,8/12/74,4,0
+46,Jurgen Fassbender,Germany,GER,0,31,8/12/74,-7,0
+47,Zeljko Franulovic,Croatia,CRO,0,11,8/12/74,-4,0
+48,Roger Taylor,United Kingdom,GBR,0,9,8/12/74,2,0
+49,Brian Fairlie,New Zealand,NZL,0,24,8/12/74,-5,0
+50,Geoff Masters,Australia,AUS,0,42,8/12/74,-4,0
+51,Raymond Moore,South Africa,RSA,0,20,8/12/74,8,0
+52,Buster C Mottram,United Kingdom,GBR,0,15,8/12/74,2,0
+53,Charlie Pasarell,United States,USA,0,15,8/12/74,-12,0
+54,Juan Gisbert,Spain,ESP,0,29,8/12/74,-6,0
+55,Allan Stone,Australia,AUS,0,30,8/12/74,-3,0
+56,Frew Mcmillan,South Africa,RSA,0,34,8/12/74,0,0
+57,Robert Maud,South Africa,RSA,0,35,8/12/74,9,0
+58,Georges Goven,France,FRA,0,21,8/12/74,3,0
+59,Bob Hewitt,South Africa,RSA,0,16,8/12/74,-1,0
+60,Ion Tiriac,Romania,ROU,0,23,8/12/74,0,0
+61,Jose Higueras,Spain,ESP,0,6,8/12/74,6,0
+62,Erik Van Dillen,United States,USA,0,36,8/12/74,-7,0
+63,Hans Kary,Austria,AUT,0,54,8/12/74,10,0
+63,Thomaz Koch,Brazil,BRA,0,16,8/12/74,9,0
+65,Karl Meiler,Germany,GER,0,20,8/12/74,-18,0
+66,Paul Gerken,United States,USA,0,35,8/12/74,-10,0
+67,Patrice Dominguez,France,FRA,0,36,8/12/74,2,0
+68,Patrick Proisy,France,FRA,0,16,8/12/74,-15,0
+69,Patricio Cornejo,Chile,CHI,0,65,8/12/74,7,0
+70,Colin Dibley,Australia,AUS,0,27,8/12/74,7,0
+71,Barry Phillips Moore,Australia,AUS,0,19,8/12/74,12,0
+72,Ian Fletcher,Australia,AUS,0,56,8/12/74,-2,0
+73,Pierre Barthes,France,FRA,0,15,8/12/74,-2,0
+74,Steve Krulevitz,United States,USA,0,70,8/12/74,19,0
+75,Antonio Zugarelli,Italy,ITA,0,24,8/12/74,-1,0
+76,Ove Nils Bengtson,Sweden,SWE,0,43,8/12/74,-1,0
+77,Dick Crealy,Australia,AUS,0,19,8/12/74,-13,0
+78,Colin Dowdeswell,United Kingdom,GBR,0,31,8/12/74,29,0
+79,Clark Graebner,United States,USA,0,7,8/12/74,-16,0
+80,Mike Estep,United States,USA,0,59,8/12/74,7,0
+81,Milan Holecek,Czech Republic,CZE,0,71,8/12/74,5,0
+82,Jeff Austin,United States,USA,0,52,8/12/74,-4,0
+83,Grover Raz Reid,United States,USA,0,71,8/12/74,7,0
+84,Sherwood Stewart,United States,USA,0,60,8/12/74,17,0
+85,Syd Ball,Australia,AUS,0,63,8/12/74,-20,0
+86,Gerald Battrick,United Kingdom,GBR,0,28,8/12/74,-6,0
+87,Jairo Velasco Jr,Spain,ESP,0,47,8/12/74,78,40
+88,Vladimir Zednik,Czech Republic,CZE,0,35,8/12/74,-4,0
+89,Paul Kronk,Australia,AUS,0,66,8/12/74,20,0
+90,Leif Johansson,Sweden,SWE,0,51,8/12/74,-23,0
+91,Marcello Lara,Mexico,MEX,0,59,8/12/74,1,0
+92,Hans Jaochim Plotz,Germany,GER,0,65,8/12/74,50,0
+92,Bob Giltinan,Australia,AUS,0,40,8/12/74,-4,0
+94,Toshiro Sakai,Japan,JPN,0,75,8/12/74,-13,4
+95,Julian Ganzabal,Argentina,ARG,0,68,8/12/74,-2,0
+96,Kjell Johansson,Sweden,SWE,0,32,8/12/74,-8,0
+97,John Yuill,South Africa,RSA,0,52,8/12/74,21,0
+98,Ivan Molina,Colombia,COL,0,40,8/12/74,-13,0
+99,Owen Davidson,Australia,AUS,0,13,8/12/74,-3,0
+100,Kim Warwick,Australia,AUS,0,15,8/12/74,-9,15
+101,Robert Kreiss,United States,USA,0,84,8/12/74,6,0
+102,Dick Dell,United States,USA,0,98,8/12/74,32,0
+103,Sandy Mayer,United States,USA,0,7,8/12/74,-24,0
+103,Jim Delaney,United States,USA,0,59,8/12/74,46,0
+105,Jeff Simpson,New Zealand,NZL,0,66,8/12/74,-7,0
+106,Jun Kamiwazumi,Japan,JPN,0,78,8/12/74,8,0
+107,Tom Leonard,United States,USA,0,34,8/12/74,-5,0
+108,Haroon Rahim,Pakistan,PAK,0,34,8/12/74,-9,0
+109,Jean Baptiste Chanfreau,France,FRA,0,80,8/12/74,-4,0
+110,Antonio Munoz,Spain,ESP,0,74,8/12/74,-10,0
+111,Tom Edlefsen,United States,USA,0,46,8/12/74,-16,0
+112,John Lloyd,United Kingdom,GBR,0,23,8/12/74,3,0
+113,Jim Mcmanus,United States,USA,0,41,8/12/74,0,0
+114,Jaime Pinto Bravo,Chile,CHI,0,73,8/12/74,-18,0
+115,Fred Mcnair,United States,USA,0,77,8/12/74,13,0
+116,Fred Stolle,Australia,AUS,0,7,8/12/74,-7,0
+117,Ray Ruffels,Australia,AUS,0,21,8/12/74,-1,0
+117,Jasjit Singh,India,IND,0,89,8/12/74,-13,0
+119,Boro Jovanovic,Croatia,CRO,0,37,8/12/74,-2,0
+120,Anand Amritraj,India,IND,0,74,8/12/74,-17,1
+121,Graham Stilwell,United Kingdom,GBR,0,35,8/12/74,-15,0
+122,Torben Ulrich,Denmark,DEN,0,38,8/12/74,-1,0
+123,Dick R Bohrnstedt,United States,USA,0,98,8/12/74,-5,0
+124,Attila Korpas,Germany,GER,0,87,8/12/74,-6,0
+125,John Feaver,United Kingdom,GBR,0,91,8/12/74,4,0
+125,Harald Elschenbroich,Germany,GER,0,69,8/12/74,0,0
+125,Mal Anderson,Australia,AUS,0,21,8/12/74,1,0
+125,Modesto Tito Vazquez,Spain,ESP,0,85,8/12/74,1,0
+129,William Brown,Ireland,IRL,0,86,8/12/74,-7,0
+130,Jun Kuki,Japan,JPN,0,74,8/12/74,21,0
+131,Bob Carmichael,Australia,AUS,0,23,8/12/74,-19,0
+132,Wanaro Ngodrella,France,FRA,0,71,8/12/74,-9,7
+133,Stephen Warboys,United Kingdom,GBR,0,73,8/12/74,1,0
+133,Toma Ovici,Romania,ROU,0,133,8/12/74,1,0
+135,Pat Cramer,South Africa,RSA,0,95,8/12/74,5,0
+136,Frank Froehling,United States,USA,0,21,8/12/74,-4,0
+137,Tadeusz Nowicki,Poland,POL,0,119,8/12/74,92,0
+137,Roy Barth,United States,USA,0,49,8/12/74,10,0
+139,Terry Ryan,South Africa,RSA,0,100,8/12/74,0,0
+139,Belus Prajoux,Chile,CHI,0,62,8/12/74,52,0
+142,Richard Pancho Gonzales,United States,USA,0,5,8/12/74,-33,0
+143,Gene Scott,United States,USA,0,37,8/12/74,3,0
+144,John Bartlett,Australia,AUS,0,93,8/12/74,-11,0
+145,Vitas Gerulaitis,United States,USA,0,3,8/12/74,-83,0
+146,Frantisek Pala,Czech Republic,CZE,0,37,8/12/74,20,0
+147,Tenny Svensson,Sweden,SWE,0,117,8/12/74,-9,0
+148,Mark Farrell,United Kingdom,GBR,0,120,8/12/74,9,0
+149,Frank Gebert,Germany,GER,0,71,8/12/74,60,0
+150,William Higgins,United States,USA,0,115,8/12/74,12,0
+151,Bernard Mitton,South Africa,RSA,0,42,8/12/74,13,0
+152,Dennis Ralston,United States,USA,0,7,8/12/74,1,0
+153,Jose Mandarino,Brazil,BRA,0,81,8/12/74,-24,0
+154,Charles Owens,United States,USA,0,36,8/12/74,-23,0
+155,Butch Seewagen,United States,USA,0,87,8/12/74,-21,0
+156,Nicola Spear,Serbia,SRB,0,49,8/12/74,-2,0
+157,Peter Szoke,Hungary,HUN,0,47,8/12/74,-2,0
+158,John Andrews,United States,USA,0,64,8/12/74,75,0
+159,Byron Bertram,South Africa,RSA,0,51,8/12/74,-3,0
+160,Vincenzo Franchitti,Italy,ITA,0,138,8/12/74,1,0
+161,Peter Kanderal,Switzerland,SUI,0,126,8/12/74,-13,0
+162,Kenneth Mcmillan,United States,USA,0,162,8/12/74,1,0
+163,Mike Cahill,United States,USA,0,58,8/12/74,,0
+164,Steve Faulk,United States,USA,0,107,8/12/74,-20,0
+165,Ray Keldie,Australia,AUS,0,113,8/12/74,7,0
+166,Rolf Thung,Netherlands,NED,0,86,8/12/74,,0
+167,John Whitlinger,United States,USA,0,75,8/12/74,,0
+168,Lito Alvarez,Argentina,ARG,0,86,8/12/74,8,0
+169,Doug Crawford,United States,USA,0,117,8/12/74,,0
+170,Herb Fitzgibbon,United States,USA,0,39,8/12/74,-10,0
+171,Bill Lloyd,Australia,AUS,0,106,8/12/74,-13,0
+172,Ulrich Pinner,Germany,GER,0,19,8/12/74,-5,0
+173,Rayno Seegers,South Africa,RSA,0,163,8/12/74,43,0
+174,Keith Hancock,Australia,AUS,0,126,8/12/74,-4,0
+175,Deon Joubert,South Africa,RSA,0,56,8/12/74,-4,0
+176,Jan Eric Lundquist,Sweden,SWE,0,49,8/12/74,,0
+177,Robert Mckinley,United States,USA,0,106,8/12/74,-18,0
+178,Armistead Neely,United States,USA,0,144,8/12/74,36,0
+179,Brian Teacher,United States,USA,0,7,8/12/74,-4,0
+180,Jean Francois Caujolle,France,FRA,0,59,8/12/74,-11,0
+181,Joaquin Loyo Mayo,Mexico,MEX,0,46,8/12/74,7,0
+182,Felix Ponte,Peru,PER,0,174,8/12/74,-5,0
+183,Patricio Rodriguez Chi,Chile,CHI,0,133,8/12/74,19,0
+184,Kiyoski Tanabe,Japan,JPN,0,174,8/12/74,-10,0
+185,Birger Andersson,Sweden,SWE,0,88,8/12/74,-7,0
+186,George Hardie,United States,USA,0,80,8/12/74,36,0
+187,Kenichi Hirai,Japan,JPN,0,180,8/12/74,-7,0
+188,Premjit Lall,India,IND,0,105,8/12/74,60,0
+189,Robert Machan,Hungary,HUN,0,102,8/12/74,-7,0
+190,John Paish,United Kingdom,GBR,0,80,8/12/74,-7,0
+191,Jan Pisecky,Czech Republic,CZE,0,112,8/12/74,-7,0
+192,Victor Amaya,United States,USA,0,15,8/12/74,13,0
+193,Jorge Andrew,"Venezuela, Bolivarian Republic of",VEN,0,66,8/12/74,3,0
+194,Eddie Cruz,Philippines,PHI,0,179,8/12/74,-15,0
+195,Eric Deblicker,France,FRA,0,68,8/12/74,-10,0
+196,Jean Louis Haillet,France,FRA,0,68,8/12/74,-9,0
+197,Mike Machette,United States,USA,0,90,8/12/74,-8,0
+198,Martin Mulligan,Australia,AUS,0,12,8/12/74,-46,0
+199,Rolf Norberg,Sweden,SWE,0,88,8/12/74,-9,0
+200,Jacques Thamin,France,FRA,0,137,8/12/74,-8,0
+201,John Cooper,Australia,AUS,0,41,8/12/74,-8,0
+202,Humphrey Hose,"Venezuela, Bolivarian Republic of",VEN,0,125,8/12/74,-57,0
+203,Alejandro Olmedo,Peru,PER,0,37,8/12/74,-9,0
+204,Jean Loup Rouyer,France,FRA,0,133,8/12/74,-9,0
+205,Ezio Di Matteo,Italy,ITA,0,151,8/12/74,-7,0
+206,Rick Fisher,United States,USA,0,113,8/12/74,15,0
+207,John Fort,United States,USA,0,171,8/12/74,33,0
+208,Norman Holmes,United States,USA,0,70,8/12/74,-27,0
+209,Teimuraz Kakoulia,Russian Federation,RUS,0,91,8/12/74,-10,0
+210,Jan Kukal,Czech Republic,CZE,0,115,8/12/74,-37,5
+211,Robert Rheinberger,Australia,AUS,0,162,8/12/74,4,0
+212,Manuel Santana,Spain,ESP,0,12,8/12/74,-9,0
+213,Dimitri Sturdza,Switzerland,SUI,0,202,8/12/74,,0
+214,Terry Addison,Australia,AUS,0,100,8/12/74,-10,0
+215,Szabolcz Baranyi,Hungary,HUN,0,94,8/12/74,-9,0
+216,Tony Bardsley,Canada,CAN,0,207,8/12/74,-9,0
+217,Henry Bunis,United States,USA,0,100,8/12/74,53,0
+218,Neale Fraser,Australia,AUS,0,188,8/12/74,-10,0
+219,Zan Guerry,United States,USA,0,98,8/12/74,-9,0
+220,James Chico Hagey,United States,USA,0,72,8/12/74,22,0
+221,Jan Hordijk,Netherlands,NED,0,152,8/12/74,-10,0
+222,Sergei Likhachev,Russian Federation,RUS,0,194,8/12/74,-10,0
+223,Juan Ignacio Muntanola,Spain,ESP,0,101,8/12/74,-10,0
+224,Derek Schroder,South Africa,RSA,0,214,8/12/74,,0
+225,Jan Zabrodsky,Sweden,SWE,0,217,8/12/74,-8,0
+226,Jean Claude Barclay,France,FRA,0,218,8/12/74,-8,0
+227,Mike Belkin,Canada,CAN,0,42,8/12/74,-8,0
+228,Luis Bruguera,Spain,ESP,0,115,8/12/74,-8,0
+229,Pat Dupre,United States,USA,0,14,8/12/74,-43,0
+230,Juan Herrera,Spain,ESP,0,180,8/12/74,-7,0
+231,Nicholas Kalogeropoulos,Greece,GRE,0,108,8/12/74,-7,0
+232,Christian Kuhnke,Germany,GER,0,41,8/12/74,28,0
+233,Alberto Martorell,Spain,ESP,0,225,8/12/74,-8,0
+234,Jose Moreno,Spain,ESP,0,210,8/12/74,-8,5
+235,Denis Naegelen,France,FRA,0,131,8/12/74,-7,0
+236,D Richard Russell,Jamaica,JAM,0,140,8/12/74,-68,0
+237,Graeme Thomson,Australia,AUS,0,162,8/12/74,-7,0
+238,Taghi Akbari,"Iran, Islamic Republic of",IRI,0,146,8/12/74,-6,0
+239,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,0,124,8/12/74,-5,0
+240,Thierry Bernasconi,France,FRA,0,235,8/12/74,-5,0
+241,Roberto Chavez,Mexico,MEX,0,172,8/12/74,-5,0
+242,William Durham,Australia,AUS,0,202,8/12/74,-3,0
+243,Jose Guerrero,Spain,ESP,0,241,8/12/74,-2,0
+244,Bo Holmstrom,Sweden,SWE,0,137,8/12/74,-1,0
+245,Pierre Joly,France,FRA,0,244,8/12/74,-1,0
+246,Nicolas Kelaidis,Greece,GRE,0,244,8/12/74,-1,0
+247,Takeshi Koura,Japan,JPN,0,155,8/12/74,-1,0
+248,Ramanathan Krishnan,India,IND,0,156,8/12/74,-1,0
+249,Saeed Meer,Pakistan,PAK,0,235,8/12/74,15,0
+250,Akshai Misra,India,IND,0,158,8/12/74,-1,7
+251,Jaidip Mukherjea,India,IND,0,120,8/12/74,-1,0
+252,Olle Palmer,Sweden,SWE,0,140,8/12/74,-1,0
+253,Piero Toci,Italy,ITA,0,175,8/12/74,-1,0
+254,Geza Varga,Hungary,HUN,0,228,8/12/74,,0
+255,Orlando Agudelo,Colombia,COL,0,255,8/12/74,,2
+256,Alvaro Betancur,Colombia,COL,0,68,8/12/74,,0
+257,Robert Casey C100,Australia,AUS,0,242,8/12/74,16,0
+258,Munawar Iqbal,Pakistan,PAK,0,257,8/12/74,-1,0
+259,John James,Australia,AUS,0,81,8/12/74,-1,28
+260,Mike Kreiss,United States,USA,0,136,8/12/74,-1,0
+261,David Lloyd,United Kingdom,GBR,0,128,8/12/74,0,0
+262,Alexander Marcial,Philippines,PHI,0,262,8/12/74,0,0
+263,Pietro Marzano,Italy,ITA,0,252,8/12/74,0,0
+264,Zdrabko Mencek,Czech Republic,CZE,0,210,8/12/74,,0
+265,Sashi Menon,India,IND,0,82,8/12/74,27,0
+266,P Meyers,Australia,AUS,0,263,8/12/74,27,0
+267,Bernard Mignot,Belgium,BEL,0,73,8/12/74,-2,0
+268,Larry Parker,United States,USA,0,264,8/12/74,-2,0
+269,Franklin Robbins,United States,USA,0,182,8/12/74,-68,0
+270,Nick Saviano,United States,USA,0,48,8/12/74,,0
+271,Mark Shires,United States,USA,0,264,8/12/74,,0
+272,Steve Tidball,United States,USA,0,267,8/12/74,-5,0
+273,Steve Turner,United States,USA,0,105,8/12/74,,0
+274,Trey Waltke,United States,USA,0,41,8/12/74,,0
+275,Trevor Allan,Australia,AUS,0,57,8/12/74,-7,0
+276,Ashok Amritraj,India,IND,0,201,8/12/74,,0
+277,Janos Benyik,Hungary,HUN,0,170,8/12/74,-24,0
+278,Woody Blocher,United States,USA,0,156,8/12/74,-24,0
+279,Arthur Carrington,United States,USA,0,241,8/12/74,-7,0
+280,Jose Castanon,Spain,ESP,0,147,8/12/74,-6,0
+281,Tom Christensen,Denmark,DEN,0,146,8/12/74,-44,0
+282,John Clifton,United Kingdom,GBR,0,243,8/12/74,-7,0
+283,William Coghlan,Australia,AUS,0,244,8/12/74,-7,0
+284,Daniel Contet,France,FRA,0,245,8/12/74,-7,0
+285,Ashley Cooper,Australia,AUS,0,278,8/12/74,-7,0
+286,Ernie Ewert,Australia,AUS,0,189,8/12/74,-7,0
+287,Carlos Feldstedt,Chile,CHI,0,247,8/12/74,-7,0
+288,Wojtek Fibak,Poland,POL,0,10,8/12/74,,0
+289,Gary Groslimond,United States,USA,0,281,8/12/74,-8,0
+290,Anthony Hammond,Australia,AUS,0,251,8/12/74,-8,0
+292,Patrick Hombergen,Belgium,BEL,0,115,8/12/74,-7,0
+293,Per Jemsby,Sweden,SWE,0,255,8/12/74,-6,0
+294,Vladimir Korotkov,Russian Federation,RUS,0,113,8/12/74,-94,0
+295,Cliff Letcher,Australia,AUS,0,54,8/12/74,-7,0
+296,Richard Lewis,United Kingdom,GBR,0,77,8/12/74,-7,0
+297,Gavorielle Marcu,Romania,ROU,0,204,8/12/74,-7,0
+298,Allan Mcdonald,Australia,AUS,0,217,8/12/74,-7,0
+299,Stephen Meyers,Australia,AUS,0,264,8/12/74,-5,2
+300,Bernard Montrenaud,France,FRA,0,265,8/12/74,-5,0
+301,Terry Moor,United States,USA,0,32,8/12/74,-5,0
+302,Victor Pecci,Paraguay,PAR,0,9,8/12/74,,0
+303,Michael Phillips,Australia,AUS,0,270,8/12/74,-4,0
+304,Peter Pokorny,Austria,AUT,0,221,8/12/74,-4,0
+305,Thies Roepcke,Germany,GER,0,272,8/12/74,,0
+306,Frank Sedgman,Australia,AUS,0,237,8/12/74,,0
+307,Max Senior,Australia,AUS,0,276,8/12/74,,0
+308,Steve Siegel,United States,USA,0,244,8/12/74,,0
+309,Colin Stubs,Australia,AUS,0,274,8/12/74,,0
+310,Larry Turville,United States,USA,0,210,8/12/74,,0
+311,Anatoli Volkov,Russian Federation,RUS,0,163,8/12/74,-80,0

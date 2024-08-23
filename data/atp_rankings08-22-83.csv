@@ -1,0 +1,103 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,John McEnroe,United States,USA,0,1,8/22/83,0,1506
+2,Ivan Lendl,United States,USA,0,1,8/22/83,0,3420
+3,Jimmy Connors,United States,USA,0,1,8/22/83,0,875
+4,Yannick Noah,France,FRA,0,3,8/22/83,0,1079
+5,Mats Wilander,Sweden,SWE,0,1,8/22/83,1,1075
+6,Guillermo Vilas,Argentina,ARG,0,2,8/22/83,-1,47
+7,Kevin Curren,United States,USA,0,5,8/22/83,1,684
+8,Jose Luis Clerc,Argentina,ARG,0,4,8/22/83,-1,20
+9,Jimmy Arias,United States,USA,0,5,8/22/83,2,587
+10,Jose Higueras,Spain,ESP,0,6,8/22/83,0,0
+11,Gene Mayer,United States,USA,0,4,8/22/83,-2,6
+12,Peter Mcnamara,Australia,AUS,0,7,8/22/83,1,0
+13,Johan Kriek,United States,USA,0,7,8/22/83,1,268
+14,Steve Denton,United States,USA,0,12,8/22/83,-2,0
+15,Eliot Teltscher,United States,USA,0,6,8/22/83,1,15
+16,Vitas Gerulaitis,United States,USA,0,3,8/22/83,-1,0
+17,Bill Scanlon,United States,USA,0,9,8/22/83,0,56
+18,Andres Gomez,Ecuador,ECU,0,4,8/22/83,0,2005
+19,Brian Gottfried,United States,USA,0,3,8/22/83,0,0
+20,Sandy Mayer,United States,USA,0,7,8/22/83,1,0
+21,Henrik Sundstrom,Sweden,SWE,0,6,8/22/83,-1,1
+22,Tomas Smid,Czech Republic,CZE,0,11,8/22/83,2,28
+23,Brian Teacher,United States,USA,0,7,8/22/83,-1,0
+24,Henri Leconte,France,FRA,0,5,8/22/83,-1,948
+25,Chris Lewis Nzl,New Zealand,NZL,0,19,8/22/83,1,8
+26,Robert Vant Hof,United States,USA,0,25,8/22/83,2,103
+27,Hank Pfister,United States,USA,0,19,8/22/83,0,0
+28,Wojtek Fibak,Poland,POL,0,10,8/22/83,-3,0
+29,Tim Mayotte,United States,USA,0,7,8/22/83,0,1274
+30,Mel Purcell,United States,USA,0,21,8/22/83,0,21
+31,Shlomo Glickstein,Israel,ISR,0,22,8/22/83,0,0
+32,Anders Jarryd,Sweden,SWE,0,5,8/22/83,0,957
+33,Mark Edmondson,Australia,AUS,0,15,8/22/83,2,0
+34,John Fitzgerald,Australia,AUS,0,25,8/22/83,4,321
+35,John Alexander,Australia,AUS,0,8,8/22/83,-1,0
+36,Heinz Gunthardt,Switzerland,SUI,0,22,8/22/83,-3,0
+37,Paul Mcnamee,Australia,AUS,0,24,8/22/83,-1,0
+38,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,8/22/83,-1,0
+39,Sammy Giammalva Jr,United States,USA,0,28,8/22/83,1,68
+40,Corrado Barazzutti,Italy,ITA,0,7,8/22/83,-1,0
+41,Thomas Hogstedt,Sweden,SWE,0,38,8/22/83,9,413
+42,Mike Bauer,United States,USA,0,29,8/22/83,3,66
+43,Diego Perez,Uruguay,URU,0,27,8/22/83,-1,389
+44,Hans Gildemeister,Chile,CHI,0,12,8/22/83,0,0
+45,Jimmy Brown,United States,USA,0,42,8/22/83,1,264
+45,Pat Cash,Australia,AUS,0,4,8/22/83,-2,658
+47,Roscoe Tanner,United States,USA,0,4,8/22/83,0,0
+48,Christophe Roger Vasselin,France,FRA,0,29,8/22/83,-7,0
+48,Balazs Taroczy,Hungary,HUN,0,12,8/22/83,0,0
+50,Pablo Arraya,Peru,PER,0,29,8/22/83,-1,348
+51,Fritz Buehning,United States,USA,0,21,8/22/83,8,0
+52,Gianni Ocleppo,Italy,ITA,0,30,8/22/83,10,0
+53,Tom Gullikson,United States,USA,0,34,8/22/83,-2,0
+54,Stefan Simonsson,Sweden,SWE,0,48,8/22/83,3,0
+54,Bernard Boileau,Belgium,BEL,0,41,8/22/83,3,0
+56,Fernando Luna,Spain,ESP,0,33,8/22/83,3,310
+57,Chip Hooper,United States,USA,0,17,8/22/83,4,0
+58,Libor Pimek,Belgium,BEL,0,21,8/22/83,-6,73
+59,Mike De Palmer,United States,USA,0,35,8/22/83,-4,4
+60,Marcos Hocevar,Brazil,BRA,0,30,8/22/83,3,23
+61,Rodney Harmon,United States,USA,0,56,8/22/83,-5,0
+62,Francisco Gonzalez,Paraguay,PAR,0,36,8/22/83,36,0
+63,Sergio Casal,Spain,ESP,0,31,8/22/83,2,122
+64,Thierry Tulasne,France,FRA,0,10,8/22/83,8,334
+65,Raul Ramirez,Mexico,MEX,0,4,8/22/83,-11,0
+65,Roberto Arguello,Argentina,ARG,0,38,8/22/83,1,144
+67,Victor Pecci,Paraguay,PAR,0,9,8/22/83,0,0
+68,Carlos Kirmayr,Brazil,BRA,0,36,8/22/83,-4,0
+69,Manuel Orantes,Spain,ESP,0,2,8/22/83,-1,0
+69,Eddie Dibbs,United States,USA,0,5,8/22/83,-1,0
+71,Vincent Van Patten,United States,USA,0,26,8/22/83,2,0
+72,Pavel Slozil,Czech Republic,CZE,0,12,8/22/83,2,0
+73,Tim Wilkison,United States,USA,0,23,8/22/83,-2,269
+74,Florin Segarceanu,Romania,ROU,0,73,8/22/83,13,91
+75,Pat Dupre,United States,USA,0,14,8/22/83,0,0
+76,Jaime Fillol,Chile,CHI,0,14,8/22/83,0,0
+77,Brad Gilbert,United States,USA,0,4,8/22/83,0,1786
+78,Jeff Borowiak,United States,USA,0,20,8/22/83,0,0
+79,Eric Korita,United States,USA,0,46,8/22/83,0,0
+80,Brad Drewett,Australia,AUS,0,34,8/22/83,10,170
+81,Eric Fromm,United States,USA,0,46,8/22/83,-11,0
+82,Scott Davis,United States,USA,0,11,8/22/83,-2,638
+83,Matt Doyle,United States,USA,0,65,8/22/83,,0
+84,Nduka Odizor,Nigeria,NGR,0,52,8/22/83,-2,186
+85,Jay Lapidus,United States,USA,0,34,8/22/83,-32,0
+86,Russell Simpson,New Zealand,NZL,0,47,8/22/83,-3,0
+87,Roland Stadler,Switzerland,SUI,0,68,8/22/83,5,55
+88,Michael Westphal,Germany,GER,0,49,8/22/83,-4,81
+89,Claudio Panatta,Italy,ITA,0,46,8/22/83,-3,18
+91,Francesco Cancellotti,Italy,ITA,0,21,8/22/83,6,264
+92,Van Winitsky,United States,USA,0,35,8/22/83,,0
+93,John Mccurdy,Australia,AUS,0,83,8/22/83,-6,0
+93,Dominique Bedel,France,FRA,0,41,8/22/83,,0
+94,Mike Leach,United States,USA,0,29,8/22/83,-5,0
+95,Nick Saviano,United States,USA,0,48,8/22/83,,0
+96,Mark Dickson,United States,USA,0,32,8/22/83,-16,0
+97,Jairo Velasco,Spain,ESP,0,46,8/22/83,3,0
+98,Ricardo Acuna,Chile,CHI,0,47,8/22/83,,19
+98,Jim Gurfein,United States,USA,0,96,8/22/83,,0
+100,Jan Gunnarsson,Sweden,SWE,0,25,8/22/83,,579
+100,Stefan Edberg,Sweden,SWE,0,1,8/22/83,,3997
+100,Zoltan Kuharszky,Hungary,HUN,0,53,8/22/83,,0

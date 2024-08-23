@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,John McEnroe,United States,USA,0,1,11/29/82,0,1506
+2,Jimmy Connors,United States,USA,0,1,11/29/82,0,875
+3,Ivan Lendl,United States,USA,0,1,11/29/82,0,3420
+4,Guillermo Vilas,Argentina,ARG,0,2,11/29/82,0,47
+5,Vitas Gerulaitis,United States,USA,0,3,11/29/82,0,0
+6,Jose Luis Clerc,Argentina,ARG,0,4,11/29/82,0,20
+7,Gene Mayer,United States,USA,0,4,11/29/82,0,6
+8,Mats Wilander,Sweden,SWE,0,1,11/29/82,0,1075
+9,Yannick Noah,France,FRA,0,3,11/29/82,0,1079
+10,Jose Higueras,Spain,ESP,0,6,11/29/82,0,0
+11,Peter Mcnamara,Australia,AUS,0,7,11/29/82,0,0
+12,Johan Kriek,United States,USA,0,7,11/29/82,0,268
+13,Steve Denton,United States,USA,0,12,11/29/82,0,0
+14,Eliot Teltscher,United States,USA,0,6,11/29/82,1,15
+15,Andres Gomez,Ecuador,ECU,0,4,11/29/82,2,2005
+16,Sandy Mayer,United States,USA,0,7,11/29/82,-2,0
+17,Mark Edmondson,Australia,AUS,0,15,11/29/82,-1,0
+18,Kevin Curren,United States,USA,0,5,11/29/82,5,684
+19,Buster C Mottram,United Kingdom,GBR,0,15,11/29/82,-1,0
+20,Brian Gottfried,United States,USA,0,3,11/29/82,0,0
+21,Jimmy Arias,United States,USA,0,5,11/29/82,-2,587
+22,Brian Teacher,United States,USA,0,7,11/29/82,-1,0
+23,Wojtek Fibak,Poland,POL,0,10,11/29/82,-1,0
+24,Tomas Smid,Czech Republic,CZE,0,11,11/29/82,0,28
+25,Raul Ramirez,Mexico,MEX,0,4,11/29/82,1,0
+26,Shlomo Glickstein,Israel,ISR,0,22,11/29/82,-1,0
+27,Balazs Taroczy,Hungary,HUN,0,12,11/29/82,0,0
+28,Hans Gildemeister,Chile,CHI,0,12,11/29/82,3,0
+29,Henri Leconte,France,FRA,0,5,11/29/82,-1,948
+30,Tim Mayotte,United States,USA,0,7,11/29/82,-1,1274
+31,Mel Purcell,United States,USA,0,21,11/29/82,-1,21
+32,Chip Hooper,United States,USA,0,17,11/29/82,0,0
+33,Hank Pfister,United States,USA,0,19,11/29/82,0,0
+34,John Alexander,Australia,AUS,0,8,11/29/82,0,0
+35,Chris Lewis Nzl,New Zealand,NZL,0,19,11/29/82,0,8
+36,Jay Lapidus,United States,USA,0,34,11/29/82,1,0
+37,Mark Dickson,United States,USA,0,32,11/29/82,1,0
+38,Pablo Arraya,Peru,PER,0,29,11/29/82,1,348
+39,John Sadri,United States,USA,0,14,11/29/82,-4,0
+40,Marcos Hocevar,Brazil,BRA,0,30,11/29/82,0,23
+41,Manuel Orantes,Spain,ESP,0,2,11/29/82,0,0
+42,Kim Warwick,Australia,AUS,0,15,11/29/82,0,15
+43,Tim Wilkison,United States,USA,0,23,11/29/82,0,269
+44,Roscoe Tanner,United States,USA,0,4,11/29/82,0,0
+45,Dominique Bedel,France,FRA,0,41,11/29/82,0,0
+46,Tom Gullikson,United States,USA,0,34,11/29/82,0,0
+47,Jairo Velasco,Spain,ESP,0,46,11/29/82,1,0
+48,Vincent Van Patten,United States,USA,0,26,11/29/82,1,0
+49,Pavel Slozil,Czech Republic,CZE,0,12,11/29/82,1,0
+50,Jeff Borowiak,United States,USA,0,20,11/29/82,-3,0
+51,Phil Dent,Australia,AUS,0,17,11/29/82,1,0
+52,Eddie Dibbs,United States,USA,0,5,11/29/82,1,0
+53,Brad Gilbert,United States,USA,0,4,11/29/82,1,1786
+54,Hans Simonsson,Sweden,SWE,0,45,11/29/82,1,0
+55,Victor Amaya,United States,USA,0,15,11/29/82,1,0
+55,Carlos Kirmayr,Brazil,BRA,0,36,11/29/82,4,0
+57,Van Winitsky,United States,USA,0,35,11/29/82,0,0
+58,Victor Pecci,Paraguay,PAR,0,9,11/29/82,-7,0
+59,Russell Simpson,New Zealand,NZL,0,47,11/29/82,-1,0
+60,Eric Fromm,United States,USA,0,46,11/29/82,1,0
+61,Fernando Luna,Spain,ESP,0,33,11/29/82,1,310
+62,Paul Mcnamee,Australia,AUS,0,24,11/29/82,1,0
+63,Harold Solomon,United States,USA,0,5,11/29/82,1,2
+64,Robert Vant Hof,United States,USA,0,25,11/29/82,1,103
+65,Pat Dupre,United States,USA,0,14,11/29/82,4,0
+66,Fritz Buehning,United States,USA,0,21,11/29/82,-6,0
+67,Anders Jarryd,Sweden,SWE,0,5,11/29/82,-1,957
+68,Guy Forget,France,FRA,0,4,11/29/82,-1,2392
+69,Bill Scanlon,United States,USA,0,9,11/29/82,-1,56
+70,Rodney Harmon,United States,USA,0,56,11/29/82,0,0
+71,Lloyd Bourne,United States,USA,0,71,11/29/82,0,0
+72,Bernard Boileau,Belgium,BEL,0,41,11/29/82,0,0
+73,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,11/29/82,0,0
+74,Bruce Manson,United States,USA,0,39,11/29/82,0,0
+75,Mike De Palmer,United States,USA,0,35,11/29/82,0,4
+76,Henrik Sundstrom,Sweden,SWE,0,6,11/29/82,0,1
+77,Jaime Fillol,Chile,CHI,0,14,11/29/82,,0
+78,Claudio Panatta,Italy,ITA,0,46,11/29/82,5,18
+79,Rod Frawley,Australia,AUS,0,43,11/29/82,-2,0
+80,Damir Keretic,Germany,GER,0,58,11/29/82,-2,35
+81,Nduka Odizor,Nigeria,NGR,0,52,11/29/82,-2,186
+82,Ramesh Krishnan,India,IND,0,23,11/29/82,-2,471
+83,Peter Elter,Germany,GER,0,51,11/29/82,-2,0
+84,Matt Mitchell,United States,USA,0,53,11/29/82,2,0
+85,Cassio Motta,Brazil,BRA,0,48,11/29/82,-3,352
+86,Joao Soares,Brazil,BRA,0,74,11/29/82,-1,0
+87,Alberto Tous,Spain,ESP,0,52,11/29/82,1,39
+88,Heinz Gunthardt,Switzerland,SUI,0,22,11/29/82,-4,0
+89,Juan Avendano,Spain,ESP,0,71,11/29/82,1,8
+90,Bernard Fritz,France,FRA,0,79,11/29/82,1,0
+91,Thierry Tulasne,France,FRA,0,10,11/29/82,1,334
+92,Alejandro Ganzabal,Argentina,ARG,0,58,11/29/82,-5,0
+93,Jimmy Brown,United States,USA,0,42,11/29/82,0,264
+94,Nick Saviano,United States,USA,0,48,11/29/82,-5,0
+95,Stefan Simonsson,Sweden,SWE,0,48,11/29/82,-1,0
+96,Mike Estep,United States,USA,0,59,11/29/82,-1,0
+97,Andy Andrews,United States,USA,0,78,11/29/82,,0
+98,Freddie Sauer,South Africa,RSA,0,98,11/29/82,,0
+99,Florin Segarceanu,Romania,ROU,0,73,11/29/82,-3,91
+100,Ricardo Acuna,Chile,CHI,0,47,11/29/82,,19

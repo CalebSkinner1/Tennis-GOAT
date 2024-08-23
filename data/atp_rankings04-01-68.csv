@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,4/1/68,0,0
+2,Ken Rosewall,Australia,AUS,0,1,4/1/68,0,0
+3,John Newcombe,Australia,AUS,0,1,4/1/68,0,0
+4,Andres Gimeno,Spain,ESP,0,3,4/1/68,1,0
+5,Roy Emerson,Australia,AUS,0,4,4/1/68,-1,0
+6,Tony Roche,Australia,AUS,0,2,4/1/68,0,0
+7,Dennis Ralston,United States,USA,0,7,4/1/68,1,0
+8,Fred Stolle,Australia,AUS,0,7,4/1/68,-1,0
+9,Earl Butch Buchholz,United States,USA,0,9,4/1/68,2,0
+10,Bill Bowrey,Australia,AUS,0,10,4/1/68,9,0
+11,Nikola Pilic,Croatia,CRO,0,10,4/1/68,-1,0
+12,Manuel Santana,Spain,ESP,0,12,4/1/68,2,0
+13,Clark Graebner,United States,USA,0,7,4/1/68,4,0
+14,Martin Mulligan,Australia,AUS,0,12,4/1/68,-2,0
+15,Pierre Barthes,France,FRA,0,15,4/1/68,3,0
+16,Cliff Drysdale,South Africa,RSA,0,9,4/1/68,9,0
+17,Owen Davidson,Australia,AUS,0,13,4/1/68,-4,0
+18,Roger Taylor,United Kingdom,GBR,0,9,4/1/68,-2,0
+19,Cliff Richey,United States,USA,0,4,4/1/68,2,0
+20,Marty Riessen,United States,USA,0,8,4/1/68,7,0
+21,Tom Okker,Netherlands,NED,0,3,4/1/68,3,0
+22,Jan Leschly,Denmark,DEN,0,19,4/1/68,9,0
+23,Wilhelm Bungert,Germany,GER,0,22,4/1/68,-1,0
+24,Arthur Ashe,United States,USA,0,2,4/1/68,-15,0
+25,Michael Davies,United Kingdom,GBR,0,20,4/1/68,-5,0
+26,Ray Ruffels,Australia,AUS,0,21,4/1/68,6,0
+27,Barry Mackay,United States,USA,0,26,4/1/68,-1,0
+28,Bob Hewitt,South Africa,RSA,0,16,4/1/68,-5,0
+29,Charlie Pasarell,United States,USA,0,15,4/1/68,-14,0
+30,Thomaz Koch,Brazil,BRA,0,16,4/1/68,-1,0
+31,Stan Smith,United States,USA,0,2,4/1/68,12,0
+32,Barry Phillips Moore,Australia,AUS,0,19,4/1/68,,0
+33,Ron Barnes,Brazil,BRA,0,33,4/1/68,0,0
+34,Istvan Gulyas,Hungary,HUN,0,30,4/1/68,-4,0
+35,Juan Gisbert,Spain,ESP,0,29,4/1/68,,0
+36,Rafael Osuna,Mexico,MEX,0,36,4/1/68,3,0
+37,Pierre Darmon,France,FRA,0,36,4/1/68,-1,0
+38,Alejandro Olmedo,Peru,PER,0,37,4/1/68,-1,0
+39,Dick Crealy,Australia,AUS,0,19,4/1/68,11,0
+40,Gene Scott,United States,USA,0,37,4/1/68,-2,0
+41,Lew Hoad,Australia,AUS,0,26,4/1/68,1,0
+42,Ion Tiriac,Romania,ROU,0,23,4/1/68,-8,0
+43,Pancho Segura,Ecuador,ECU,0,43,4/1/68,3,0
+44,Richard Pancho Gonzales,United States,USA,0,5,4/1/68,-16,0
+45,Mike Belkin,Canada,CAN,0,42,4/1/68,,0
+46,Ken Fletcher,Australia,AUS,0,44,4/1/68,-2,0
+47,Edison Mandarino,Brazil,BRA,0,35,4/1/68,-12,0
+48,Bobby Wilson,Unknown,???,0,45,4/1/68,,0
+49,Nicola Pietrangeli,Italy,ITA,0,40,4/1/68,-9,0
+50,Alex Metreveli,Russian Federation,RUS,0,9,4/1/68,-5,0

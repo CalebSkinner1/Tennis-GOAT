@@ -1,0 +1,272 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,Bjorn Borg,Sweden,SWE,2511,1,12/21/81,0,0,2622
+2,John McEnroe,United States,USA,2451,1,12/21/81,0,0,2583
+3,Ivan Lendl,United States,USA,2378,1,12/21/81,0,0,2518
+4,Jimmy Connors,United States,USA,2359,1,12/21/81,0,-1,2521
+5,Jose Luis Clerc,Argentina,ARG,2259,5,12/21/81,0,0,2297
+6,Gene Mayer,United States,USA,2237,4,12/21/81,0,0,2303
+7,Guillermo Vilas,Argentina,ARG,2235,2,12/21/81,0,0,2431
+8,Vitas Gerulaitis,United States,USA,2183,3,12/21/81,0,0,2335
+9,Eliot Teltscher,United States,USA,2183,7,12/21/81,0,0,2200
+10,Sandy Mayer,United States,USA,2151,8,12/21/81,0,0,2178
+11,Eddie Dibbs,United States,USA,2130,5,12/21/81,1,0,2282
+12,Brian Teacher,United States,USA,2125,10,12/21/81,1,0,2133
+13,Roscoe Tanner,United States,USA,2121,5,12/21/81,-2,-12,2261
+14,Brian Gottfried,United States,USA,2118,3,12/21/81,1,0,2324
+15,Peter Mcnamara,Australia,AUS,2113,8,12/21/81,-1,-12,2168
+16,Balazs Taroczy,Hungary,HUN,2104,12,12/21/81,1,0,2124
+17,Yannick Noah,France,FRA,2098,4,12/21/81,-1,-11,2268
+18,Vijay Amritraj,India,IND,2075,13,12/21/81,0,0,2124
+19,Raul Ramirez,Mexico,MEX,2062,5,12/21/81,0,0,2249
+20,Mel Purcell,United States,USA,2058,17,12/21/81,1,0,2088
+21,Johan Kriek,United States,USA,2053,7,12/21/81,-1,-8,2169
+22,Wojtek Fibak,Poland,POL,2053,9,12/21/81,0,0,2180
+23,Tomas Smid,Czech Republic,CZE,2050,9,12/21/81,0,0,2133
+24,Stan Smith,United States,USA,2049,1,12/21/81,0,0,2381
+25,Victor Pecci,Paraguay,PAR,2043,8,12/21/81,0,0,2181
+26,Hans Gildemeister,Chile,CHI,2031,13,12/21/81,0,0,2104
+27,Manuel Orantes,Spain,ESP,2029,4,12/21/81,0,0,2290
+28,Andres Gomez,Ecuador,ECU,2029,5,12/21/81,0,0,2223
+29,Harold Solomon,United States,USA,2027,5,12/21/81,0,0,2256
+30,Mark Edmondson,Australia,AUS,2015,26,12/21/81,1,6,2050
+31,Bill Scanlon,United States,USA,2010,13,12/21/81,-1,0,2122
+32,Tim Gullikson,United States,USA,2001,15,12/21/81,0,0,2113
+33,Adriano Panatta,Italy,ITA,2000,5,12/21/81,0,0,2241
+34,Hank Pfister,United States,USA,1995,21,12/21/81,1,5,2060
+35,Shlomo Glickstein,Israel,ISR,1993,34,12/21/81,-1,-2,1995
+36,Carlos Kirmayr,Brazil,BRA,1982,31,12/21/81,1,0,2010
+37,Chris Lewis Nzl,New Zealand,NZL,1980,31,12/21/81,8,14,2000
+38,Vincent Van Patten,United States,USA,1979,37,12/21/81,1,0,1984
+39,Buster C Mottram,United Kingdom,GBR,1977,21,12/21/81,1,0,2068
+40,Heinz Gunthardt,Switzerland,SUI,1976,24,12/21/81,1,0,2075
+41,John Sadri,United States,USA,1976,18,12/21/81,-5,-7,2080
+42,Corrado Barazzutti,Italy,ITA,1971,13,12/21/81,1,0,2142
+43,Pat Dupre,United States,USA,1971,15,12/21/81,-5,-8,2094
+44,Jose Higueras,Spain,ESP,1968,7,12/21/81,0,0,2210
+45,Robert Lutz,United States,USA,1965,11,12/21/81,2,0,2134
+46,Victor Amaya,United States,USA,1960,15,12/21/81,2,0,2108
+47,Paul Mcnamee,Australia,AUS,1959,25,12/21/81,-5,-12,2032
+48,Fritz Buehning,United States,USA,1959,32,12/21/81,-2,-6,2003
+49,Peter Fleming,United States,USA,1952,9,12/21/81,1,0,2148
+50,Bruce Manson,United States,USA,1951,44,12/21/81,1,0,1963
+51,Terry Moor,United States,USA,1949,29,12/21/81,1,0,2035
+52,Kevin Curren,United States,USA,1949,5,12/21/81,-3,-3,2162
+53,Rolf Gehring,Germany,GER,1944,46,12/21/81,0,0,1964
+54,Ramesh Krishnan,India,IND,1935,19,12/21/81,1,0,2032
+55,Tim Wilkison,United States,USA,1932,18,12/21/81,30,61,2036
+56,Dick Stockton,United States,USA,1932,7,12/21/81,0,0,2212
+57,Ilie Nastase,Romania,ROU,1929,1,12/21/81,0,0,2363
+58,Phil Dent,Australia,AUS,1928,24,12/21/81,5,12,2075
+59,Tim Mayotte,United States,USA,1926,7,12/21/81,-5,-13,2179
+60,Jeff Borowiak,United States,USA,1925,24,12/21/81,-2,0,2079
+61,Mario Martinez,"Bolivia, Plurinational State of",BOL,1923,45,12/21/81,-2,0,1950
+62,Tom Gullikson,United States,USA,1922,35,12/21/81,-2,0,1965
+63,Jose Luis Damiani,Uruguay,URU,1918,54,12/21/81,-2,0,1936
+64,Butch Walts,United States,USA,1917,29,12/21/81,-2,0,2039
+65,Pedro Rebolledo,Chile,CHI,1910,52,12/21/81,1,0,1946
+66,Ulrich Pinner,Germany,GER,1908,31,12/21/81,1,0,2031
+67,Pascal Portes,France,FRA,1903,43,12/21/81,1,0,1983
+68,John Alexander,Australia,AUS,1902,10,12/21/81,15,27,2159
+69,Gianni Ocleppo,Italy,ITA,1900,44,12/21/81,-5,-14,1958
+70,John Austin,United States,USA,1900,64,12/21/81,-1,0,1917
+71,Kim Warwick,Australia,AUS,1898,28,12/21/81,-6,-15,2040
+72,Pavel Slozil,Czech Republic,CZE,1896,46,12/21/81,-2,0,1930
+73,Marty Riessen,United States,USA,1895,1,12/21/81,-1,-1,2223
+74,Rod Frawley,Australia,AUS,1892,51,12/21/81,1,2,1951
+75,Jose Lopez Maeso,Spain,ESP,1892,74,12/21/81,-1,0,1892
+76,Paolo Bertolucci,Italy,ITA,1888,27,12/21/81,0,0,2052
+77,Van Winitsky,United States,USA,1885,39,12/21/81,0,0,1986
+78,Andrew Pattison,United States,USA,1883,21,12/21/81,0,0,2060
+79,Thierry Tulasne,France,FRA,1883,14,12/21/81,-8,-13,2067
+80,Fernando Luna,Spain,ESP,1879,51,12/21/81,1,0,1934
+81,Peter Elter,Germany,GER,1877,56,12/21/81,1,0,1930
+82,John Fitzgerald,Australia,AUS,1876,27,12/21/81,-9,-16,2011
+83,Ricardo Cano,Argentina,ARG,1873,50,12/21/81,1,0,1943
+84,David Carter,Australia,AUS,1871,77,12/21/81,-5,-9,1880
+85,Peter Rennert,United States,USA,1870,68,12/21/81,-5,-10,1900
+86,Nick Saviano,United States,USA,1869,52,12/21/81,0,0,1937
+87,Tony Giammalva,United States,USA,1856,76,12/21/81,0,0,1889
+88,Robert Vant Hof,United States,USA,1856,35,12/21/81,1,0,1984
+89,Angel Gimenez,Spain,ESP,1852,66,12/21/81,1,0,1912
+90,Tom Okker,Netherlands,NED,1852,1,12/21/81,2,0,2317
+91,Francisco Gonzalez,Paraguay,PAR,1852,58,12/21/81,2,0,1912
+92,Trey Waltke,United States,USA,1852,53,12/21/81,2,0,1939
+93,Mats Wilander,Sweden,SWE,1849,2,12/21/81,-5,-7,2371
+94,Sammy Giammalva Jr,United States,USA,1847,33,12/21/81,1,0,1966
+95,Kjell Johansson,Sweden,SWE,1845,42,12/21/81,1,0,1961
+96,Zeljko Franulovic,Croatia,CRO,1844,13,12/21/81,1,0,2126
+97,Steve Krulevitz,United States,USA,1842,65,12/21/81,1,0,1904
+98,Jaime Fillol,Chile,CHI,1841,12,12/21/81,1,0,2145
+99,Stanislav Birner,Czech Republic,CZE,1839,83,12/21/81,2,0,1879
+100,John Lloyd,United Kingdom,GBR,1838,26,12/21/81,2,0,2027
+101,Diego Perez,Uruguay,URU,1836,31,12/21/81,2,0,1963
+102,Per Hjertquist,Sweden,SWE,1835,61,12/21/81,-11,-17,1920
+103,Mark Cox,United Kingdom,GBR,1834,14,12/21/81,2,0,2132
+104,Gilles Moretton,France,FRA,1834,77,12/21/81,2,0,1877
+105,Ricardo Ycaza,Ecuador,ECU,1832,78,12/21/81,2,0,1881
+106,Mark Vines,United States,USA,1832,102,12/21/81,2,0,1832
+107,Joakim Nystrom,Sweden,SWE,1831,5,12/21/81,-7,-9,2242
+108,Steve Denton,United States,USA,1829,16,12/21/81,22,39,2093
+109,Richard Meyer,United States,USA,1825,89,12/21/81,57,81,1852
+110,Anders Jarryd,Sweden,SWE,1824,6,12/21/81,1,7,2182
+111,Russell Simpson,New Zealand,NZL,1821,56,12/21/81,-2,-7,1925
+112,Christophe Roger Vasselin,France,FRA,1820,69,12/21/81,-8,-14,1899
+113,Bernard Mitton,South Africa,RSA,1817,46,12/21/81,-3,0,1962
+114,Chris Johnstone,Australia,AUS,1816,114,12/21/81,31,53,1816
+115,Colin Dibley,Australia,AUS,1815,32,12/21/81,-3,0,1984
+116,Mike Cahill,United States,USA,1814,77,12/21/81,-3,0,1875
+117,Erik Van Dillen,United States,USA,1813,34,12/21/81,-3,0,1976
+118,Andreas Maurer,Germany,GER,1812,37,12/21/81,-3,0,1960
+119,Jimmy Arias,United States,USA,1808,6,12/21/81,-3,0,2157
+120,Vadim Borisov,Russian Federation,RUS,1807,114,12/21/81,-3,0,1807
+121,Patrice Dominguez,France,FRA,1806,44,12/21/81,-3,0,1957
+122,John Austin,Ireland,IRL,1801,114,12/21/81,-2,0,1806
+123,Karl Meiler,Germany,GER,1799,34,12/21/81,0,2,2015
+124,Tom Leonard,United States,USA,1796,67,12/21/81,0,0,1895
+125,Jairo Velasco,Spain,ESP,1792,76,12/21/81,0,0,1867
+126,Roland Stadler,Switzerland,SUI,1791,90,12/21/81,-4,-6,1846
+127,Marko Ostoja,Croatia,CRO,1791,86,12/21/81,0,0,1862
+128,Haroon Ismail,Zimbabwe,ZIM,1791,116,12/21/81,0,0,1803
+129,Marty Davis,United States,USA,1790,34,12/21/81,-8,-9,1959
+130,Matt Doyle,United States,USA,1790,48,12/21/81,-1,0,1932
+131,Raymond Moore,South Africa,RSA,1788,33,12/21/81,0,0,1995
+132,Jay Lapidus,United States,USA,1787,55,12/21/81,0,0,1916
+133,Brad Drewett,Australia,AUS,1787,58,12/21/81,-14,-17,1905
+134,Richard Lewis,United Kingdom,GBR,1786,100,12/21/81,-1,0,1829
+135,Jun Kuki,Japan,JPN,1782,81,12/21/81,0,0,1846
+136,Jonathan Smith,United Kingdom,GBR,1780,136,12/21/81,32,38,1780
+137,Paul Kronk,Australia,AUS,1779,80,12/21/81,-11,-12,1857
+138,Rick Fagel,United States,USA,1779,111,12/21/81,-2,0,1800
+139,Heinz Gildemeister,Chile,CHI,1776,109,12/21/81,-2,0,1803
+140,Ferdi Taygan,United States,USA,1776,69,12/21/81,-2,0,1891
+141,Paul Torre,France,FRA,1772,112,12/21/81,7,13,1811
+142,Gabriel Urpi,Spain,ESP,1771,131,12/21/81,-3,0,1788
+143,Jiri Granat,Czech Republic,CZE,1770,97,12/21/81,-9,-16,1832
+144,Tony Graham,United States,USA,1770,114,12/21/81,-4,0,1808
+145,Jean Francois Caujolle,France,FRA,1767,79,12/21/81,-3,0,1869
+146,Florin Segarceanu,Romania,ROU,1766,70,12/21/81,24,26,1884
+147,Sherwood Stewart,United States,USA,1765,63,12/21/81,-4,0,1907
+148,Leo Palin,Finland,FIN,1764,132,12/21/81,54,59,1789
+149,Belus Prajoux,Chile,CHI,1763,65,12/21/81,-5,0,1893
+150,Klaus Eberhard,Germany,GER,1761,105,12/21/81,-4,0,1816
+151,Werner Zirngibl,Germany,GER,1761,106,12/21/81,-4,0,1816
+152,Bernard Boileau,Belgium,BEL,1759,84,12/21/81,-3,0,1864
+153,Antonio Zugarelli,Italy,ITA,1757,51,12/21/81,-3,0,1940
+154,Jan Norback,Sweden,SWE,1755,97,12/21/81,-2,0,1840
+155,Patrick Proisy,France,FRA,1755,32,12/21/81,-2,0,1972
+156,Chris Delaney,United States,USA,1754,91,12/21/81,-1,0,1844
+157,Ivan Dupasquier,Switzerland,SUI,1754,141,12/21/81,-16,-14,1768
+158,Billy Martin,United States,USA,1753,47,12/21/81,-1,0,1957
+159,Pablo Arraya,Peru,PER,1753,37,12/21/81,-1,0,1961
+160,Thomaz Koch,Brazil,BRA,1752,23,12/21/81,-1,0,2031
+161,Eric Deblicker,France,FRA,1751,68,12/21/81,0,0,1880
+162,Fernando Dalla Fontana,Argentina,ARG,1747,160,12/21/81,2,0,1748
+163,Charlie Fancutt,Australia,AUS,1746,139,12/21/81,-7,-8,1783
+164,Marcos Hocevar,Brazil,BRA,1745,42,12/21/81,1,0,1953
+165,Dave Siegler,United States,USA,1744,152,12/21/81,-5,-7,1754
+166,Ben Testerman,United States,USA,1743,41,12/21/81,1,0,1947
+167,Onny Parun,New Zealand,NZL,1742,16,12/21/81,-5,-6,2097
+168,Carlos Castellan,Argentina,ARG,1741,123,12/21/81,1,0,1800
+169,Jerome Potier,France,FRA,1741,84,12/21/81,-15,-14,1857
+170,Pavel Hutka,Czech Republic,CZE,1739,103,12/21/81,1,-1,1814
+171,Bernard Fritz,France,FRA,1739,89,12/21/81,1,0,1857
+172,Ismail El Shafei,Egypt,EGY,1738,27,12/21/81,-21,-18,2013
+173,Jim Gurfein,United States,USA,1737,100,12/21/81,-10,-11,1847
+174,Christophe Freyss,France,FRA,1736,83,12/21/81,-1,0,1861
+175,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,1734,138,12/21/81,-1,0,1752
+176,Steve Docherty,Australia,AUS,1732,111,12/21/81,0,0,1814
+177,Hans Kary,Austria,AUT,1730,60,12/21/81,0,0,1917
+178,Rodney Harmon,United States,USA,1730,55,12/21/81,0,0,1908
+179,Hans Dieter Beutel,Germany,GER,1729,154,12/21/81,56,61,1781
+180,Dominique Bedel,France,FRA,1729,87,12/21/81,-1,0,1846
+181,George Hardie,United States,USA,1728,112,12/21/81,-1,0,1808
+182,Lloyd Bourne,United States,USA,1728,64,12/21/81,46,53,1906
+183,Peter Feigl,Austria,AUT,1728,47,12/21/81,-2,0,1959
+184,Dale Collings,Australia,AUS,1726,145,12/21/81,-2,0,1763
+185,Tenny Svensson,Sweden,SWE,1724,122,12/21/81,-2,-1,1765
+186,Claudio Panatta,Italy,ITA,1721,62,12/21/81,2,0,1898
+187,Hans Simonsson,Sweden,SWE,1720,96,12/21/81,-2,-4,1850
+188,Jiri Hrebec,Czech Republic,CZE,1720,28,12/21/81,1,0,2013
+189,Chris Mayotte,United States,USA,1719,144,12/21/81,8,8,1770
+190,Tsuyoshi Fukui,Japan,JPN,1719,113,12/21/81,1,0,1818
+191,Stefan Simonsson,Sweden,SWE,1719,48,12/21/81,-16,-15,1930
+192,Brad Gilbert,United States,USA,1718,5,12/21/81,0,0,2210
+193,Jan Kodes,Czech Republic,CZE,1716,6,12/21/81,0,0,2197
+194,Alejandro Ganzabal,Argentina,ARG,1716,105,12/21/81,0,0,1828
+195,Mike Estep,United States,USA,1716,71,12/21/81,3,7,1887
+196,Christoph Zipf,Germany,GER,1715,139,12/21/81,24,30,1798
+197,Erick Iskersky,United States,USA,1713,96,12/21/81,-2,0,1840
+198,Eddie Edwards,South Africa,RSA,1713,64,12/21/81,-8,-7,1896
+199,Andrei Dirzu,Romania,ROU,1712,189,12/21/81,-3,0,1713
+200,Chris Dunk,United States,USA,1712,165,12/21/81,-14,-11,1746
+201,Syd Ball,Australia,AUS,1708,76,12/21/81,-17,-16,1861
+202,Deon Joubert,South Africa,RSA,1707,109,12/21/81,-2,0,1810
+203,Jan Gunnarsson,Sweden,SWE,1705,26,12/21/81,-2,0,1979
+204,Louk Sanders,Netherlands,NED,1704,101,12/21/81,-17,-18,1824
+205,Matt Mitchell,United States,USA,1703,70,12/21/81,-1,0,1890
+206,Ricardo Acuna,Chile,CHI,1702,73,12/21/81,-1,0,1887
+207,Wayne Pascoe,Australia,AUS,1701,167,12/21/81,-1,0,1740
+208,John Hayes,United States,USA,1700,136,12/21/81,-1,0,1780
+209,Larry Stefanki,United States,USA,1699,63,12/21/81,-1,0,1895
+210,Alejandro Pierola,Chile,CHI,1699,140,12/21/81,-1,0,1764
+211,Scott Mccain,United States,USA,1698,144,12/21/81,-8,-6,1792
+212,Warren Maher,Australia,AUS,1697,144,12/21/81,-2,0,1766
+214,Robbie Venter,South Africa,RSA,1697,188,12/21/81,-2,0,1714
+215,Scott Davis,United States,USA,1696,17,12/21/81,-1,0,2052
+216,Geoff Masters,Australia,AUS,1694,35,12/21/81,-1,0,1997
+217,Walter Redondo,United States,USA,1693,188,12/21/81,-1,0,1708
+218,Robert Machan,Hungary,HUN,1693,123,12/21/81,-1,0,1757
+219,Bernard Balleret,Monaco,MON,1691,183,12/21/81,-1,0,1716
+220,Drew Gitlin,United States,USA,1689,102,12/21/81,-7,-7,1844
+221,Sashi Menon,India,IND,1685,91,12/21/81,-2,0,1833
+222,Jim Delaney,United States,USA,1683,82,12/21/81,11,15,1849
+223,Alvaro Fillol,Chile,CHI,1681,140,12/21/81,-2,0,1757
+224,Guillermo Aubone,Argentina,ARG,1681,152,12/21/81,-2,0,1759
+225,John Feaver,United Kingdom,GBR,1680,103,12/21/81,-2,0,1818
+227,Craig Wittus,United States,USA,1679,130,12/21/81,-28,-29,1790
+228,Henri Leconte,France,FRA,1678,7,12/21/81,,,2187
+229,Ben Mckown,United States,USA,1678,190,12/21/81,-3,0,1708
+230,Roberto Vizcaino,Spain,ESP,1677,141,12/21/81,-3,-1,1770
+231,Bojidar Pampoulov,Bulgaria,BUL,1677,172,12/21/81,,,1707
+233,Rory Chappell,South Africa,RSA,1675,195,12/21/81,-3,0,1708
+234,Joel Bailey,United States,USA,1669,167,12/21/81,-3,0,1733
+235,Wayne Hampson,Australia,AUS,1668,194,12/21/81,25,40,1718
+236,Michael Grant,United States,USA,1668,155,12/21/81,-2,0,1751
+237,Anand Amritraj,India,IND,1666,75,12/21/81,-1,0,1860
+238,Alejandro Cortes,Colombia,COL,1664,155,12/21/81,-1,0,1762
+239,Cassio Motta,Brazil,BRA,1664,62,12/21/81,-1,0,1897
+240,Eric Fromm,United States,USA,1662,49,12/21/81,-1,0,1939
+241,Brad Guan,Australia,AUS,1662,217,12/21/81,-9,-7,1691
+242,Juan Nunez,Chile,CHI,1660,163,12/21/81,-2,0,1744
+243,Ross Case,Australia,AUS,1658,23,12/21/81,-2,0,2070
+244,Tarek El Sakka,Egypt,EGY,1658,180,12/21/81,-2,0,1734
+245,Gregoire Rafaitin,France,FRA,1656,222,12/21/81,-2,0,1682
+248,Damir Keretic,Germany,GER,1654,53,12/21/81,-23,-25,1911
+249,Craig A Miller,Australia,AUS,1651,153,12/21/81,27,75,1765
+251,Christophe Casa,France,FRA,1648,186,12/21/81,-4,0,1719
+252,Eduardo Bengoechea,Argentina,ARG,1648,41,12/21/81,-4,0,1943
+253,Jeff Simpson,New Zealand,NZL,1647,113,12/21/81,-4,0,1780
+254,Cliff Letcher,Australia,AUS,1647,99,12/21/81,-4,0,1825
+256,Robert Reininger,Austria,AUT,1646,200,12/21/81,-4,0,1719
+257,Robin Drysdale,United Kingdom,GBR,1645,114,12/21/81,-4,0,1809
+259,John Yuill,South Africa,RSA,1640,68,12/21/81,-4,0,1878
+260,Raul Antonio Viver,Ecuador,ECU,1636,120,12/21/81,-4,0,1804
+261,Marcel Freeman,United States,USA,1635,76,12/21/81,-4,0,1878
+262,Glen Holroyd,United States,USA,1631,256,12/21/81,-4,0,1633
+263,Wolfgang Popp,Germany,GER,1629,119,12/21/81,-4,0,1803
+264,Mike Fishbach,United States,USA,1621,122,12/21/81,-1,0,1791
+265,John James,Australia,AUS,1621,86,12/21/81,-1,0,1855
+267,Javier Restrepo,Colombia,COL,1612,244,12/21/81,0,0,1647
+268,Tom Cain,United States,USA,1611,118,12/21/81,0,0,1815
+269,Gustavo Guerrero,Argentina,ARG,1608,200,12/21/81,0,0,1698
+271,Ulrich Marten,Germany,GER,1598,158,12/21/81,0,0,1757
+272,Georges Goven,France,FRA,1594,28,12/21/81,0,0,2005
+273,Greg Whitecross,Australia,AUS,1594,226,12/21/81,-12,-31,1681
+274,Ron Hightower,United States,USA,1591,218,12/21/81,-12,-31,1672
+276,Steve Meister,United States,USA,1585,85,12/21/81,-10,-28,1855
+277,Bill Maze,United States,USA,1584,164,12/21/81,-4,0,1739
+281,Joao Soares,Brazil,BRA,1560,123,12/21/81,-1,0,1806
+282,Jorge Andrew,"Venezuela, Bolivarian Republic of",VEN,1558,107,12/21/81,-1,0,1814
+283,Rick Fisher,United States,USA,1547,138,12/21/81,-1,0,1766
+285,Jean Louis Haillet,France,FRA,1537,94,12/21/81,-11,-44,1836
+286,David Schneider,United States,USA,1530,112,12/21/81,-1,0,1802

@@ -1,0 +1,103 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,John McEnroe,United States,USA,0,1,8/23/82,0,1506
+2,Jimmy Connors,United States,USA,0,1,8/23/82,0,875
+3,Ivan Lendl,United States,USA,0,1,8/23/82,1,3420
+4,Guillermo Vilas,Argentina,ARG,0,2,8/23/82,-1,47
+5,Vitas Gerulaitis,United States,USA,0,3,8/23/82,0,0
+6,Gene Mayer,United States,USA,0,4,8/23/82,0,6
+7,Jose Luis Clerc,Argentina,ARG,0,4,8/23/82,0,20
+8,Jose Higueras,Spain,ESP,0,6,8/23/82,0,0
+9,Eliot Teltscher,United States,USA,0,6,8/23/82,2,15
+10,Yannick Noah,France,FRA,0,3,8/23/82,4,1079
+11,Peter Mcnamara,Australia,AUS,0,7,8/23/82,1,0
+12,Sandy Mayer,United States,USA,0,7,8/23/82,-3,0
+13,Johan Kriek,United States,USA,0,7,8/23/82,-3,268
+14,Mats Wilander,Sweden,SWE,0,1,8/23/82,-1,1075
+15,Steve Denton,United States,USA,0,12,8/23/82,4,0
+16,Mark Edmondson,Australia,AUS,0,15,8/23/82,-1,0
+17,Andres Gomez,Ecuador,ECU,0,4,8/23/82,-1,2005
+18,Brian Teacher,United States,USA,0,7,8/23/82,-1,0
+19,Bjorn Borg,Sweden,SWE,0,1,8/23/82,1,10
+20,Buster C Mottram,United Kingdom,GBR,0,15,8/23/82,1,0
+21,Raul Ramirez,Mexico,MEX,0,4,8/23/82,-3,0
+22,Balazs Taroczy,Hungary,HUN,0,12,8/23/82,2,0
+23,Tomas Smid,Czech Republic,CZE,0,11,8/23/82,3,28
+24,Roscoe Tanner,United States,USA,0,4,8/23/82,-1,0
+25,Brian Gottfried,United States,USA,0,3,8/23/82,4,0
+26,Mel Purcell,United States,USA,0,21,8/23/82,-4,21
+27,Chip Hooper,United States,USA,0,17,8/23/82,-2,0
+28,Tim Mayotte,United States,USA,0,7,8/23/82,-1,1274
+29,Manuel Orantes,Spain,ESP,0,2,8/23/82,1,0
+30,Kevin Curren,United States,USA,0,5,8/23/82,1,684
+31,Jimmy Arias,United States,USA,0,5,8/23/82,3,587
+31,Hank Pfister,United States,USA,0,19,8/23/82,1,0
+33,Eddie Dibbs,United States,USA,0,5,8/23/82,0,0
+34,Shlomo Glickstein,Israel,ISR,0,22,8/23/82,2,0
+35,Vincent Van Patten,United States,USA,0,26,8/23/82,0,0
+36,John Sadri,United States,USA,0,14,8/23/82,2,0
+37,Chris Lewis Nzl,New Zealand,NZL,0,19,8/23/82,-9,8
+38,Bill Scanlon,United States,USA,0,9,8/23/82,-1,56
+39,Van Winitsky,United States,USA,0,35,8/23/82,1,0
+40,Mark Dickson,United States,USA,0,32,8/23/82,22,0
+41,Wojtek Fibak,Poland,POL,0,10,8/23/82,1,0
+42,John Alexander,Australia,AUS,0,8,8/23/82,1,0
+43,Pablo Arraya,Peru,PER,0,29,8/23/82,-2,348
+44,Bruce Manson,United States,USA,0,39,8/23/82,-5,0
+45,Pavel Slozil,Czech Republic,CZE,0,12,8/23/82,-1,0
+46,Heinz Gunthardt,Switzerland,SUI,0,22,8/23/82,-1,0
+47,Hans Gildemeister,Chile,CHI,0,12,8/23/82,-1,0
+48,Phil Dent,Australia,AUS,0,17,8/23/82,-1,0
+49,Pat Dupre,United States,USA,0,14,8/23/82,2,0
+50,Pedro Rebolledo,Chile,CHI,0,36,8/23/82,-2,335
+51,Henri Leconte,France,FRA,0,5,8/23/82,7,948
+52,Peter Elter,Germany,GER,0,51,8/23/82,1,0
+53,Paul Mcnamee,Australia,AUS,0,24,8/23/82,1,0
+53,Ramesh Krishnan,India,IND,0,23,8/23/82,2,471
+55,Kim Warwick,Australia,AUS,0,15,8/23/82,-5,15
+56,Fritz Buehning,United States,USA,0,21,8/23/82,-4,0
+57,Andreas Maurer,Germany,GER,0,24,8/23/82,2,12
+58,Corrado Barazzutti,Italy,ITA,0,7,8/23/82,-2,0
+59,Marcos Hocevar,Brazil,BRA,0,30,8/23/82,2,23
+60,Robert Vant Hof,United States,USA,0,25,8/23/82,0,103
+61,Tim Wilkison,United States,USA,0,23,8/23/82,4,269
+62,Fernando Luna,Spain,ESP,0,33,8/23/82,-6,310
+63,Dominique Bedel,France,FRA,0,41,8/23/82,1,0
+64,Jeff Borowiak,United States,USA,0,20,8/23/82,-1,0
+65,Eric Fromm,United States,USA,0,46,8/23/82,9,0
+66,Tim Gullikson,United States,USA,0,15,8/23/82,0,0
+67,Cassio Motta,Brazil,BRA,0,48,8/23/82,6,352
+67,Russell Simpson,New Zealand,NZL,0,47,8/23/82,1,0
+69,Claudio Panatta,Italy,ITA,0,46,8/23/82,2,18
+70,Victor Amaya,United States,USA,0,15,8/23/82,0,0
+71,Victor Pecci,Paraguay,PAR,0,9,8/23/82,-2,0
+72,Nduka Odizor,Nigeria,NGR,0,52,8/23/82,-5,186
+73,Jay Lapidus,United States,USA,0,34,8/23/82,,0
+74,Joao Soares,Brazil,BRA,0,74,8/23/82,3,0
+75,Rod Frawley,Australia,AUS,0,43,8/23/82,1,0
+76,Mike Estep,United States,USA,0,59,8/23/82,2,0
+76,Lloyd Bourne,United States,USA,0,71,8/23/82,-1,0
+78,Mike Cahill,United States,USA,0,58,8/23/82,-6,0
+79,Alejandro Ganzabal,Argentina,ARG,0,58,8/23/82,1,0
+80,Tom Gullikson,United States,USA,0,34,8/23/82,,0
+80,Anders Jarryd,Sweden,SWE,0,5,8/23/82,-1,957
+80,Chris Johnstone,Australia,AUS,0,70,8/23/82,13,0
+80,Peter Rennert,United States,USA,0,40,8/23/82,2,0
+84,Nick Saviano,United States,USA,0,48,8/23/82,0,0
+85,Jose Garcia Requena,Spain,ESP,0,66,8/23/82,0,0
+85,Florin Segarceanu,Romania,ROU,0,73,8/23/82,0,91
+87,Jose Lopez Maeso,Spain,ESP,0,63,8/23/82,-6,66
+88,Vijay Amritraj,India,IND,0,18,8/23/82,-1,69
+89,Stan Smith,United States,USA,0,2,8/23/82,-40,0
+90,Erick Iskersky,United States,USA,0,64,8/23/82,-1,0
+91,Terry Moor,United States,USA,0,32,8/23/82,9,0
+92,Jose Luis Damiani,Uruguay,URU,0,32,8/23/82,-2,0
+93,Stefan Simonsson,Sweden,SWE,0,48,8/23/82,-5,0
+93,Danie Visser,South Africa,RSA,0,59,8/23/82,4,191
+93,Richard Lewis,United Kingdom,GBR,0,77,8/23/82,-2,0
+96,Harold Solomon,United States,USA,0,5,8/23/82,-1,2
+97,Ilie Nastase,Romania,ROU,0,1,8/23/82,-5,0
+98,Carlos Kirmayr,Brazil,BRA,0,36,8/23/82,1,0
+99,Joakim Nystrom,Sweden,SWE,0,7,8/23/82,-1,54
+99,Givaldo Barbosa,Brazil,BRA,0,78,8/23/82,,71
+99,Guy Forget,France,FRA,0,4,8/23/82,,2392
+99,Leo Palin,Finland,FIN,0,92,8/23/82,-3,0

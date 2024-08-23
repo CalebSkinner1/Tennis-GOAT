@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,3/31/69,0,0
+2,Ken Rosewall,Australia,AUS,0,1,3/31/69,0,0
+3,Tony Roche,Australia,AUS,0,2,3/31/69,2,0
+4,John Newcombe,Australia,AUS,0,1,3/31/69,0,0
+5,Arthur Ashe,United States,USA,0,2,3/31/69,-2,0
+6,Andres Gimeno,Spain,ESP,0,3,3/31/69,4,0
+7,Tom Okker,Netherlands,NED,0,3,3/31/69,-1,0
+8,Roy Emerson,Australia,AUS,0,4,3/31/69,0,0
+9,Richard Pancho Gonzales,United States,USA,0,5,3/31/69,2,0
+10,Clark Graebner,United States,USA,0,7,3/31/69,-3,0
+11,Fred Stolle,Australia,AUS,0,7,3/31/69,3,0
+12,Cliff Drysdale,South Africa,RSA,0,9,3/31/69,-3,0
+13,Earl Butch Buchholz,United States,USA,0,9,3/31/69,0,0
+14,Marty Riessen,United States,USA,0,8,3/31/69,2,0
+15,Dennis Ralston,United States,USA,0,7,3/31/69,-3,0
+16,Nikola Pilic,Croatia,CRO,0,10,3/31/69,-1,0
+17,Bob Hewitt,South Africa,RSA,0,16,3/31/69,3,0
+18,Stan Smith,United States,USA,0,2,3/31/69,1,0
+19,Mark Cox,United Kingdom,GBR,0,12,3/31/69,3,0
+20,Raymond Moore,South Africa,RSA,0,20,3/31/69,13,0
+21,Martin Mulligan,Australia,AUS,0,12,3/31/69,4,0
+22,Ray Ruffels,Australia,AUS,0,21,3/31/69,5,0
+23,Roger Taylor,United Kingdom,GBR,0,9,3/31/69,0,0
+24,Ion Tiriac,Romania,ROU,0,23,3/31/69,0,0
+25,Cliff Richey,United States,USA,0,4,3/31/69,-7,0
+26,Pierre Barthes,France,FRA,0,15,3/31/69,-5,0
+27,Thomaz Koch,Brazil,BRA,0,16,3/31/69,15,0
+28,Charlie Pasarell,United States,USA,0,15,3/31/69,3,0
+29,Bill Bowrey,Australia,AUS,0,10,3/31/69,-12,0
+30,Manuel Santana,Spain,ESP,0,12,3/31/69,-4,0
+31,Mal Anderson,Australia,AUS,0,21,3/31/69,10,0
+32,Robert Lutz,United States,USA,0,11,3/31/69,0,0
+33,Alex Metreveli,Russian Federation,RUS,0,9,3/31/69,-5,0
+34,Jan Kodes,Czech Republic,CZE,0,5,3/31/69,,14
+35,Ron Holmberg,United States,USA,0,33,3/31/69,3,0
+36,Istvan Gulyas,Hungary,HUN,0,30,3/31/69,0,0
+37,Ilie Nastase,Romania,ROU,0,1,3/31/69,,0
+38,Allan Stone,Australia,AUS,0,30,3/31/69,5,0
+39,Boro Jovanovic,Croatia,CRO,0,37,3/31/69,-2,0
+40,Zeljko Franulovic,Croatia,CRO,0,11,3/31/69,,0
+41,Jim Mcmanus,United States,USA,0,41,3/31/69,7,0
+42,Herb Fitzgibbon,United States,USA,0,39,3/31/69,-3,0
+43,Edison Mandarino,Brazil,BRA,0,35,3/31/69,4,0
+44,Torben Ulrich,Denmark,DEN,0,38,3/31/69,1,0
+45,Dick Crealy,Australia,AUS,0,19,3/31/69,-5,0
+46,Joaquin Loyo Mayo,Mexico,MEX,0,46,3/31/69,4,0
+47,Robert Maud,South Africa,RSA,0,35,3/31/69,-12,0
+48,Gerald Battrick,United Kingdom,GBR,0,28,3/31/69,,0
+49,Barry Phillips Moore,Australia,AUS,0,19,3/31/69,-20,0
+50,Manuel Orantes,Spain,ESP,0,2,3/31/69,-4,0

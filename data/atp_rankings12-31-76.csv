@@ -1,0 +1,393 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,12/31/76,0,875
+2,Bjorn Borg,Sweden,SWE,0,1,12/31/76,0,10
+3,Ilie Nastase,Romania,ROU,0,1,12/31/76,0,0
+4,Manuel Orantes,Spain,ESP,0,2,12/31/76,0,0
+5,Raul Ramirez,Mexico,MEX,0,4,12/31/76,0,0
+6,Guillermo Vilas,Argentina,ARG,0,2,12/31/76,0,47
+7,Adriano Panatta,Italy,ITA,0,4,12/31/76,0,0
+8,Harold Solomon,United States,USA,0,5,12/31/76,1,2
+9,Eddie Dibbs,United States,USA,0,5,12/31/76,-1,0
+10,Brian Gottfried,United States,USA,0,3,12/31/76,1,0
+11,Roscoe Tanner,United States,USA,0,4,12/31/76,-1,0
+12,Arthur Ashe,United States,USA,0,2,12/31/76,0,0
+13,Ken Rosewall,Australia,AUS,0,1,12/31/76,0,0
+14,Wojtek Fibak,Poland,POL,0,10,12/31/76,0,0
+15,Dick Stockton,United States,USA,0,8,12/31/76,0,0
+16,Stan Smith,United States,USA,0,2,12/31/76,1,0
+17,Mark Cox,United Kingdom,GBR,0,12,12/31/76,-1,0
+18,Vitas Gerulaitis,United States,USA,0,3,12/31/76,0,0
+19,Jan Kodes,Czech Republic,CZE,0,5,12/31/76,0,14
+20,Robert Lutz,United States,USA,0,11,12/31/76,0,0
+21,John Newcombe,Australia,AUS,0,1,12/31/76,0,0
+22,Corrado Barazzutti,Italy,ITA,0,7,12/31/76,0,0
+23,Tom Okker,Netherlands,NED,0,3,12/31/76,0,0
+24,Jaime Fillol,Chile,CHI,0,14,12/31/76,0,0
+25,Cliff Drysdale,South Africa,RSA,0,9,12/31/76,1,0
+26,Francois Jauffret,France,FRA,0,20,12/31/76,2,0
+27,Ray Ruffels,Australia,AUS,0,21,12/31/76,2,0
+28,Cliff Richey,United States,USA,0,4,12/31/76,2,0
+30,Antonio Zugarelli,Italy,ITA,0,24,12/31/76,2,0
+31,Balazs Taroczy,Hungary,HUN,0,12,12/31/76,2,0
+31,Vijay Amritraj,India,IND,0,18,12/31/76,-6,69
+33,Paolo Bertolucci,Italy,ITA,0,12,12/31/76,1,0
+34,Victor Pecci,Paraguay,PAR,0,9,12/31/76,1,0
+35,Mark Edmondson,Australia,AUS,0,15,12/31/76,-4,0
+36,Brian Fairlie,New Zealand,NZL,0,24,12/31/76,0,0
+37,Phil Dent,Australia,AUS,0,17,12/31/76,1,0
+38,Dick Crealy,Australia,AUS,0,19,12/31/76,-1,0
+39,Raymond Moore,South Africa,RSA,0,20,12/31/76,0,0
+40,Han Jurgen Pohmann,Germany,GER,0,30,12/31/76,1,0
+41,Buster C Mottram,United Kingdom,GBR,0,15,12/31/76,-1,0
+42,Jose Higueras,Spain,ESP,0,6,12/31/76,8,0
+43,Ove Nils Bengtson,Sweden,SWE,0,43,12/31/76,0,0
+44,Zeljko Franulovic,Croatia,CRO,0,11,12/31/76,1,0
+45,Ross Case,Australia,AUS,0,14,12/31/76,1,0
+46,Tom Gorman,United States,USA,0,7,12/31/76,-3,0
+47,John Alexander,Australia,AUS,0,8,12/31/76,0,0
+48,Gene Mayer,United States,USA,0,4,12/31/76,1,6
+49,Haroon Rahim,Pakistan,PAK,0,34,12/31/76,5,0
+50,Tony Roche,Australia,AUS,0,2,12/31/76,1,0
+51,Ricardo Cano,Argentina,ARG,0,41,12/31/76,2,0
+52,Bill Scanlon,United States,USA,0,9,12/31/76,0,56
+53,Geoff Masters,Australia,AUS,0,42,12/31/76,2,0
+54,Karl Meiler,Germany,GER,0,20,12/31/76,-12,0
+55,Andrew Pattison,United States,USA,0,21,12/31/76,-7,0
+56,Charlie Pasarell,United States,USA,0,15,12/31/76,0,0
+57,Byron Bertram,South Africa,RSA,0,51,12/31/76,2,0
+58,Thomaz Koch,Brazil,BRA,0,16,12/31/76,19,0
+59,Marty Riessen,United States,USA,0,8,12/31/76,-2,0
+60,Jeff Borowiak,United States,USA,0,20,12/31/76,0,0
+61,John Lloyd,United Kingdom,GBR,0,23,12/31/76,-3,0
+62,Billy Martin,United States,USA,0,32,12/31/76,0,0
+63,Alex Metreveli,Russian Federation,RUS,0,9,12/31/76,0,0
+64,Jim Delaney,United States,USA,0,59,12/31/76,5,0
+65,Bernard Mitton,South Africa,RSA,0,42,12/31/76,11,0
+66,Belus Prajoux,Chile,CHI,0,62,12/31/76,3,0
+67,Kim Warwick,Australia,AUS,0,15,12/31/76,4,15
+68,Nikola Pilic,Croatia,CRO,0,10,12/31/76,-3,0
+69,Jiri Hrebec,Czech Republic,CZE,0,25,12/31/76,-3,0
+70,Hans Kary,Austria,AUT,0,54,12/31/76,-6,0
+71,Ulrich Pinner,Germany,GER,0,19,12/31/76,-4,0
+71,Terry Moor,United States,USA,0,32,12/31/76,-4,0
+73,Rod Laver,Australia,AUS,0,1,12/31/76,-1,0
+73,James Chico Hagey,United States,USA,0,72,12/31/76,0,0
+75,Sandy Mayer,United States,USA,0,7,12/31/76,-14,0
+76,Sherwood Stewart,United States,USA,0,60,12/31/76,-3,0
+77,Steve Krulevitz,United States,USA,0,70,12/31/76,2,0
+78,Jun Kuki,Japan,JPN,0,74,12/31/76,0,0
+79,Butch Walts,United States,USA,0,30,12/31/76,1,0
+80,Roger Taylor,United Kingdom,GBR,0,9,12/31/76,5,0
+81,Mike Estep,United States,USA,0,59,12/31/76,0,0
+81,Brian Teacher,United States,USA,0,7,12/31/76,0,0
+83,Bob Hewitt,South Africa,RSA,0,16,12/31/76,,0
+84,Trey Waltke,United States,USA,0,41,12/31/76,2,0
+85,Colin Dibley,Australia,AUS,0,27,12/31/76,-1,0
+86,Frew Mcmillan,South Africa,RSA,0,34,12/31/76,-11,0
+87,Fred Mcnair,United States,USA,0,77,12/31/76,3,0
+87,Paul Kronk,Australia,AUS,0,66,12/31/76,-4,0
+89,Syd Ball,Australia,AUS,0,63,12/31/76,2,0
+90,Sashi Menon,India,IND,0,82,12/31/76,,0
+91,Ivan Molina,Colombia,COL,0,40,12/31/76,-2,0
+92,Mike Machette,United States,USA,0,90,12/31/76,2,0
+93,Jurgen Fassbender,Germany,GER,0,31,12/31/76,1,0
+94,Julian Ganzabal,Argentina,ARG,0,68,12/31/76,-2,0
+95,Jean Francois Caujolle,France,FRA,0,59,12/31/76,1,0
+96,Kjell Johansson,Sweden,SWE,0,32,12/31/76,3,0
+97,John Yuill,South Africa,RSA,0,52,12/31/76,-4,0
+98,Alvaro Betancur,Colombia,COL,0,68,12/31/76,-10,0
+99,Pat Dupre,United States,USA,0,14,12/31/76,-2,0
+100,Juan Gisbert,Spain,ESP,0,29,12/31/76,-13,0
+101,Juan Ignacio Muntanola,Spain,ESP,0,101,12/31/76,,0
+101,Hank Pfister,United States,USA,0,19,12/31/76,,0
+103,Allan Stone,Australia,AUS,0,30,12/31/76,,0
+104,Patrick Proisy,France,FRA,0,16,12/31/76,,0
+105,Victor Amaya,United States,USA,0,15,12/31/76,,0
+106,Vladimir Zednik,Czech Republic,CZE,0,35,12/31/76,,0
+107,Jairo Velasco Jr,Spain,ESP,0,47,12/31/76,,40
+108,Patricio Cornejo,Chile,CHI,0,65,12/31/76,,0
+108,John Feaver,United Kingdom,GBR,0,91,12/31/76,,0
+108,Rolf Norberg,Sweden,SWE,0,88,12/31/76,,0
+108,Erik Van Dillen,United States,USA,0,36,12/31/76,,0
+108,Werner Zirngibl,Germany,GER,0,86,12/31/76,-10,0
+113,Tim Gullikson,United States,USA,0,15,12/31/76,,0
+114,Frantisek Pala,Czech Republic,CZE,0,37,12/31/76,,0
+115,Nick Saviano,United States,USA,0,48,12/31/76,,0
+116,Peter Fleming,United States,USA,0,8,12/31/76,,0
+116,Jean Louis Haillet,France,FRA,0,68,12/31/76,,0
+118,Ismail El Shafei,Egypt,EGY,0,28,12/31/76,,0
+119,Tom Gullikson,United States,USA,0,34,12/31/76,,0
+119,Henry Bunis,United States,USA,0,100,12/31/76,,0
+119,Carlos Kirmayr,Brazil,BRA,0,36,12/31/76,,0
+122,Colin Dowdeswell,United Kingdom,GBR,0,31,12/31/76,,0
+123,Antonio Munoz,Spain,ESP,0,74,12/31/76,,0
+124,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,0,124,12/31/76,,0
+125,Jorge Andrew,"Venezuela, Bolivarian Republic of",VEN,0,66,12/31/76,,0
+126,Barry Phillips Moore,Australia,AUS,0,19,12/31/76,,0
+127,Chris Lewis Nzl,New Zealand,NZL,0,19,12/31/76,,8
+128,Lito Alvarez,Argentina,ARG,0,86,12/31/76,,0
+129,Emilio Montano,Mexico,MEX,0,99,12/31/76,,0
+130,John Whitlinger,United States,USA,0,75,12/31/76,,0
+131,Robin Drysdale,United Kingdom,GBR,0,60,12/31/76,,0
+131,Cliff Letcher,Australia,AUS,0,54,12/31/76,,0
+131,Angel Gimenez,Spain,ESP,0,41,12/31/76,,0
+134,Bob Carmichael,Australia,AUS,0,23,12/31/76,,0
+135,Frank Gebert,Germany,GER,0,71,12/31/76,,0
+136,Mike Cahill,United States,USA,0,58,12/31/76,,0
+136,Eric Deblicker,France,FRA,0,68,12/31/76,,0
+138,John Andrews,United States,USA,0,64,12/31/76,,0
+138,Dick R Bohrnstedt,United States,USA,0,98,12/31/76,,0
+140,Gerald Battrick,United Kingdom,GBR,0,28,12/31/76,,0
+141,Jaime Pinto Bravo,Chile,CHI,0,73,12/31/76,,0
+142,Martin Robinson,United Kingdom,GBR,0,105,12/31/76,,0
+143,Russell Simpson,New Zealand,NZL,0,47,12/31/76,,0
+144,Teimuraz Kakoulia,Russian Federation,RUS,0,91,12/31/76,,0
+144,Javier Soler,Spain,ESP,0,74,12/31/76,,0
+146,John James,Australia,AUS,0,81,12/31/76,,28
+147,Steve Turner,United States,USA,0,105,12/31/76,,0
+148,David Schneider,United States,USA,0,62,12/31/76,,0
+148,Mark Meyers,United States,USA,0,148,12/31/76,,0
+148,Alvaro Fillol,Chile,CHI,0,102,12/31/76,,0
+151,Nicola Spear,Serbia,SRB,0,49,12/31/76,,0
+152,Birger Andersson,Sweden,SWE,0,88,12/31/76,,0
+153,Norman Holmes,United States,USA,0,70,12/31/76,,0
+154,Willem Prinsloo,South Africa,RSA,0,81,12/31/76,,0
+154,Deon Joubert,South Africa,RSA,0,56,12/31/76,,0
+154,Tomas Smid,Czech Republic,CZE,0,11,12/31/76,,28
+157,Grover Raz Reid,United States,USA,0,71,12/31/76,,0
+158,Denis Naegelen,France,FRA,0,131,12/31/76,,0
+159,Alvin Gardiner,Australia,AUS,0,77,12/31/76,,0
+160,Pavel Hutka,Czech Republic,CZE,0,84,12/31/76,,0
+160,Herve Gauvain,France,FRA,0,148,12/31/76,,0
+162,Anand Amritraj,India,IND,0,74,12/31/76,,1
+163,Georges Goven,France,FRA,0,21,12/31/76,,0
+164,Chris Kachel,Australia,AUS,0,77,12/31/76,,0
+165,John Marks,Australia,AUS,0,60,12/31/76,,0
+166,Douglas Palm,Sweden,SWE,0,159,12/31/76,,0
+166,Patrice Dominguez,France,FRA,0,36,12/31/76,,0
+166,Richard Lewis,United Kingdom,GBR,0,77,12/31/76,,0
+169,Doug Crawford,United States,USA,0,117,12/31/76,,0
+169,Bernard Mignot,Belgium,BEL,0,73,12/31/76,,0
+169,Marcello Lara,Mexico,MEX,0,59,12/31/76,,0
+169,Steve Docherty,Australia,AUS,0,74,12/31/76,,0
+169,Manuel Santana,Spain,ESP,0,12,12/31/76,,0
+174,Paul Mcnamee,Australia,AUS,0,24,12/31/76,,0
+175,John Bartlett,Australia,AUS,0,93,12/31/76,,0
+176,Zan Guerry,United States,USA,0,98,12/31/76,,0
+176,Ferdi Taygan,United States,USA,0,59,12/31/76,,0
+178,Eric Friedler,United States,USA,0,152,12/31/76,,0
+179,George Hardie,United States,USA,0,80,12/31/76,,0
+180,Jose Mandarino,Brazil,BRA,0,81,12/31/76,,0
+180,Per Hegna,Norway,NOR,0,180,12/31/76,,0
+182,Rolf Thung,Netherlands,NED,0,86,12/31/76,,0
+183,Butch Seewagen,United States,USA,0,87,12/31/76,,0
+183,Joaquim Rasgado Jr,Brazil,BRA,0,183,12/31/76,,0
+185,Harald Elschenbroich,Germany,GER,0,69,12/31/76,,0
+185,Hans Jaochim Plotz,Germany,GER,0,65,12/31/76,,0
+187,Keith Richardson,United States,USA,0,63,12/31/76,,0
+187,Timothy Noonan,United States,USA,0,187,12/31/76,,0
+187,Bob Giltinan,Australia,AUS,0,40,12/31/76,,0
+187,Kenichi Hirai,Japan,JPN,0,180,12/31/76,,0
+191,Pat Cramer,South Africa,RSA,0,95,12/31/76,,0
+192,Jim Mcmanus,United States,USA,0,41,12/31/76,,0
+193,Scott Carnahan,United States,USA,0,193,12/31/76,,0
+193,Peter Pearson,United States,USA,0,153,12/31/76,,0
+193,Brad Drewett,Australia,AUS,0,34,12/31/76,,170
+193,Rick Fisher,United States,USA,0,113,12/31/76,,0
+193,Bobby Webb,United States,USA,0,193,12/31/76,,0
+193,Hans Gildemeister,Chile,CHI,0,12,12/31/76,,0
+193,Peter Mcnamara,Australia,AUS,0,7,12/31/76,,0
+201,Rory Chappell,South Africa,RSA,0,195,12/31/76,,0
+201,Jan Norback,Sweden,SWE,0,84,12/31/76,,0
+203,Peter Szoke,Hungary,HUN,0,47,12/31/76,,0
+203,Jeff Austin,United States,USA,0,52,12/31/76,,0
+206,Jun Kamiwazumi,Japan,JPN,0,78,12/31/76,,0
+206,Tenny Svensson,Sweden,SWE,0,117,12/31/76,,0
+206,Matt Mitchell,United States,USA,0,53,12/31/76,,0
+206,Patrice Hagelauer,France,FRA,0,190,12/31/76,,0
+206,Ashok Amritraj,India,IND,0,201,12/31/76,,0
+211,Michael Wayman,United Kingdom,GBR,0,171,12/31/76,,0
+211,Gianni Ocleppo,Italy,ITA,0,30,12/31/76,,0
+211,Jim Osborne,United States,USA,0,27,12/31/76,,0
+211,Enrique Caviglia,Argentina,ARG,0,190,12/31/76,,0
+215,Charles Owens,United States,USA,0,36,12/31/76,,0
+215,Jose Moreno,Spain,ESP,0,210,12/31/76,,5
+215,Mal Anderson,Australia,AUS,0,21,12/31/76,,0
+215,Larry Gottfried,United States,USA,0,207,12/31/76,,0
+215,Szabolcz Baranyi,Hungary,HUN,0,94,12/31/76,,0
+215,Alejandro Pierola,Chile,CHI,0,76,12/31/76,,0
+215,David Lloyd,United Kingdom,GBR,0,128,12/31/76,,0
+215,Robert Machan,Hungary,HUN,0,102,12/31/76,,0
+215,Bruce Manson,United States,USA,0,39,12/31/76,,0
+215,Ulrich Marten,Germany,GER,0,161,12/31/76,,0
+225,Milan Holecek,Czech Republic,CZE,0,71,12/31/76,,0
+225,Massimo Di Domenico,Italy,ITA,0,199,12/31/76,,0
+225,Ulf Eriksson,Sweden,SWE,0,189,12/31/76,,0
+229,John Muller,South Africa,RSA,0,229,12/31/76,,0
+229,Armistead Neely,United States,USA,0,144,12/31/76,,0
+229,Jacques Thamin,France,FRA,0,137,12/31/76,,0
+229,Terry Ryan,South Africa,RSA,0,100,12/31/76,,0
+229,Ernesto Vazquez,Spain,ESP,0,102,12/31/76,,0
+229,Bhanu Nunna,India,IND,0,199,12/31/76,,0
+235,Peter Kanderal,Switzerland,SUI,0,126,12/31/76,,0
+235,Christophe Casa,France,FRA,0,146,12/31/76,,0
+235,Louk Sanders,Netherlands,NED,0,86,12/31/76,,0
+235,Joao Soares,Brazil,BRA,0,74,12/31/76,,0
+239,Stephen Myers,Australia,AUS,0,239,12/31/76,,0
+239,Van Winitsky,United States,USA,0,35,12/31/76,,0
+239,Bill Lloyd,Australia,AUS,0,106,12/31/76,,0
+239,Geza Varga,Hungary,HUN,0,228,12/31/76,,0
+239,Rolf Gehring,Germany,GER,0,30,12/31/76,,0
+239,William Brown,Ireland,IRL,0,86,12/31/76,,0
+239,Eliot Teltscher,United States,USA,0,6,12/31/76,,15
+239,Mike Fishbach,United States,USA,0,47,12/31/76,,0
+248,John Holladay,United States,USA,0,167,12/31/76,,0
+248,Ernie Ewert,Australia,AUS,0,189,12/31/76,,0
+248,Woody Blocher,United States,USA,0,156,12/31/76,,0
+248,Luis Felipe Tavares,Brazil,BRA,0,210,12/31/76,,0
+248,Dale Collings,Australia,AUS,0,101,12/31/76,,0
+248,Jose Castanon,Spain,ESP,0,147,12/31/76,,0
+248,Janos Benyik,Hungary,HUN,0,170,12/31/76,,0
+248,Roberto Lombardi,Italy,ITA,0,221,12/31/76,,0
+248,Jasjit Singh,India,IND,0,89,12/31/76,,0
+248,Dennis Ralston,United States,USA,0,7,12/31/76,,0
+248,Ion Tiriac,Romania,ROU,0,23,12/31/76,,0
+248,Roger Mckee,United States,USA,0,237,12/31/76,,0
+248,Stephen Warboys,United Kingdom,GBR,0,73,12/31/76,,0
+248,Gene Stuart Malin,United States,USA,0,116,12/31/76,,0
+248,Mark Farrell,United Kingdom,GBR,0,120,12/31/76,,0
+248,Greg Halder,Canada,CAN,0,56,12/31/76,,0
+264,Rafael Ruiz,Spain,ESP,0,237,12/31/76,,0
+264,Klaus Eberhard,Germany,GER,0,81,12/31/76,,0
+264,Christophe Roger Vasselin,France,FRA,0,29,12/31/76,,0
+264,Juan Torralbo,Spain,ESP,0,264,12/31/76,,0
+264,Miguel Mir,Spain,ESP,0,158,12/31/76,,0
+264,Fred Hemmes,Netherlands,NED,0,264,12/31/76,,0
+264,John McEnroe,United States,USA,0,1,12/31/76,,1506
+264,Jonathan Smith,United Kingdom,GBR,0,130,12/31/76,,0
+272,Max Hurlimann,Switzerland,SUI,0,163,12/31/76,,0
+272,Alberto Martorell,Spain,ESP,0,225,12/31/76,,0
+272,Sachio Kato,Japan,JPN,0,237,12/31/76,,1
+272,Randall King,Hong Kong,HKG,0,269,12/31/76,,0
+272,Frank Sedgman,Australia,AUS,0,237,12/31/76,,0
+272,Bernard Fritz,France,FRA,0,79,12/31/76,,0
+272,Jose Garcia G003,Spain,ESP,0,136,12/31/76,,0
+272,Francisco Gonzalez,Paraguay,PAR,0,36,12/31/76,,0
+272,Wanaro Ngodrella,France,FRA,0,71,12/31/76,,7
+272,Dean Martin Jr,United States,USA,0,272,12/31/76,,0
+272,Peter Feigl,Austria,AUT,0,35,12/31/76,,0
+272,Fred Stolle,Australia,AUS,0,7,12/31/76,,0
+272,Bill Lofgren,United States,USA,0,169,12/31/76,,0
+272,George Amaya,United States,USA,0,184,12/31/76,,0
+288,Dick Dell,United States,USA,0,98,12/31/76,,0
+288,Spencer Segura,United States,USA,0,193,12/31/76,,0
+288,Kenneth Mcmillan,United States,USA,0,162,12/31/76,,0
+288,John Trickey,Australia,AUS,0,253,12/31/76,,0
+288,Joel Ross,United States,USA,0,288,12/31/76,,0
+288,Humphrey Hose,"Venezuela, Bolivarian Republic of",VEN,0,125,12/31/76,,0
+288,David Carter,Australia,AUS,0,78,12/31/76,,0
+288,Jan Zabrodsky,Sweden,SWE,0,217,12/31/76,,0
+288,Robert Rheinberger,Australia,AUS,0,162,12/31/76,,0
+288,William Durham,Australia,AUS,0,202,12/31/76,,0
+288,Tom Kreiss,United States,USA,0,131,12/31/76,,0
+288,Eduardo Gorostagia,"Bolivia, Plurinational State of",BOL,0,288,12/31/76,,0
+288,Greg Braun,Australia,AUS,0,269,12/31/76,,0
+288,Ray Kelly,Australia,AUS,0,288,12/31/76,,0
+288,Jan Kukal,Czech Republic,CZE,0,115,12/31/76,,5
+288,Hubertus Hoyt,United States,USA,0,195,12/31/76,,0
+288,Attila Korpas,Germany,GER,0,87,12/31/76,,0
+288,Trevor Little,Australia,AUS,0,254,12/31/76,,0
+288,Peter Pokorny,Austria,AUT,0,221,12/31/76,,0
+288,Tony Graham,United States,USA,0,100,12/31/76,,0
+288,William Coghlan,Australia,AUS,0,244,12/31/76,,0
+288,Pierre Barthes,France,FRA,0,15,12/31/76,,0
+310,John Peckskamp,United States,USA,0,306,12/31/76,,0
+310,Daniel Contet,France,FRA,0,245,12/31/76,,0
+310,Jaidip Mukerjea,India,IND,0,135,12/31/76,,0
+310,Ionel Santeiu,Romania,ROU,0,272,12/31/76,,0
+310,George Rudman,South Africa,RSA,0,258,12/31/76,,0
+310,Lars Samuelson,Sweden,SWE,0,310,12/31/76,,0
+310,Omar Laimina,Morocco,MAR,0,166,12/31/76,,0
+310,Piero Toci,Italy,ITA,0,175,12/31/76,,0
+310,Roberto Chavez,Mexico,MEX,0,172,12/31/76,,0
+310,Roy Emerson,Australia,AUS,0,4,12/31/76,,0
+310,Octavio Martinez,Mexico,MEX,0,310,12/31/76,,0
+310,Dominique Bedel,France,FRA,0,41,12/31/76,,0
+310,Mansour Bahrami,"Iran, Islamic Republic of",IRI,0,192,12/31/76,,55
+310,Patricio Rodriguez Chi,Chile,CHI,0,133,12/31/76,,0
+310,Hugo Varela,Argentina,ARG,0,210,12/31/76,,0
+310,Harvey Spiegel,United States,USA,0,310,12/31/76,,0
+310,Terje Larsen,Sweden,SWE,0,310,12/31/76,,0
+310,Juan Diaz,United States,USA,0,310,12/31/76,,0
+310,Peter Campbell,Australia,AUS,0,179,12/31/76,,1
+310,Roger Guedes,Brazil,BRA,0,89,12/31/76,,6
+310,Jaidip Mukherjea,India,IND,0,120,12/31/76,,0
+310,Leif Johansson,Sweden,SWE,0,51,12/31/76,,0
+310,Chetan Desai,India,IND,0,310,12/31/76,,0
+310,Bernard Balleret,Monaco,MON,0,310,12/31/76,,6
+310,Vadim Borisov,Russian Federation,RUS,0,239,12/31/76,,0
+310,Tetsu Kuramitsu,Japan,JPN,0,281,12/31/76,,0
+310,Pavel Slozil,Czech Republic,CZE,0,12,12/31/76,,0
+310,Per Hjertquist,Sweden,SWE,0,68,12/31/76,,0
+310,Pancho Walthall,United States,USA,0,238,12/31/76,,0
+310,Jean Claude Barclay,France,FRA,0,218,12/31/76,,0
+310,Fernando Vasquez,Spain,ESP,0,310,12/31/76,,0
+310,Bill Freer,South Africa,RSA,0,237,12/31/76,,0
+310,Dimitri Sturdza,Switzerland,SUI,0,202,12/31/76,,0
+310,Javier Restrepo,Colombia,COL,0,203,12/31/76,,0
+310,Tony Giammalva,United States,USA,0,54,12/31/76,,0
+310,Dale Power,Canada,CAN,0,272,12/31/76,,0
+310,Peter Fishbach,United States,USA,0,272,12/31/76,,0
+310,Fernando Gentil,Brazil,BRA,0,222,12/31/76,,0
+310,Steve Mott,United States,USA,0,300,12/31/76,,0
+310,Pietro Marzano,Italy,ITA,0,252,12/31/76,,0
+310,Jay Royappa,India,IND,0,207,12/31/76,,0
+310,Regis Brunet,France,FRA,0,205,12/31/76,,0
+310,Olle Palmer,Sweden,SWE,0,140,12/31/76,,0
+310,Francisco Mastelli,Argentina,ARG,0,237,12/31/76,,0
+310,Peter Elter,Germany,GER,0,51,12/31/76,,0
+360,Ruby Hoskowetz,Austria,AUT,0,153,12/31/76,,0
+360,Earl Butch Buchholz,United States,USA,0,9,12/31/76,,0
+360,Steven Wright,Australia,AUS,0,326,12/31/76,,0
+360,Gerard Wimmer,Austria,AUT,0,206,12/31/76,,0
+360,Rejean Genois,Canada,CAN,0,90,12/31/76,,0
+360,Robbie Venter,South Africa,RSA,0,87,12/31/76,,0
+360,Jan Kallquist,Sweden,SWE,0,177,12/31/76,,0
+360,Lorenzo Fargas,Spain,ESP,0,201,12/31/76,,0
+360,Yuji Tezuka,Japan,JPN,0,177,12/31/76,,0
+360,Tim Wilkison,United States,USA,0,23,12/31/76,,269
+360,Juan Herrera,Spain,ESP,0,180,12/31/76,,0
+360,Ezio Di Matteo,Italy,ITA,0,151,12/31/76,,0
+360,Nicolas Kelaidis,Greece,GRE,0,244,12/31/76,,0
+360,Owen Davidson,Australia,AUS,0,13,12/31/76,,0
+360,Joel Bailey,United States,USA,0,197,12/31/76,,0
+360,Patrice Beust,France,FRA,0,308,12/31/76,,0
+360,Ed Nagel,United States,USA,0,360,12/31/76,,13
+360,Glenn Busby,Australia,AUS,0,326,12/31/76,,0
+360,Juan Carlos Andrade,Spain,ESP,0,193,12/31/76,,0
+360,Salvador Cabeza,Spain,ESP,0,245,12/31/76,,0
+360,Jose Guerrero,Spain,ESP,0,241,12/31/76,,0
+360,Carlos Lando,Argentina,ARG,0,229,12/31/76,,0
+360,Robert Casey C100,Australia,AUS,0,242,12/31/76,,0
+360,Jonas Svensson,Sweden,SWE,0,10,12/31/76,,1420
+360,Jose Schmidt,Brazil,BRA,0,360,12/31/76,,0
+360,Graeme Thomson,Australia,AUS,0,162,12/31/76,,0
+360,Gary Plock,United States,USA,0,360,12/31/76,,0
+360,John Sadri,United States,USA,0,14,12/31/76,,0
+360,Wouter Fok,Netherlands,NED,0,314,12/31/76,,0
+360,Gianni Marchetti,Italy,ITA,0,255,12/31/76,,0
+360,Luis Borfiga,Monaco,MON,0,308,12/31/76,,0
+360,Ali Madani,"Iran, Islamic Republic of",IRI,0,266,12/31/76,,0
+360,Larry Collins,United States,USA,0,360,12/31/76,,0
+360,Givaldo Barbosa,Brazil,BRA,0,78,12/31/76,,71
+360,Vincenzo Franchitti,Italy,ITA,0,138,12/31/76,,0
+360,Keith Hancock,Australia,AUS,0,126,12/31/76,,0
+360,R Kiesling,United States,USA,0,360,12/31/76,,0
+360,Peter Wright,United States,USA,0,300,12/31/76,,4
+360,Gene Scott,United States,USA,0,37,12/31/76,,0
+360,Paul Van Min,Netherlands,NED,0,263,12/31/76,,0
+360,Yair Werthimer,Israel,ISR,0,360,12/31/76,,0
+360,Scott Clark,New Zealand,NZL,0,326,12/31/76,,28
+360,Saeed Meer,Pakistan,PAK,0,235,12/31/76,,0
+360,Eddie Cruz,Philippines,PHI,0,179,12/31/76,,0
+360,Matti Timonen,Finland,FIN,0,257,12/31/76,,0

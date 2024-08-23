@@ -1,0 +1,408 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,12/15/75,0,875
+2,Guillermo Vilas,Argentina,ARG,0,2,12/15/75,1,47
+3,Bjorn Borg,Sweden,SWE,0,1,12/15/75,2,10
+4,Arthur Ashe,United States,USA,0,2,12/15/75,3,0
+5,Manuel Orantes,Spain,ESP,0,2,12/15/75,4,0
+6,Ken Rosewall,Australia,AUS,0,1,12/15/75,-4,0
+7,Ilie Nastase,Romania,ROU,0,1,12/15/75,1,0
+8,John Alexander,Australia,AUS,0,8,12/15/75,5,0
+9,Roscoe Tanner,United States,USA,0,4,12/15/75,2,0
+10,Rod Laver,Australia,AUS,0,1,12/15/75,0,0
+11,Tom Okker,Netherlands,NED,0,3,12/15/75,-5,0
+12,Tony Roche,Australia,AUS,0,2,12/15/75,0,0
+13,Raul Ramirez,Mexico,MEX,0,4,12/15/75,1,0
+14,Adriano Panatta,Italy,ITA,0,4,12/15/75,14,0
+15,Vitas Gerulaitis,United States,USA,0,3,12/15/75,4,0
+16,Jaime Fillol,Chile,CHI,0,14,12/15/75,8,0
+17,Harold Solomon,United States,USA,0,5,12/15/75,-2,2
+18,Eddie Dibbs,United States,USA,0,5,12/15/75,9,0
+19,Jan Kodes,Czech Republic,CZE,0,5,12/15/75,1,14
+20,John Newcombe,Australia,AUS,0,1,12/15/75,-16,0
+21,Stan Smith,United States,USA,0,2,12/15/75,-4,0
+22,Robert Lutz,United States,USA,0,11,12/15/75,7,0
+23,Brian Gottfried,United States,USA,0,3,12/15/75,2,0
+24,Marty Riessen,United States,USA,0,8,12/15/75,-6,0
+25,Mark Cox,United Kingdom,GBR,0,12,12/15/75,1,0
+26,Onny Parun,New Zealand,NZL,0,19,12/15/75,-5,0
+27,Ross Case,Australia,AUS,0,14,12/15/75,4,0
+28,Sandy Mayer,United States,USA,0,7,12/15/75,8,0
+29,Vijay Amritraj,India,IND,0,18,12/15/75,3,69
+30,Dick Stockton,United States,USA,0,8,12/15/75,-14,0
+31,Karl Meiler,Germany,GER,0,20,12/15/75,7,0
+32,Cliff Richey,United States,USA,0,4,12/15/75,-10,0
+33,Phil Dent,Australia,AUS,0,17,12/15/75,-3,0
+34,Buster C Mottram,United Kingdom,GBR,0,15,12/15/75,7,0
+34,Bob Hewitt,South Africa,RSA,0,16,12/15/75,8,0
+36,Cliff Drysdale,South Africa,RSA,0,9,12/15/75,-2,0
+37,Andrew Pattison,United States,USA,0,21,12/15/75,9,0
+38,Allan Stone,Australia,AUS,0,30,12/15/75,,0
+39,Francois Jauffret,France,FRA,0,20,12/15/75,8,0
+40,Corrado Barazzutti,Italy,ITA,0,7,12/15/75,32,0
+41,Juan Gisbert,Spain,ESP,0,29,12/15/75,-8,0
+42,Ricardo Cano,Argentina,ARG,0,41,12/15/75,,0
+43,Patrick Proisy,France,FRA,0,16,12/15/75,9,0
+44,Geoff Masters,Australia,AUS,0,42,12/15/75,13,0
+45,Tom Gorman,United States,USA,0,7,12/15/75,4,0
+46,Jose Higueras,Spain,ESP,0,6,12/15/75,16,0
+47,Alex Metreveli,Russian Federation,RUS,0,9,12/15/75,-24,0
+48,Jeff Borowiak,United States,USA,0,20,12/15/75,2,0
+49,Kim Warwick,Australia,AUS,0,15,12/15/75,-10,15
+50,Nikola Pilic,Croatia,CRO,0,10,12/15/75,13,0
+51,Bernard Mitton,South Africa,RSA,0,42,12/15/75,,0
+52,Roger Taylor,United Kingdom,GBR,0,9,12/15/75,-8,0
+53,Jiri Hrebec,Czech Republic,CZE,0,25,12/15/75,0,0
+54,Ivan Molina,Colombia,COL,0,40,12/15/75,29,0
+55,Victor Pecci,Paraguay,PAR,0,9,12/15/75,,0
+56,Dick Crealy,Australia,AUS,0,19,12/15/75,2,0
+57,Paolo Bertolucci,Italy,ITA,0,12,12/15/75,-22,0
+58,Wojtek Fibak,Poland,POL,0,10,12/15/75,12,0
+59,Frew Mcmillan,South Africa,RSA,0,34,12/15/75,10,0
+60,Ulrich Pinner,Germany,GER,0,19,12/15/75,7,0
+61,Raymond Moore,South Africa,RSA,0,20,12/15/75,14,0
+62,Thomaz Koch,Brazil,BRA,0,16,12/15/75,-14,0
+63,Charlie Pasarell,United States,USA,0,15,12/15/75,-23,0
+64,Jurgen Fassbender,Germany,GER,0,31,12/15/75,-10,0
+65,Ismail El Shafei,Egypt,EGY,0,28,12/15/75,-22,0
+66,Brian Fairlie,New Zealand,NZL,0,24,12/15/75,-6,0
+67,Billy Martin,United States,USA,0,32,12/15/75,-30,0
+68,Zeljko Franulovic,Croatia,CRO,0,11,12/15/75,,0
+69,Balazs Taroczy,Hungary,HUN,0,12,12/15/75,-18,0
+70,John Andrews,United States,USA,0,64,12/15/75,-6,0
+71,Bob Carmichael,Australia,AUS,0,23,12/15/75,-12,0
+72,Erik Van Dillen,United States,USA,0,36,12/15/75,-16,0
+73,Jim Delaney,United States,USA,0,59,12/15/75,,0
+74,Han Jurgen Pohmann,Germany,GER,0,30,12/15/75,-19,0
+74,Haroon Rahim,Pakistan,PAK,0,34,12/15/75,,0
+76,Hans Jaochim Plotz,Germany,GER,0,65,12/15/75,,0
+77,Sherwood Stewart,United States,USA,0,60,12/15/75,-11,0
+78,Patrice Dominguez,France,FRA,0,36,12/15/75,-17,0
+79,Mike Cahill,United States,USA,0,58,12/15/75,,0
+80,Paul Gerken,United States,USA,0,35,12/15/75,-6,0
+81,Jairo Velasco Jr,Spain,ESP,0,47,12/15/75,11,40
+82,Georges Goven,France,FRA,0,21,12/15/75,-9,0
+83,Graham Stilwell,United Kingdom,GBR,0,35,12/15/75,,0
+84,Hans Kary,Austria,AUT,0,54,12/15/75,-5,0
+85,Colin Dowdeswell,United Kingdom,GBR,0,31,12/15/75,,0
+86,Harald Elschenbroich,Germany,GER,0,69,12/15/75,-1,0
+87,Bob Giltinan,Australia,AUS,0,40,12/15/75,7,0
+88,Sashi Menon,India,IND,0,82,12/15/75,,0
+89,Paul Kronk,Australia,AUS,0,66,12/15/75,0,0
+90,Antonio Zugarelli,Italy,ITA,0,24,12/15/75,-14,0
+91,Norman Holmes,United States,USA,0,70,12/15/75,,0
+92,Nicola Spear,Serbia,SRB,0,49,12/15/75,,0
+93,John Lloyd,United Kingdom,GBR,0,23,12/15/75,-3,0
+94,Colin Dibley,Australia,AUS,0,27,12/15/75,-16,0
+95,Birger Andersson,Sweden,SWE,0,88,12/15/75,-7,0
+96,Victor Amaya,United States,USA,0,15,12/15/75,,0
+97,Kjell Johansson,Sweden,SWE,0,32,12/15/75,,0
+98,John Whitlinger,United States,USA,0,75,12/15/75,-21,0
+99,Trey Waltke,United States,USA,0,41,12/15/75,-19,0
+99,Pat Cramer,South Africa,RSA,0,95,12/15/75,,0
+101,Jean Francois Caujolle,France,FRA,0,59,12/15/75,-19,0
+102,Milan Holecek,Czech Republic,CZE,0,71,12/15/75,-18,0
+103,Carlos Kirmayr,Brazil,BRA,0,36,12/15/75,,0
+104,Lito Alvarez,Argentina,ARG,0,86,12/15/75,,0
+105,Martin Robinson,United Kingdom,GBR,0,105,12/15/75,,0
+106,Mike Estep,United States,USA,0,59,12/15/75,,0
+107,George Hardie,United States,USA,0,80,12/15/75,,0
+108,Bernard Mignot,Belgium,BEL,0,73,12/15/75,,0
+109,Brian Teacher,United States,USA,0,7,12/15/75,,0
+110,Anand Amritraj,India,IND,0,74,12/15/75,-29,1
+111,Charles Owens,United States,USA,0,36,12/15/75,-46,0
+112,Gerald Battrick,United Kingdom,GBR,0,28,12/15/75,,0
+112,Ray Ruffels,Australia,AUS,0,21,12/15/75,-41,0
+112,Jan Pisecky,Czech Republic,CZE,0,112,12/15/75,,0
+112,Teimuraz Kakoulia,Russian Federation,RUS,0,91,12/15/75,,0
+116,Syd Ball,Australia,AUS,0,63,12/15/75,,0
+117,Grover Raz Reid,United States,USA,0,71,12/15/75,-26,0
+117,Joaquin Loyo Mayo,Mexico,MEX,0,46,12/15/75,,0
+119,Frantisek Pala,Czech Republic,CZE,0,37,12/15/75,,0
+120,Peter Fleming,United States,USA,0,8,12/15/75,,0
+120,Clark Graebner,United States,USA,0,7,12/15/75,-23,0
+120,Byron Bertram,South Africa,RSA,0,51,12/15/75,,0
+120,Ferdi Taygan,United States,USA,0,59,12/15/75,,0
+120,Jose Mandarino,Brazil,BRA,0,81,12/15/75,-25,0
+125,Julian Ganzabal,Argentina,ARG,0,68,12/15/75,,0
+126,Jaime Pinto Bravo,Chile,CHI,0,73,12/15/75,,0
+127,Jun Kamiwazumi,Japan,JPN,0,78,12/15/75,-40,0
+128,Robert Kreiss,United States,USA,0,84,12/15/75,,0
+128,Barry Phillips Moore,Australia,AUS,0,19,12/15/75,-32,0
+130,Antonio Munoz,Spain,ESP,0,74,12/15/75,,0
+131,Tenny Svensson,Sweden,SWE,0,117,12/15/75,,0
+131,Steve Krulevitz,United States,USA,0,70,12/15/75,,0
+133,Eric Deblicker,France,FRA,0,68,12/15/75,,0
+134,Rolf Thung,Netherlands,NED,0,86,12/15/75,,0
+135,John James,Australia,AUS,0,81,12/15/75,,28
+136,Jeff Austin,United States,USA,0,52,12/15/75,,0
+137,Fred Mcnair,United States,USA,0,77,12/15/75,-44,0
+138,Jorge Andrew,"Venezuela, Bolivarian Republic of",VEN,0,66,12/15/75,,0
+138,Belus Prajoux,Chile,CHI,0,62,12/15/75,,0
+138,Peter Szoke,Hungary,HUN,0,47,12/15/75,,0
+138,Ion Tiriac,Romania,ROU,0,23,12/15/75,,0
+138,Patricio Cornejo,Chile,CHI,0,65,12/15/75,,0
+138,Doug Crawford,United States,USA,0,117,12/15/75,,0
+144,Gene Mayer,United States,USA,0,4,12/15/75,,6
+145,Alvaro Betancur,Colombia,COL,0,68,12/15/75,,0
+146,John Feaver,United Kingdom,GBR,0,91,12/15/75,,0
+147,John Yuill,South Africa,RSA,0,52,12/15/75,-61,0
+148,Denis Naegelen,France,FRA,0,131,12/15/75,,0
+148,Juan Ignacio Muntanola,Spain,ESP,0,101,12/15/75,,0
+150,Alvin Gardiner,Australia,AUS,0,77,12/15/75,,0
+150,Steve Turner,United States,USA,0,105,12/15/75,,0
+152,Jim Mcmanus,United States,USA,0,41,12/15/75,,0
+153,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,0,124,12/15/75,,0
+154,Rolf Norberg,Sweden,SWE,0,88,12/15/75,,0
+154,Roy Emerson,Australia,AUS,0,4,12/15/75,-87,0
+156,Roger Dowdeswell,Zimbabwe,ZIM,0,64,12/15/75,,0
+157,Dick Dell,United States,USA,0,98,12/15/75,,0
+157,Rick Fisher,United States,USA,0,113,12/15/75,,0
+157,Vladimir Zednik,Czech Republic,CZE,0,35,12/15/75,,0
+160,Mark Farrell,United Kingdom,GBR,0,120,12/15/75,,0
+161,Jun Kuki,Japan,JPN,0,74,12/15/75,,0
+162,Cliff Letcher,Australia,AUS,0,54,12/15/75,,0
+162,Pavel Hutka,Czech Republic,CZE,0,84,12/15/75,,0
+162,Henry Bunis,United States,USA,0,100,12/15/75,,0
+165,William Brown,Ireland,IRL,0,86,12/15/75,,0
+166,Chris Kachel,Australia,AUS,0,77,12/15/75,,0
+167,Marcello Lara,Mexico,MEX,0,59,12/15/75,,0
+168,John Holladay,United States,USA,0,167,12/15/75,,0
+168,Douglas Palm,Sweden,SWE,0,159,12/15/75,,0
+168,Woody Blocher,United States,USA,0,156,12/15/75,,0
+168,Toma Ovici,Romania,ROU,0,133,12/15/75,,0
+172,Earl Butch Buchholz,United States,USA,0,9,12/15/75,,0
+172,Tim Gullikson,United States,USA,0,15,12/15/75,,0
+172,Tom Edlefsen,United States,USA,0,46,12/15/75,,0
+172,Armistead Neely,United States,USA,0,144,12/15/75,,0
+176,Frank Gebert,Germany,GER,0,71,12/15/75,,0
+177,Ove Nils Bengtson,Sweden,SWE,0,43,12/15/75,,0
+178,Robert Maud,South Africa,RSA,0,35,12/15/75,,0
+179,Rolf Gehring,Germany,GER,0,30,12/15/75,,0
+179,John Bartlett,Australia,AUS,0,93,12/15/75,,0
+179,Nick Saviano,United States,USA,0,48,12/15/75,,0
+182,Robert Rheinberger,Australia,AUS,0,162,12/15/75,,0
+183,Russell Simpson,New Zealand,NZL,0,47,12/15/75,,0
+184,Vincenzo Franchitti,Italy,ITA,0,138,12/15/75,,0
+184,Ian Fletcher,Australia,AUS,0,56,12/15/75,,0
+184,Modesto Tito Vazquez,Spain,ESP,0,85,12/15/75,,0
+187,Bruce Manson,United States,USA,0,39,12/15/75,,0
+187,Robert Machan,Hungary,HUN,0,102,12/15/75,,0
+187,Dennis Ralston,United States,USA,0,7,12/15/75,,0
+187,Mike Fishbach,United States,USA,0,47,12/15/75,,0
+187,Janos Benyik,Hungary,HUN,0,170,12/15/75,,0
+187,Jasjit Singh,India,IND,0,89,12/15/75,,0
+193,Spencer Segura,United States,USA,0,193,12/15/75,,0
+193,Dick R Bohrnstedt,United States,USA,0,98,12/15/75,,0
+193,Jeff Simpson,New Zealand,NZL,0,66,12/15/75,,0
+193,Angel Gimenez,Spain,ESP,0,41,12/15/75,,0
+197,Fred Stolle,Australia,AUS,0,7,12/15/75,,0
+197,Richard Lewis,United Kingdom,GBR,0,77,12/15/75,,0
+199,Ulrich Marten,Germany,GER,0,161,12/15/75,,0
+199,Humphrey Hose,"Venezuela, Bolivarian Republic of",VEN,0,125,12/15/75,,0
+199,Yuji Tezuka,Japan,JPN,0,177,12/15/75,,0
+199,Stephen Warboys,United Kingdom,GBR,0,73,12/15/75,,0
+199,Wanaro Ngodrella,France,FRA,0,71,12/15/75,,7
+199,Attila Korpas,Germany,GER,0,87,12/15/75,,0
+205,Kenneth Mcmillan,United States,USA,0,162,12/15/75,,0
+205,Peter Mcnamara,Australia,AUS,0,7,12/15/75,,0
+205,Szabolcz Baranyi,Hungary,HUN,0,94,12/15/75,,0
+205,Robin Drysdale,United Kingdom,GBR,0,60,12/15/75,,0
+205,Paul Avis,South Africa,RSA,0,179,12/15/75,,0
+205,Gavorielle Marcu,Romania,ROU,0,204,12/15/75,,0
+205,Zan Guerry,United States,USA,0,98,12/15/75,,0
+212,Mike Machette,United States,USA,0,90,12/15/75,,0
+212,Mark Edmondson,Australia,AUS,0,15,12/15/75,,0
+212,Jean Baptiste Chanfreau,France,FRA,0,80,12/15/75,,0
+212,Manuel Santana,Spain,ESP,0,12,12/15/75,,0
+212,Ernie Ewert,Australia,AUS,0,189,12/15/75,,0
+212,Peter Kanderal,Switzerland,SUI,0,126,12/15/75,,0
+218,David Lloyd,United Kingdom,GBR,0,128,12/15/75,,0
+218,Toshiro Sakai,Japan,JPN,0,75,12/15/75,,4
+218,Pavel Slozil,Czech Republic,CZE,0,12,12/15/75,,0
+218,Ray Keldie,Australia,AUS,0,113,12/15/75,,0
+222,Jean Louis Haillet,France,FRA,0,68,12/15/75,,0
+222,Jan Zabrodsky,Sweden,SWE,0,217,12/15/75,,0
+222,Jose Moreno,Spain,ESP,0,210,12/15/75,,5
+222,Jacques Thamin,France,FRA,0,137,12/15/75,,0
+222,Larry Turville,United States,USA,0,210,12/15/75,,0
+222,Aly El Dawoudi,Egypt,EGY,0,222,12/15/75,,0
+222,Fernando Gentil,Brazil,BRA,0,222,12/15/75,,0
+222,Mike Belkin,Canada,CAN,0,42,12/15/75,,0
+222,Ian Crookenden,New Zealand,NZL,0,140,12/15/75,,0
+222,Luis Felipe Tavares,Brazil,BRA,0,210,12/15/75,,0
+222,Pierre Barthes,France,FRA,0,15,12/15/75,,0
+222,Tom Kreiss,United States,USA,0,131,12/15/75,,0
+222,Boro Jovanovic,Croatia,CRO,0,37,12/15/75,,0
+222,Ernie Mccabe,Australia,AUS,0,221,12/15/75,,0
+222,Jose Castanon,Spain,ESP,0,147,12/15/75,,0
+222,Piero Toci,Italy,ITA,0,175,12/15/75,,0
+238,Rauty Krog,South Africa,RSA,0,238,12/15/75,,0
+238,Deon Joubert,South Africa,RSA,0,56,12/15/75,,0
+238,Joao Soares,Brazil,BRA,0,74,12/15/75,,0
+238,Zdrabko Mencek,Czech Republic,CZE,0,210,12/15/75,,0
+238,Bill Freer,South Africa,RSA,0,237,12/15/75,,0
+238,Pancho Walthall,United States,USA,0,238,12/15/75,,0
+238,Tony Dawson,Australia,AUS,0,234,12/15/75,,0
+238,Jacek Niedzwiedzki,Poland,POL,0,172,12/15/75,,0
+238,Werner Zirngibl,Germany,GER,0,86,12/15/75,,0
+238,James Chico Hagey,United States,USA,0,72,12/15/75,,0
+238,John Cooper,Australia,AUS,0,41,12/15/75,,0
+238,Juan Herrera,Spain,ESP,0,180,12/15/75,,0
+238,Peter Curtis,United Kingdom,GBR,0,235,12/15/75,,0
+238,John Paish,United Kingdom,GBR,0,80,12/15/75,,0
+252,Pietro Marzano,Italy,ITA,0,252,12/15/75,,0
+252,Hank Pfister,United States,USA,0,19,12/15/75,,0
+252,Rafael Ruiz,Spain,ESP,0,237,12/15/75,,0
+252,Jiri Granat,Czech Republic,CZE,0,68,12/15/75,,0
+252,Mansour Bahrami,"Iran, Islamic Republic of",IRI,0,192,12/15/75,,55
+252,Chiraid Mukherjea,India,IND,0,221,12/15/75,,0
+252,John Fort,United States,USA,0,171,12/15/75,,0
+252,Owen Davidson,Australia,AUS,0,13,12/15/75,,0
+252,Kenichi Hirai,Japan,JPN,0,180,12/15/75,,0
+252,Peter Pokorny,Austria,AUT,0,221,12/15/75,,0
+264,Joaquim Rasgado Jr,Brazil,BRA,0,183,12/15/75,,0
+264,Salvador Cabeza,Spain,ESP,0,245,12/15/75,,0
+264,David Schneider,United States,USA,0,62,12/15/75,,0
+264,Jan Kallquist,Sweden,SWE,0,177,12/15/75,,0
+264,Anthony Fawcett,South Africa,RSA,0,221,12/15/75,,0
+264,Alvaro Fillol,Chile,CHI,0,102,12/15/75,,0
+264,Mark Meyers,United States,USA,0,148,12/15/75,,0
+264,Bill Bowrey,Australia,AUS,0,10,12/15/75,,0
+264,Anatoli Volkov,Russian Federation,RUS,0,163,12/15/75,,0
+264,Larry Gottfried,United States,USA,0,207,12/15/75,,0
+264,Gene Scott,United States,USA,0,37,12/15/75,,0
+264,Torben Ulrich,Denmark,DEN,0,38,12/15/75,,0
+264,Dimitri Sturdza,Switzerland,SUI,0,202,12/15/75,,0
+264,Peter Doerner,Australia,AUS,0,204,12/15/75,,0
+264,Bhanu Nunna,India,IND,0,199,12/15/75,,0
+264,Jan Eric Lundquist,Sweden,SWE,0,49,12/15/75,,0
+282,Ashok Amritraj,India,IND,0,201,12/15/75,,0
+282,Jose Guerrero,Spain,ESP,0,241,12/15/75,,0
+282,Van Winitsky,United States,USA,0,35,12/15/75,,0
+282,Tadeusz Nowicki,Poland,POL,0,119,12/15/75,,0
+282,Kiyoski Tanabe,Japan,JPN,0,174,12/15/75,,0
+282,Dragan Stojovic,Serbia,YUG,0,281,12/15/75,,0
+282,Sachio Kato,Japan,JPN,0,237,12/15/75,,1
+282,Gregor Paul,Germany,GER,0,282,12/15/75,,45
+282,Patrick Hombergen,Belgium,BEL,0,115,12/15/75,,0
+282,Jean Paul Meyer,France,FRA,0,265,12/15/75,,0
+282,Frank Sedgman,Australia,AUS,0,237,12/15/75,,0
+282,Francisco Mastelli,Argentina,ARG,0,237,12/15/75,,0
+282,Graeme Thomson,Australia,AUS,0,162,12/15/75,,0
+282,Willem Prinsloo,South Africa,RSA,0,81,12/15/75,,0
+282,Tom Mott,United States,USA,0,282,12/15/75,,0
+282,Jim Moore,Australia,AUS,0,254,12/15/75,,0
+282,Bengt Lundstedt,Sweden,SWE,0,272,12/15/75,,0
+282,Dragan Savic,Serbia,YUG,0,282,12/15/75,,0
+282,Steve Docherty,Australia,AUS,0,74,12/15/75,,0
+282,Bill Lloyd,Australia,AUS,0,106,12/15/75,,0
+282,Frank Froehling,United States,USA,0,21,12/15/75,,0
+308,Matti Timonen,Finland,FIN,0,257,12/15/75,,0
+308,Derek Schroder,South Africa,RSA,0,214,12/15/75,,0
+308,Patrice Beust,France,FRA,0,308,12/15/75,,0
+308,Hans Gildemeister,Chile,CHI,0,12,12/15/75,,0
+308,Carlos Lando,Argentina,ARG,0,229,12/15/75,,0
+308,Nicolas Kelaidis,Greece,GRE,0,244,12/15/75,,0
+308,Max Wunschig,Germany,GER,0,287,12/15/75,,0
+308,Freddie De Jesus,Puerto Rico,PUR,0,256,12/15/75,,1
+308,Cyril Rudman,South Africa,RSA,0,308,12/15/75,,0
+308,Gianni Ocleppo,Italy,ITA,0,30,12/15/75,,0
+308,Mauricio Silva,Brazil,BRA,0,308,12/15/75,,0
+308,Ben Bishop,United States,USA,0,281,12/15/75,,0
+308,Roberto Lombardi,Italy,ITA,0,221,12/15/75,,0
+308,Antonio Domenech,Spain,ESP,0,272,12/15/75,,0
+308,Graydon Garner,South Africa,RSA,0,272,12/15/75,,0
+308,Dale Power,Canada,CAN,0,272,12/15/75,,0
+308,Jay Harvey,Australia,AUS,0,306,12/15/75,,0
+308,Peter Fishbach,United States,USA,0,272,12/15/75,,0
+308,Pekka Saila,Finland,FIN,0,272,12/15/75,,0
+308,Francisco Gonzalez,Paraguay,PAR,0,36,12/15/75,,0
+308,Ionel Santeiu,Romania,ROU,0,272,12/15/75,,0
+308,Pat Dupre,United States,USA,0,14,12/15/75,,0
+308,Allan Mcdonald,Australia,AUS,0,217,12/15/75,,0
+308,Michael Burgener,Switzerland,SUI,0,306,12/15/75,,0
+308,Gianni Marchetti,Italy,ITA,0,255,12/15/75,,0
+308,Marco Consolini,Italy,ITA,0,308,12/15/75,,0
+308,Gene Russo,United States,USA,0,308,12/15/75,,0
+308,Rocky Vasquez,United States,USA,0,308,12/15/75,,0
+308,Bjorn Wahlstrom,Sweden,SWE,0,272,12/15/75,,0
+308,Larry Nagler,United States,USA,0,272,12/15/75,,0
+308,Roger Mckee,United States,USA,0,237,12/15/75,,0
+308,Terry Addison,Australia,AUS,0,100,12/15/75,,0
+308,Rick Fagel,United States,USA,0,60,12/15/75,,0
+308,Neale Fraser,Australia,AUS,0,188,12/15/75,,0
+308,Hans Goransson,Sweden,SWE,0,272,12/15/75,,0
+308,Tony Bardsley,Canada,CAN,0,207,12/15/75,,0
+308,Joe Bouquin,United States,USA,0,272,12/15/75,,0
+308,Ezio Di Matteo,Italy,ITA,0,151,12/15/75,,0
+308,Mike Styles,South Africa,RSA,0,308,12/15/75,,0
+308,Reinhart Probst,Germany,GER,0,276,12/15/75,,0
+308,Louk Sanders,Netherlands,NED,0,86,12/15/75,,0
+308,Mike Myburg,South Africa,RSA,0,159,12/15/75,,0
+308,Alberto Martorell,Spain,ESP,0,225,12/15/75,,0
+308,John Peckskamp,United States,USA,0,306,12/15/75,,0
+308,John Eagleton,South Africa,RSA,0,272,12/15/75,,0
+308,Geza Varga,Hungary,HUN,0,228,12/15/75,,0
+308,Jim Osborne,United States,USA,0,27,12/15/75,,0
+308,Miguel Mir,Spain,ESP,0,158,12/15/75,,0
+308,Alejandro Pierola,Chile,CHI,0,76,12/15/75,,0
+308,Howard Schoenfield,United States,USA,0,68,12/15/75,,0
+308,Luis Borfiga,Monaco,MON,0,308,12/15/75,,0
+308,Jean Claude Barclay,France,FRA,0,218,12/15/75,,0
+308,Jonathan Smith,United Kingdom,GBR,0,130,12/15/75,,0
+373,Jerry Van Linge,United States,USA,0,271,12/15/75,,0
+373,Dave Kanter,United States,USA,0,326,12/15/75,,0
+373,Greg Braun,Australia,AUS,0,269,12/15/75,,0
+373,Saeed Meer,Pakistan,PAK,0,235,12/15/75,,0
+373,Jaidip Mukherjea,India,IND,0,120,12/15/75,,0
+373,Thierry Quintin,Argentina,ARG,0,326,12/15/75,,0
+373,Roberto Carruthers,Argentina,ARG,0,272,12/15/75,,0
+373,Trevor Fancutt,South Africa,RSA,0,355,12/15/75,,0
+373,Yuksel Yenilmez,Turkey,TUR,0,326,12/15/75,,0
+373,Shanker Krishnan,India,IND,0,373,12/15/75,,0
+373,Premjit Lall,India,IND,0,105,12/15/75,,0
+373,Eddie Edwards,South Africa,RSA,0,42,12/15/75,,18
+373,Mal Anderson,Australia,AUS,0,21,12/15/75,,0
+373,Taghi Akbari,"Iran, Islamic Republic of",IRI,0,146,12/15/75,,0
+373,Larry Parker,United States,USA,0,264,12/15/75,,0
+373,John Trickey,Australia,AUS,0,253,12/15/75,,0
+373,Bill Maze,United States,USA,0,153,12/15/75,,0
+373,Bob Brien,United States,USA,0,373,12/15/75,,0
+373,John Antonas,Bahamas,BAH,0,258,12/15/75,,0
+373,John Muller,South Africa,RSA,0,229,12/15/75,,0
+373,William Durham,Australia,AUS,0,202,12/15/75,,0
+373,Ulf Eriksson,Sweden,SWE,0,189,12/15/75,,0
+373,Mark Knowles,Bahamas,BAH,0,96,12/15/75,,484
+373,Greg Perkins,Australia,AUS,0,265,12/15/75,,0
+373,Fred Hemmes,Netherlands,NED,0,264,12/15/75,,0
+373,Osamu Ishiguro,Japan,JPN,0,228,12/15/75,,0
+373,Michael Wayman,United Kingdom,GBR,0,171,12/15/75,,0
+373,Rejean Genois,Canada,CAN,0,90,12/15/75,,0
+373,Robert Lamarche,United States,USA,0,373,12/15/75,,0
+373,David Carter,Australia,AUS,0,78,12/15/75,,0
+373,Roy Barth,United States,USA,0,49,12/15/75,,0
+373,Tony Parun P071,New Zealand,NZL,0,235,12/15/75,,8
+373,Patrice Hagelauer,France,FRA,0,190,12/15/75,,0
+373,D Richard Russell,Jamaica,JAM,0,140,12/15/75,,0
+373,Gerard Wimmer,Austria,AUT,0,206,12/15/75,,0
+373,Colin Stubs,Australia,AUS,0,274,12/15/75,,0
+373,Javier Soler,Spain,ESP,0,74,12/15/75,,0
+373,Martin Mulligan,Australia,AUS,0,12,12/15/75,,0
+373,Jan Hordijk,Netherlands,NED,0,152,12/15/75,,0
+373,Terry Ryan,South Africa,RSA,0,100,12/15/75,,0
+373,Patricio Rodriguez Chi,Chile,CHI,0,133,12/15/75,,0
+373,Carlos Feldstedt,Chile,CHI,0,247,12/15/75,,0
+373,Bill Shivar,United States,USA,0,373,12/15/75,,0
+373,Mike Lynch,Australia,AUS,0,231,12/15/75,,1
+373,Chris Bovett,United Kingdom,GBR,0,373,12/15/75,,0
+373,Gene Stuart Malin,United States,USA,0,116,12/15/75,,0
+373,Daniel Contet,France,FRA,0,245,12/15/75,,0
+373,Gunther Gnettner,Germany,GER,0,366,12/15/75,,0
+373,Stephen Meyers,Australia,AUS,0,264,12/15/75,,2
+373,Frank Salazar,United States,USA,0,326,12/15/75,,5
+373,William Coghlan,Australia,AUS,0,244,12/15/75,,0
+373,Pancho Segura,Ecuador,ECU,0,43,12/15/75,,0
+373,Richard Meyer,United States,USA,0,89,12/15/75,,0
+373,A Uehara,Japan,JPN,0,373,12/15/75,,0
+373,Eddie Cruz,Philippines,PHI,0,179,12/15/75,,0
+373,Herve Gauvain,France,FRA,0,148,12/15/75,,0

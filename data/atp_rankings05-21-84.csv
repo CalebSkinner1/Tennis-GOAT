@@ -1,0 +1,103 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,John McEnroe,United States,USA,0,1,5/21/84,0,1506
+2,Ivan Lendl,United States,USA,0,1,5/21/84,0,3420
+3,Jimmy Connors,United States,USA,0,1,5/21/84,0,875
+4,Mats Wilander,Sweden,SWE,0,1,5/21/84,0,1075
+5,Jimmy Arias,United States,USA,0,5,5/21/84,0,587
+6,Yannick Noah,France,FRA,0,3,5/21/84,0,1079
+7,Andres Gomez,Ecuador,ECU,0,4,5/21/84,0,2005
+8,Kevin Curren,United States,USA,0,5,5/21/84,1,684
+9,Jose Luis Clerc,Argentina,ARG,0,4,5/21/84,4,20
+10,Eliot Teltscher,United States,USA,0,6,5/21/84,0,15
+11,Henrik Sundstrom,Sweden,SWE,0,6,5/21/84,1,1
+12,Guillermo Vilas,Argentina,ARG,0,2,5/21/84,-1,47
+13,Anders Jarryd,Sweden,SWE,0,5,5/21/84,2,957
+14,Johan Kriek,United States,USA,0,7,5/21/84,0,268
+15,Jose Higueras,Spain,ESP,0,6,5/21/84,-7,0
+16,Juan Aguilera,Spain,ESP,0,7,5/21/84,1,1100
+17,Tomas Smid,Czech Republic,CZE,0,11,5/21/84,-1,28
+18,Bill Scanlon,United States,USA,0,9,5/21/84,0,56
+19,Gene Mayer,United States,USA,0,4,5/21/84,5,6
+20,Tim Mayotte,United States,USA,0,7,5/21/84,3,1274
+21,Sandy Mayer,United States,USA,0,7,5/21/84,-2,0
+22,Chris Lewis Nzl,New Zealand,NZL,0,19,5/21/84,0,8
+23,Vitas Gerulaitis,United States,USA,0,3,5/21/84,-3,0
+24,Stefan Edberg,Sweden,SWE,0,1,5/21/84,-3,3997
+25,Mel Purcell,United States,USA,0,21,5/21/84,2,21
+26,Scott Davis,United States,USA,0,11,5/21/84,-1,638
+27,Henri Leconte,France,FRA,0,5,5/21/84,1,948
+28,Aaron Krickstein,United States,USA,0,6,5/21/84,38,1544
+29,Peter Fleming,United States,USA,0,8,5/21/84,0,0
+30,Diego Perez,Uruguay,URU,0,27,5/21/84,18,389
+31,Heinz Gunthardt,Switzerland,SUI,0,22,5/21/84,-5,0
+32,Pat Cash,Australia,AUS,0,4,5/21/84,-2,658
+33,Brian Gottfried,United States,USA,0,3,5/21/84,1,0
+34,Joakim Nystrom,Sweden,SWE,0,7,5/21/84,-3,54
+35,Fernando Luna,Spain,ESP,0,33,5/21/84,-2,310
+36,Brian Teacher,United States,USA,0,7,5/21/84,-4,0
+37,Tom Gullikson,United States,USA,0,34,5/21/84,-2,0
+38,John Fitzgerald,Australia,AUS,0,25,5/21/84,-2,321
+39,Tim Gullikson,United States,USA,0,15,5/21/84,-1,0
+40,Libor Pimek,Belgium,BEL,0,21,5/21/84,12,73
+41,Paul Mcnamee,Australia,AUS,0,24,5/21/84,-4,0
+42,Pablo Arraya,Peru,PER,0,29,5/21/84,2,348
+43,Wojtek Fibak,Poland,POL,0,10,5/21/84,-4,0
+44,Mark Dickson,United States,USA,0,32,5/21/84,2,0
+45,Roscoe Tanner,United States,USA,0,4,5/21/84,-4,0
+46,Brad Gilbert,United States,USA,0,4,5/21/84,-4,1786
+47,Francesco Cancellotti,Italy,ITA,0,21,5/21/84,24,264
+48,Gianni Ocleppo,Italy,ITA,0,30,5/21/84,3,0
+49,Mike Bauer,United States,USA,0,29,5/21/84,-9,66
+50,Claudio Panatta,Italy,ITA,0,46,5/21/84,17,18
+51,Roberto Arguello,Argentina,ARG,0,38,5/21/84,-8,144
+52,Jimmy Brown,United States,USA,0,42,5/21/84,-7,264
+53,Brad Drewett,Australia,AUS,0,34,5/21/84,-6,170
+54,Miloslav Mecir,Slovakia,SVK,0,4,5/21/84,-1,677
+55,Shlomo Glickstein,Israel,ISR,0,22,5/21/84,5,0
+56,Eric Korita,United States,USA,0,46,5/21/84,0,0
+57,Jan Gunnarsson,Sweden,SWE,0,25,5/21/84,2,579
+58,Ben Testerman,United States,USA,0,22,5/21/84,5,0
+59,Colin Dowdeswell,United Kingdom,GBR,0,31,5/21/84,-10,0
+60,Nduka Odizor,Nigeria,NGR,0,52,5/21/84,-3,186
+61,Wally Masur,Australia,AUS,0,15,5/21/84,-3,1417
+62,Ramesh Krishnan,India,IND,0,23,5/21/84,-7,471
+63,John Lloyd,United Kingdom,GBR,0,23,5/21/84,-9,0
+64,Thomas Hogstedt,Sweden,SWE,0,38,5/21/84,-14,413
+65,Cassio Motta,Brazil,BRA,0,48,5/21/84,-4,352
+66,Steve Denton,United States,USA,0,12,5/21/84,-1,0
+67,Christophe Roger Vasselin,France,FRA,0,29,5/21/84,-3,0
+67,Sammy Giammalva Jr,United States,USA,0,28,5/21/84,-5,68
+69,Fritz Buehning,United States,USA,0,21,5/21/84,0,0
+70,Terry Moor,United States,USA,0,32,5/21/84,0,0
+71,Robert Vant Hof,United States,USA,0,25,5/21/84,1,103
+72,Van Winitsky,United States,USA,0,35,5/21/84,1,0
+73,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,5/21/84,5,0
+74,Glenn Michibata,Canada,CAN,0,48,5/21/84,1,152
+75,Marty Davis,United States,USA,0,47,5/21/84,-1,158
+76,Pedro Rebolledo,Chile,CHI,0,36,5/21/84,1,335
+77,Steve Meister,United States,USA,0,69,5/21/84,-1,0
+78,Andreas Maurer,Germany,GER,0,24,5/21/84,3,12
+79,John Sadri,United States,USA,0,14,5/21/84,0,0
+80,John Alexander,Australia,AUS,0,8,5/21/84,0,0
+81,Chip Hooper,United States,USA,0,17,5/21/84,2,0
+82,Zoltan Kuharszky,Hungary,HUN,0,53,5/21/84,2,0
+83,Marcel Freeman,United States,USA,0,46,5/21/84,,0
+84,Michael Westphal,Germany,GER,0,49,5/21/84,,81
+85,Pavel Slozil,Czech Republic,CZE,0,12,5/21/84,,0
+86,David Pate,United States,USA,0,18,5/21/84,-1,441
+87,Leif Shiras,United States,USA,0,31,5/21/84,,291
+88,Emilio Sanchez,Spain,ESP,0,7,5/21/84,-1,1634
+89,Jakob Hlasek,Switzerland,SUI,0,7,5/21/84,-1,1308
+90,Trevor Allan,Australia,AUS,0,57,5/21/84,1,0
+91,Vijay Amritraj,India,IND,0,18,5/21/84,,69
+92,Marko Ostoja,Croatia,CRO,0,74,5/21/84,2,92
+93,Tim Wilkison,United States,USA,0,23,5/21/84,0,269
+94,Bernard Mitton,South Africa,RSA,0,42,5/21/84,,0
+95,Givaldo Barbosa,Brazil,BRA,0,78,5/21/84,-4,71
+95,Tony Giammalva,United States,USA,0,54,5/21/84,2,0
+97,Simone Colombo,Italy,ITA,0,60,5/21/84,-12,192
+98,Rolf Gehring,Germany,GER,0,30,5/21/84,-8,0
+99,Mark Edmondson,Australia,AUS,0,15,5/21/84,-3,0
+100,Matt Doyle,United States,USA,0,65,5/21/84,,0
+100,Greg Holmes,United States,USA,0,22,5/21/84,-3,50
+137,Jaromir Becka,Germany,GER,0,137,5/21/84,,9

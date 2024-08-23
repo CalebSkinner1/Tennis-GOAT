@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,5/23/83,0,875
+2,John McEnroe,United States,USA,0,1,5/23/83,0,1506
+3,Ivan Lendl,United States,USA,0,1,5/23/83,0,3420
+4,Guillermo Vilas,Argentina,ARG,0,2,5/23/83,0,47
+5,Mats Wilander,Sweden,SWE,0,1,5/23/83,0,1075
+6,Yannick Noah,France,FRA,0,3,5/23/83,1,1079
+7,Jose Higueras,Spain,ESP,0,6,5/23/83,2,0
+8,Gene Mayer,United States,USA,0,4,5/23/83,-2,6
+9,Jose Luis Clerc,Argentina,ARG,0,4,5/23/83,-1,20
+10,Vitas Gerulaitis,United States,USA,0,3,5/23/83,0,0
+11,Peter Mcnamara,Australia,AUS,0,7,5/23/83,0,0
+12,Jimmy Arias,United States,USA,0,5,5/23/83,4,587
+13,Steve Denton,United States,USA,0,12,5/23/83,-1,0
+14,Johan Kriek,United States,USA,0,7,5/23/83,1,268
+15,Kevin Curren,United States,USA,0,5,5/23/83,-1,684
+16,Eliot Teltscher,United States,USA,0,6,5/23/83,-3,15
+17,Bill Scanlon,United States,USA,0,9,5/23/83,0,56
+18,Brian Gottfried,United States,USA,0,3,5/23/83,0,0
+19,Hank Pfister,United States,USA,0,19,5/23/83,0,0
+20,Henrik Sundstrom,Sweden,SWE,0,6,5/23/83,1,1
+21,Tomas Smid,Czech Republic,CZE,0,11,5/23/83,1,28
+22,Wojtek Fibak,Poland,POL,0,10,5/23/83,-2,0
+23,Brian Teacher,United States,USA,0,7,5/23/83,2,0
+24,Mark Edmondson,Australia,AUS,0,15,5/23/83,2,0
+25,Tim Mayotte,United States,USA,0,7,5/23/83,-1,1274
+26,Henri Leconte,France,FRA,0,5,5/23/83,1,948
+27,Sandy Mayer,United States,USA,0,7,5/23/83,1,0
+28,Robert Vant Hof,United States,USA,0,25,5/23/83,1,103
+29,Balazs Taroczy,Hungary,HUN,0,12,5/23/83,2,0
+30,John Alexander,Australia,AUS,0,8,5/23/83,0,0
+31,Mel Purcell,United States,USA,0,21,5/23/83,1,21
+32,Shlomo Glickstein,Israel,ISR,0,22,5/23/83,1,0
+33,Raul Ramirez,Mexico,MEX,0,4,5/23/83,2,0
+34,Paul Mcnamee,Australia,AUS,0,24,5/23/83,4,0
+35,Jay Lapidus,United States,USA,0,34,5/23/83,1,0
+36,Marcos Hocevar,Brazil,BRA,0,30,5/23/83,1,23
+37,Corrado Barazzutti,Italy,ITA,0,7,5/23/83,4,0
+38,Hans Gildemeister,Chile,CHI,0,12,5/23/83,1,0
+39,Andres Gomez,Ecuador,ECU,0,4,5/23/83,-16,2005
+40,Chip Hooper,United States,USA,0,17,5/23/83,0,0
+41,Mark Dickson,United States,USA,0,32,5/23/83,2,0
+42,Mike De Palmer,United States,USA,0,35,5/23/83,0,4
+43,Thomas Hogstedt,Sweden,SWE,0,38,5/23/83,4,413
+44,Heinz Gunthardt,Switzerland,SUI,0,22,5/23/83,36,0
+45,Sammy Giammalva Jr,United States,USA,0,28,5/23/83,0,68
+46,Victor Pecci,Paraguay,PAR,0,9,5/23/83,-2,0
+47,Fritz Buehning,United States,USA,0,21,5/23/83,-1,0
+48,Stefan Simonsson,Sweden,SWE,0,48,5/23/83,28,0
+49,Mike Bauer,United States,USA,0,29,5/23/83,-1,66
+50,Russell Simpson,New Zealand,NZL,0,47,5/23/83,0,0
+51,Pablo Arraya,Peru,PER,0,29,5/23/83,-17,348
+52,Pavel Slozil,Czech Republic,CZE,0,12,5/23/83,2,0
+53,Dominique Bedel,France,FRA,0,41,5/23/83,0,0
+54,Pat Cash,Australia,AUS,0,4,5/23/83,4,658
+55,Manuel Orantes,Spain,ESP,0,2,5/23/83,1,0
+56,John Fitzgerald,Australia,AUS,0,25,5/23/83,-1,321
+57,Eric Fromm,United States,USA,0,46,5/23/83,-6,0
+58,Bernard Boileau,Belgium,BEL,0,41,5/23/83,-1,0
+59,Fernando Luna,Spain,ESP,0,33,5/23/83,1,310
+60,Jaime Fillol,Chile,CHI,0,14,5/23/83,-8,0
+61,Buster C Mottram,United Kingdom,GBR,0,15,5/23/83,-12,0
+62,Tom Gullikson,United States,USA,0,34,5/23/83,-1,0
+63,Tim Wilkison,United States,USA,0,23,5/23/83,-1,269
+64,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,5/23/83,-5,0
+65,Vincent Van Patten,United States,USA,0,26,5/23/83,-1,0
+66,Eddie Dibbs,United States,USA,0,5,5/23/83,5,0
+67,Guy Forget,France,FRA,0,4,5/23/83,23,2392
+68,Rodney Harmon,United States,USA,0,56,5/23/83,0,0
+69,Chris Lewis Nzl,New Zealand,NZL,0,19,5/23/83,3,8
+70,Gianni Ocleppo,Italy,ITA,0,30,5/23/83,-7,0
+71,Pat Dupre,United States,USA,0,14,5/23/83,-6,0
+72,Thierry Tulasne,France,FRA,0,10,5/23/83,-5,334
+73,Jimmy Brown,United States,USA,0,42,5/23/83,-3,264
+74,Ramesh Krishnan,India,IND,0,23,5/23/83,1,471
+75,Jairo Velasco,Spain,ESP,0,46,5/23/83,-9,0
+76,Brad Gilbert,United States,USA,0,4,5/23/83,-3,1786
+77,Carlos Kirmayr,Brazil,BRA,0,36,5/23/83,-3,0
+77,Jeff Borowiak,United States,USA,0,20,5/23/83,-8,0
+79,Hans Simonsson,Sweden,SWE,0,45,5/23/83,5,0
+80,Nick Saviano,United States,USA,0,48,5/23/83,-3,0
+81,Libor Pimek,Belgium,BEL,0,21,5/23/83,6,73
+81,Florin Segarceanu,Romania,ROU,0,73,5/23/83,4,91
+83,Tom Cain,United States,USA,0,70,5/23/83,-4,0
+84,Joakim Nystrom,Sweden,SWE,0,7,5/23/83,,54
+85,Drew Gitlin,United States,USA,0,65,5/23/83,-4,0
+86,Anders Jarryd,Sweden,SWE,0,5,5/23/83,-8,957
+87,Nduka Odizor,Nigeria,NGR,0,52,5/23/83,-5,186
+88,Robert Lutz,United States,USA,0,11,5/23/83,-5,0
+89,Michiel Schapers,Netherlands,NED,0,25,5/23/83,,606
+89,Robbie Venter,South Africa,RSA,0,87,5/23/83,-1,0
+91,Sergio Casal,Spain,ESP,0,31,5/23/83,-2,122
+92,Kim Warwick,Australia,AUS,0,15,5/23/83,0,15
+93,Chris Johnstone,Australia,AUS,0,70,5/23/83,0,0
+94,Zoltan Kuharszky,Hungary,HUN,0,53,5/23/83,5,0
+95,Matt Doyle,United States,USA,0,65,5/23/83,,0
+96,Derek Tarr,United States,USA,0,87,5/23/83,-2,1
+97,Francisco Gonzalez,Paraguay,PAR,0,36,5/23/83,-3,0
+98,Bruce Foxworth,United States,USA,0,97,5/23/83,-1,0
+99,Stan Smith,United States,USA,0,2,5/23/83,1,0
+100,Francesco Cancellotti,Italy,ITA,0,21,5/23/83,,264

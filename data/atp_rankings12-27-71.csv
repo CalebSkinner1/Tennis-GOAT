@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,12/27/71,0,0
+2,Ken Rosewall,Australia,AUS,0,1,12/27/71,1,0
+3,John Newcombe,Australia,AUS,0,1,12/27/71,1,0
+4,Arthur Ashe,United States,USA,0,2,12/27/71,1,0
+5,Stan Smith,United States,USA,0,2,12/27/71,-3,0
+6,Tom Okker,Netherlands,NED,0,3,12/27/71,0,0
+7,Jan Kodes,Czech Republic,CZE,0,5,12/27/71,0,14
+8,Ilie Nastase,Romania,ROU,0,1,12/27/71,3,0
+9,Marty Riessen,United States,USA,0,8,12/27/71,-1,0
+10,Cliff Drysdale,South Africa,RSA,0,9,12/27/71,-1,0
+11,Robert Lutz,United States,USA,0,11,12/27/71,4,0
+12,Cliff Richey,United States,USA,0,4,12/27/71,-2,0
+13,Clark Graebner,United States,USA,0,7,12/27/71,0,0
+14,Zeljko Franulovic,Croatia,CRO,0,11,12/27/71,-2,0
+15,Roy Emerson,Australia,AUS,0,4,12/27/71,-1,0
+16,Andres Gimeno,Spain,ESP,0,3,12/27/71,5,0
+17,Manuel Orantes,Spain,ESP,0,2,12/27/71,12,0
+18,Tom Gorman,United States,USA,0,7,12/27/71,0,0
+19,John Alexander,Australia,AUS,0,8,12/27/71,0,0
+20,Nikola Pilic,Croatia,CRO,0,10,12/27/71,0,0
+21,Frank Froehling,United States,USA,0,21,12/27/71,1,0
+22,Roger Taylor,United Kingdom,GBR,0,9,12/27/71,-6,0
+23,Jaime Fillol,Chile,CHI,0,14,12/27/71,2,0
+24,Mark Cox,United Kingdom,GBR,0,12,12/27/71,2,0
+25,Pierre Barthes,France,FRA,0,15,12/27/71,3,0
+26,Dennis Ralston,United States,USA,0,7,12/27/71,-9,0
+27,Richard Pancho Gonzales,United States,USA,0,5,12/27/71,-3,0
+28,Ray Ruffels,Australia,AUS,0,21,12/27/71,5,0
+29,Colin Dibley,Australia,AUS,0,27,12/27/71,-2,0
+30,Bob Carmichael,Australia,AUS,0,23,12/27/71,-7,0
+31,Fred Stolle,Australia,AUS,0,7,12/27/71,5,0
+32,Ismail El Shafei,Egypt,EGY,0,28,12/27/71,-2,0
+33,Charlie Pasarell,United States,USA,0,15,12/27/71,4,0
+34,Gerald Battrick,United Kingdom,GBR,0,28,12/27/71,0,0
+35,Jimmy Connors,United States,USA,0,1,12/27/71,-4,875
+36,Tony Roche,Australia,AUS,0,2,12/27/71,-1,0
+37,Onny Parun,New Zealand,NZL,0,19,12/27/71,5,0
+38,Thomaz Koch,Brazil,BRA,0,16,12/27/71,1,0
+39,Jeff Borowiak,United States,USA,0,20,12/27/71,,0
+40,Alex Metreveli,Russian Federation,RUS,0,9,12/27/71,1,0
+41,Bob Hewitt,South Africa,RSA,0,16,12/27/71,,0
+42,Martin Mulligan,Australia,AUS,0,12,12/27/71,,0
+43,Ion Tiriac,Romania,ROU,0,23,12/27/71,-5,0
+44,Raymond Moore,South Africa,RSA,0,20,12/27/71,1,0
+45,Jan Leschly,Denmark,DEN,0,19,12/27/71,5,0
+46,Robert Maud,South Africa,RSA,0,35,12/27/71,,0
+47,Juan Gisbert,Spain,ESP,0,29,12/27/71,0,0
+48,Brian Fairlie,New Zealand,NZL,0,24,12/27/71,,0
+49,Phil Dent,Australia,AUS,0,17,12/27/71,-6,0
+50,Owen Davidson,Australia,AUS,0,13,12/27/71,-6,0

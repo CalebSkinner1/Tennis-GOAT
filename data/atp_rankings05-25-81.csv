@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Bjorn Borg,Sweden,SWE,0,1,5/25/81,0,10
+2,Jimmy Connors,United States,USA,0,1,5/25/81,0,875
+3,John McEnroe,United States,USA,0,1,5/25/81,0,1506
+4,Gene Mayer,United States,USA,0,4,5/25/81,0,6
+5,Ivan Lendl,United States,USA,0,1,5/25/81,0,3420
+6,Guillermo Vilas,Argentina,ARG,0,2,5/25/81,0,47
+7,Jose Luis Clerc,Argentina,ARG,0,4,5/25/81,1,20
+8,Roscoe Tanner,United States,USA,0,4,5/25/81,-1,0
+9,Harold Solomon,United States,USA,0,5,5/25/81,0,2
+10,Vitas Gerulaitis,United States,USA,0,3,5/25/81,0,0
+11,Brian Gottfried,United States,USA,0,3,5/25/81,2,0
+12,Brian Teacher,United States,USA,0,7,5/25/81,2,0
+13,Eliot Teltscher,United States,USA,0,6,5/25/81,-2,15
+14,Peter Mcnamara,Australia,AUS,0,7,5/25/81,1,0
+15,Wojtek Fibak,Poland,POL,0,10,5/25/81,1,0
+16,Yannick Noah,France,FRA,0,3,5/25/81,-4,1079
+17,Balazs Taroczy,Hungary,HUN,0,12,5/25/81,0,0
+18,Victor Pecci,Paraguay,PAR,0,9,5/25/81,3,0
+19,Johan Kriek,United States,USA,0,7,5/25/81,-1,268
+20,Eddie Dibbs,United States,USA,0,5,5/25/81,-1,0
+21,Adriano Panatta,Italy,ITA,0,4,5/25/81,1,0
+22,Kim Warwick,Australia,AUS,0,15,5/25/81,1,15
+23,Jose Higueras,Spain,ESP,0,6,5/25/81,2,0
+24,Robert Lutz,United States,USA,0,11,5/25/81,0,0
+25,John Sadri,United States,USA,0,14,5/25/81,1,0
+26,Tomas Smid,Czech Republic,CZE,0,11,5/25/81,-6,28
+27,Vijay Amritraj,India,IND,0,18,5/25/81,0,69
+28,Mel Purcell,United States,USA,0,21,5/25/81,0,21
+29,Corrado Barazzutti,Italy,ITA,0,7,5/25/81,0,0
+30,Fritz Buehning,United States,USA,0,21,5/25/81,1,0
+31,Sammy Giammalva Jr,United States,USA,0,28,5/25/81,-1,68
+32,Paul Mcnamee,Australia,AUS,0,24,5/25/81,0,0
+33,Sandy Mayer,United States,USA,0,7,5/25/81,2,0
+34,Hans Gildemeister,Chile,CHI,0,12,5/25/81,-1,0
+35,Stan Smith,United States,USA,0,2,5/25/81,1,0
+36,Rolf Gehring,Germany,GER,0,30,5/25/81,-2,0
+37,Terry Moor,United States,USA,0,32,5/25/81,0,0
+38,Bill Scanlon,United States,USA,0,9,5/25/81,0,56
+39,Victor Amaya,United States,USA,0,15,5/25/81,1,0
+40,Tom Gullikson,United States,USA,0,34,5/25/81,-1,0
+41,Pascal Portes,France,FRA,0,41,5/25/81,1,0
+42,Heinz Gunthardt,Switzerland,SUI,0,22,5/25/81,2,0
+43,Kevin Curren,United States,USA,0,5,5/25/81,0,684
+44,Jose Luis Damiani,Uruguay,URU,0,32,5/25/81,4,0
+45,Buster C Mottram,United Kingdom,GBR,0,15,5/25/81,1,0
+46,Carlos Kirmayr,Brazil,BRA,0,36,5/25/81,-1,0
+47,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,5/25/81,0,0
+48,Raul Ramirez,Mexico,MEX,0,4,5/25/81,-7,0
+49,Phil Dent,Australia,AUS,0,17,5/25/81,2,0
+50,Pat Dupre,United States,USA,0,14,5/25/81,-2,0
+51,Trey Waltke,United States,USA,0,41,5/25/81,-1,0
+52,Chris Lewis Nzl,New Zealand,NZL,0,19,5/25/81,18,8
+53,Shlomo Glickstein,Israel,ISR,0,22,5/25/81,1,0
+54,John Austin,United States,USA,0,40,5/25/81,-1,0
+55,Ricardo Cano,Argentina,ARG,0,41,5/25/81,2,0
+56,Tony Giammalva,United States,USA,0,54,5/25/81,-2,0
+57,Gianni Ocleppo,Italy,ITA,0,30,5/25/81,-1,0
+58,Nick Saviano,United States,USA,0,48,5/25/81,-1,0
+59,Ricardo Ycaza,Ecuador,ECU,0,44,5/25/81,-7,0
+60,Butch Walts,United States,USA,0,30,5/25/81,-1,0
+61,Christophe Roger Vasselin,France,FRA,0,29,5/25/81,17,0
+62,Peter Fleming,United States,USA,0,8,5/25/81,-3,0
+63,Peter Rennert,United States,USA,0,40,5/25/81,-2,0
+64,Francisco Gonzalez,Paraguay,PAR,0,36,5/25/81,-2,0
+65,Angel Gimenez,Spain,ESP,0,41,5/25/81,7,0
+66,Tim Gullikson,United States,USA,0,15,5/25/81,-2,0
+67,Ilie Nastase,Romania,ROU,0,1,5/25/81,-4,0
+68,Thomaz Koch,Brazil,BRA,0,16,5/25/81,7,0
+69,Pavel Slozil,Czech Republic,CZE,0,12,5/25/81,-2,0
+70,Ramesh Krishnan,India,IND,0,23,5/25/81,-5,471
+71,Marcos Hocevar,Brazil,BRA,0,30,5/25/81,-5,23
+72,Bruce Manson,United States,USA,0,39,5/25/81,4,0
+73,Andres Gomez,Ecuador,ECU,0,4,5/25/81,-5,2005
+74,Mark Edmondson,Australia,AUS,0,15,5/25/81,-1,0
+75,Thierry Tulasne,France,FRA,0,10,5/25/81,-6,334
+76,Jeff Borowiak,United States,USA,0,20,5/25/81,-2,0
+77,Vincent Van Patten,United States,USA,0,26,5/25/81,0,0
+78,Steve Docherty,Australia,AUS,0,74,5/25/81,0,0
+79,Per Hjertquist,Sweden,SWE,0,68,5/25/81,1,0
+80,Kjell Johansson,Sweden,SWE,0,32,5/25/81,3,0
+81,Peter Elter,Germany,GER,0,51,5/25/81,3,0
+82,John Fitzgerald,Australia,AUS,0,25,5/25/81,5,321
+83,Tim Wilkison,United States,USA,0,23,5/25/81,5,269
+83,Hank Pfister,United States,USA,0,19,5/25/81,-1,0
+85,Eduardo Bengoechea,Argentina,ARG,0,21,5/25/81,1,273
+86,Peter Feigl,Austria,AUT,0,35,5/25/81,5,0
+87,Paul Kronk,Australia,AUS,0,66,5/25/81,-2,0
+87,Jose Lopez Maeso,Spain,ESP,0,63,5/25/81,2,66
+89,Louk Sanders,Netherlands,NED,0,86,5/25/81,1,0
+90,Bernard Mitton,South Africa,RSA,0,42,5/25/81,7,0
+91,Russell Simpson,New Zealand,NZL,0,47,5/25/81,3,0
+92,Fernando Luna,Spain,ESP,0,33,5/25/81,8,310
+93,Paolo Bertolucci,Italy,ITA,0,12,5/25/81,2,0
+94,Van Winitsky,United States,USA,0,35,5/25/81,2,0
+95,Jaime Fillol,Chile,CHI,0,14,5/25/81,-2,0
+96,Ferdi Taygan,United States,USA,0,59,5/25/81,4,0
+97,Jan Norback,Sweden,SWE,0,84,5/25/81,-5,0
+98,Manuel Orantes,Spain,ESP,0,2,5/25/81,-27,0
+99,Klaus Eberhard,Germany,GER,0,81,5/25/81,-18,0
+100,Rick Meyers,United States,USA,0,83,5/25/81,-2,0

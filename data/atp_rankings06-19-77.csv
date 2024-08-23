@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,6/19/77,0,875
+2,Bjorn Borg,Sweden,SWE,0,1,6/19/77,0,10
+3,Brian Gottfried,United States,USA,0,3,6/19/77,1,0
+4,Guillermo Vilas,Argentina,ARG,0,2,6/19/77,-1,47
+5,Raul Ramirez,Mexico,MEX,0,4,6/19/77,1,0
+6,Ilie Nastase,Romania,ROU,0,1,6/19/77,-1,0
+7,Manuel Orantes,Spain,ESP,0,2,6/19/77,0,0
+8,Roscoe Tanner,United States,USA,0,4,6/19/77,0,0
+9,Vitas Gerulaitis,United States,USA,0,3,6/19/77,0,0
+10,Eddie Dibbs,United States,USA,0,5,6/19/77,0,0
+11,Dick Stockton,United States,USA,0,8,6/19/77,0,0
+12,Harold Solomon,United States,USA,0,5,6/19/77,0,2
+13,Wojtek Fibak,Poland,POL,0,10,6/19/77,0,0
+14,Mark Cox,United Kingdom,GBR,0,12,6/19/77,1,0
+15,Stan Smith,United States,USA,0,2,6/19/77,-1,0
+16,Ken Rosewall,Australia,AUS,0,1,6/19/77,0,0
+17,Adriano Panatta,Italy,ITA,0,4,6/19/77,1,0
+18,Tony Roche,Australia,AUS,0,2,6/19/77,-1,0
+19,Arthur Ashe,United States,USA,0,2,6/19/77,2,0
+20,Corrado Barazzutti,Italy,ITA,0,7,6/19/77,-1,0
+21,Robert Lutz,United States,USA,0,11,6/19/77,-1,0
+22,Paolo Bertolucci,Italy,ITA,0,12,6/19/77,5,0
+23,Jaime Fillol,Chile,CHI,0,14,6/19/77,-1,0
+24,Jan Kodes,Czech Republic,CZE,0,5,6/19/77,-1,14
+25,Phil Dent,Australia,AUS,0,17,6/19/77,0,0
+26,Antonio Zugarelli,Italy,ITA,0,24,6/19/77,-2,0
+27,Cliff Drysdale,South Africa,RSA,0,9,6/19/77,-1,0
+28,Sandy Mayer,United States,USA,0,7,6/19/77,2,0
+29,Buster C Mottram,United Kingdom,GBR,0,15,6/19/77,0,0
+30,John Alexander,Australia,AUS,0,8,6/19/77,-2,0
+31,Tom Okker,Netherlands,NED,0,3,6/19/77,0,0
+32,Cliff Richey,United States,USA,0,4,6/19/77,0,0
+33,Zeljko Franulovic,Croatia,CRO,0,11,6/19/77,6,0
+33,Jose Higueras,Spain,ESP,0,6,6/19/77,2,0
+35,Dick Crealy,Australia,AUS,0,19,6/19/77,3,0
+36,Brian Fairlie,New Zealand,NZL,0,24,6/19/77,1,0
+37,Bill Scanlon,United States,USA,0,9,6/19/77,-1,56
+37,Victor Pecci,Paraguay,PAR,0,9,6/19/77,-4,0
+39,Balazs Taroczy,Hungary,HUN,0,12,6/19/77,1,0
+40,Han Jurgen Pohmann,Germany,GER,0,30,6/19/77,-6,0
+41,Charlie Pasarell,United States,USA,0,15,6/19/77,2,0
+42,Jeff Borowiak,United States,USA,0,20,6/19/77,-1,0
+43,Raymond Moore,South Africa,RSA,0,20,6/19/77,-1,0
+44,Marty Riessen,United States,USA,0,8,6/19/77,0,0
+45,Colin Dibley,Australia,AUS,0,27,6/19/77,2,0
+46,Karl Meiler,Germany,GER,0,20,6/19/77,-1,0
+47,Haroon Rahim,Pakistan,PAK,0,34,6/19/77,4,0
+48,Mark Edmondson,Australia,AUS,0,15,6/19/77,0,0
+49,Vijay Amritraj,India,IND,0,18,6/19/77,-3,69
+50,Tom Gorman,United States,USA,0,7,6/19/77,-1,0
+51,Ross Case,Australia,AUS,0,14,6/19/77,3,0
+52,Hank Pfister,United States,USA,0,19,6/19/77,14,0
+53,Peter Fleming,United States,USA,0,8,6/19/77,-3,0
+54,Kim Warwick,Australia,AUS,0,15,6/19/77,3,15
+55,Geoff Masters,Australia,AUS,0,42,6/19/77,1,0
+56,Bob Hewitt,South Africa,RSA,0,16,6/19/77,-3,0
+57,Francois Jauffret,France,FRA,0,20,6/19/77,1,0
+58,Ray Ruffels,Australia,AUS,0,21,6/19/77,-3,0
+59,Bernard Mitton,South Africa,RSA,0,42,6/19/77,0,0
+60,Tom Gullikson,United States,USA,0,34,6/19/77,0,0
+61,Frew Mcmillan,South Africa,RSA,0,34,6/19/77,0,0
+62,Jurgen Fassbender,Germany,GER,0,31,6/19/77,1,0
+63,Nikola Pilic,Croatia,CRO,0,10,6/19/77,-1,0
+63,Brian Teacher,United States,USA,0,7,6/19/77,0,0
+65,Ove Nils Bengtson,Sweden,SWE,0,43,6/19/77,-13,0
+66,Byron Bertram,South Africa,RSA,0,51,6/19/77,1,0
+67,Tim Gullikson,United States,USA,0,15,6/19/77,1,0
+68,Deon Joubert,South Africa,RSA,0,52,6/19/77,1,0
+69,Jiri Hrebec,Czech Republic,CZE,0,25,6/19/77,9,0
+70,John Lloyd,United Kingdom,GBR,0,23,6/19/77,1,0
+71,Jim Delaney,United States,USA,0,59,6/19/77,2,0
+72,Ricardo Cano,Argentina,ARG,0,41,6/19/77,-7,0
+73,Hans Gildemeister,Chile,CHI,0,12,6/19/77,5,0
+74,John Yuill,South Africa,RSA,0,52,6/19/77,-2,0
+75,Billy Martin,United States,USA,0,32,6/19/77,-1,0
+76,Onny Parun,New Zealand,NZL,0,19,6/19/77,-1,0
+77,Belus Prajoux,Chile,CHI,0,62,6/19/77,-7,0
+78,Gene Mayer,United States,USA,0,4,6/19/77,-2,6
+79,Nicola Spear,Serbia,SRB,0,49,6/19/77,12,0
+80,Steve Krulevitz,United States,USA,0,70,6/19/77,,0
+81,Sherwood Stewart,United States,USA,0,60,6/19/77,-4,0
+82,Terry Moor,United States,USA,0,32,6/19/77,1,0
+82,Kjell Johansson,Sweden,SWE,0,32,6/19/77,1,0
+84,Victor Amaya,United States,USA,0,15,6/19/77,-2,0
+85,Willem Prinsloo,South Africa,RSA,0,81,6/19/77,4,0
+85,Javier Soler,Spain,ESP,0,74,6/19/77,13,0
+87,Frank Gebert,Germany,GER,0,71,6/19/77,-1,0
+88,Rolf Norberg,Sweden,SWE,0,88,6/19/77,4,0
+89,Thomaz Koch,Brazil,BRA,0,16,6/19/77,5,0
+90,Colin Dowdeswell,United Kingdom,GBR,0,31,6/19/77,-5,0
+91,Sashi Menon,India,IND,0,82,6/19/77,-3,0
+92,Trey Waltke,United States,USA,0,41,6/19/77,-5,0
+93,Alex Metreveli,Russian Federation,RUS,0,9,6/19/77,-15,0
+94,Allan Stone,Australia,AUS,0,30,6/19/77,1,0
+95,Fred Mcnair,United States,USA,0,77,6/19/77,-5,0
+96,Butch Walts,United States,USA,0,30,6/19/77,0,0
+97,Chris Lewis Nzl,New Zealand,NZL,0,19,6/19/77,0,8
+98,Richard Lewis,United Kingdom,GBR,0,77,6/19/77,1,0
+99,George Hardie,United States,USA,0,80,6/19/77,,0
+100,John Feaver,United Kingdom,GBR,0,91,6/19/77,,0

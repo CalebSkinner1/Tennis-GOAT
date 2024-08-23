@@ -1,0 +1,102 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,John McEnroe,United States,USA,0,1,12/21/81,0,1506
+2,Jimmy Connors,United States,USA,0,1,12/21/81,0,875
+3,Ivan Lendl,United States,USA,0,1,12/21/81,0,3420
+4,Bjorn Borg,Sweden,SWE,0,1,12/21/81,0,10
+5,Jose Luis Clerc,Argentina,ARG,0,4,12/21/81,0,20
+6,Guillermo Vilas,Argentina,ARG,0,2,12/21/81,0,47
+7,Gene Mayer,United States,USA,0,4,12/21/81,0,6
+8,Eliot Teltscher,United States,USA,0,6,12/21/81,1,15
+9,Brian Teacher,United States,USA,0,7,12/21/81,-1,0
+10,Peter Mcnamara,Australia,AUS,0,7,12/21/81,0,0
+11,Vitas Gerulaitis,United States,USA,0,3,12/21/81,1,0
+12,Roscoe Tanner,United States,USA,0,4,12/21/81,-1,0
+13,Yannick Noah,France,FRA,0,3,12/21/81,0,1079
+14,Sandy Mayer,United States,USA,0,7,12/21/81,0,0
+15,Balazs Taroczy,Hungary,HUN,0,12,12/21/81,0,0
+16,Victor Pecci,Paraguay,PAR,0,9,12/21/81,0,0
+17,Wojtek Fibak,Poland,POL,0,10,12/21/81,0,0
+18,Brian Gottfried,United States,USA,0,3,12/21/81,0,0
+19,Johan Kriek,United States,USA,0,7,12/21/81,0,268
+20,Vijay Amritraj,India,IND,0,18,12/21/81,0,69
+21,Harold Solomon,United States,USA,0,5,12/21/81,0,2
+22,Stan Smith,United States,USA,0,2,12/21/81,1,0
+23,Mark Edmondson,Australia,AUS,0,15,12/21/81,5,0
+24,Mel Purcell,United States,USA,0,21,12/21/81,0,21
+25,Eddie Dibbs,United States,USA,0,5,12/21/81,0,0
+26,Vincent Van Patten,United States,USA,0,26,12/21/81,0,0
+27,Hans Gildemeister,Chile,CHI,0,12,12/21/81,0,0
+28,Tomas Smid,Czech Republic,CZE,0,11,12/21/81,0,28
+29,Kim Warwick,Australia,AUS,0,15,12/21/81,-7,15
+30,Bill Scanlon,United States,USA,0,9,12/21/81,4,56
+31,Chris Lewis Nzl,New Zealand,NZL,0,19,12/21/81,13,8
+32,Raul Ramirez,Mexico,MEX,0,4,12/21/81,3,0
+33,Tim Mayotte,United States,USA,0,7,12/21/81,-1,1274
+34,Shlomo Glickstein,Israel,ISR,0,22,12/21/81,-1,0
+35,Jose Higueras,Spain,ESP,0,6,12/21/81,2,0
+36,John Sadri,United States,USA,0,14,12/21/81,0,0
+37,Andres Gomez,Ecuador,ECU,0,4,12/21/81,1,2005
+38,Heinz Gunthardt,Switzerland,SUI,0,22,12/21/81,1,0
+39,Hank Pfister,United States,USA,0,19,12/21/81,6,0
+40,Adriano Panatta,Italy,ITA,0,4,12/21/81,1,0
+41,Carlos Kirmayr,Brazil,BRA,0,36,12/21/81,-1,0
+42,Rolf Gehring,Germany,GER,0,30,12/21/81,1,0
+43,Bruce Manson,United States,USA,0,39,12/21/81,-1,0
+44,Pat Dupre,United States,USA,0,14,12/21/81,5,0
+45,Pedro Rebolledo,Chile,CHI,0,36,12/21/81,1,335
+46,Manuel Orantes,Spain,ESP,0,2,12/21/81,1,0
+47,Van Winitsky,United States,USA,0,35,12/21/81,1,0
+48,Paul Mcnamee,Australia,AUS,0,24,12/21/81,-17,0
+49,Andreas Maurer,Germany,GER,0,24,12/21/81,1,12
+50,Kevin Curren,United States,USA,0,5,12/21/81,2,684
+51,Jose Luis Damiani,Uruguay,URU,0,32,12/21/81,0,0
+52,Jeff Borowiak,United States,USA,0,20,12/21/81,1,0
+52,Tim Gullikson,United States,USA,0,15,12/21/81,2,0
+54,Steve Denton,United States,USA,0,12,12/21/81,20,0
+55,Fritz Buehning,United States,USA,0,21,12/21/81,-25,0
+55,Corrado Barazzutti,Italy,ITA,0,7,12/21/81,1,0
+57,Terry Moor,United States,USA,0,32,12/21/81,0,0
+58,Peter Rennert,United States,USA,0,40,12/21/81,-3,0
+59,Thierry Tulasne,France,FRA,0,10,12/21/81,0,334
+60,John Fitzgerald,Australia,AUS,0,25,12/21/81,-2,321
+61,Sammy Giammalva Jr,United States,USA,0,28,12/21/81,-1,68
+62,Ricardo Cano,Argentina,ARG,0,41,12/21/81,-1,0
+63,Tom Gullikson,United States,USA,0,34,12/21/81,0,0
+64,John Austin,United States,USA,0,40,12/21/81,0,0
+65,Phil Dent,Australia,AUS,0,17,12/21/81,2,0
+66,Stanislav Birner,Czech Republic,CZE,0,60,12/21/81,0,1
+67,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,12/21/81,1,0
+68,Pavel Slozil,Czech Republic,CZE,0,12,12/21/81,1,0
+69,Joakim Nystrom,Sweden,SWE,0,7,12/21/81,-7,54
+70,Ramesh Krishnan,India,IND,0,23,12/21/81,-5,471
+71,Tim Wilkison,United States,USA,0,23,12/21/81,,269
+72,Buster C Mottram,United Kingdom,GBR,0,15,12/21/81,-2,0
+73,Mats Wilander,Sweden,SWE,0,1,12/21/81,-2,1075
+74,Ilie Nastase,Romania,ROU,0,1,12/21/81,-2,0
+75,John Alexander,Australia,AUS,0,8,12/21/81,14,0
+76,Ricardo Ycaza,Ecuador,ECU,0,44,12/21/81,-3,0
+77,Peter Elter,Germany,GER,0,51,12/21/81,-2,0
+78,Tony Giammalva,United States,USA,0,54,12/21/81,-2,0
+79,Gianni Ocleppo,Italy,ITA,0,30,12/21/81,-2,0
+80,Jose Lopez Maeso,Spain,ESP,0,63,12/21/81,3,66
+81,Fernando Luna,Spain,ESP,0,33,12/21/81,-3,310
+82,Steve Krulevitz,United States,USA,0,70,12/21/81,-3,0
+83,Gilles Moretton,France,FRA,0,65,12/21/81,-1,0
+84,Jimmy Arias,United States,USA,0,5,12/21/81,-4,587
+85,Matt Doyle,United States,USA,0,65,12/21/81,-1,0
+85,Victor Amaya,United States,USA,0,15,12/21/81,1,0
+85,Butch Walts,United States,USA,0,30,12/21/81,0,0
+88,Pascal Portes,France,FRA,0,41,12/21/81,2,0
+89,Rod Frawley,Australia,AUS,0,43,12/21/81,-8,0
+89,Ulrich Pinner,Germany,GER,0,19,12/21/81,-2,0
+91,Pablo Arraya,Peru,PER,0,29,12/21/81,0,348
+92,Angel Gimenez,Spain,ESP,0,41,12/21/81,1,0
+93,Chris Johnstone,Australia,AUS,0,70,12/21/81,,0
+94,Diego Perez,Uruguay,URU,0,27,12/21/81,1,389
+95,Jaime Fillol,Chile,CHI,0,14,12/21/81,1,0
+95,David Carter,Australia,AUS,0,78,12/21/81,-3,0
+97,Nick Saviano,United States,USA,0,48,12/21/81,0,0
+98,Dick Stockton,United States,USA,0,8,12/21/81,0,0
+98,Francisco Gonzalez,Paraguay,PAR,0,36,12/21/81,1,0
+100,Anders Jarryd,Sweden,SWE,0,5,12/21/81,-6,957
+101,Robert Lutz,United States,USA,0,11,12/21/81,0,0

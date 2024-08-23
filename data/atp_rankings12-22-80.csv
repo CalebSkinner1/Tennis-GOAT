@@ -1,0 +1,501 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Bjorn Borg,Sweden,SWE,0,1,12/22/80,0,10
+2,John McEnroe,United States,USA,0,1,12/22/80,0,1506
+3,Jimmy Connors,United States,USA,0,1,12/22/80,0,875
+4,Guillermo Vilas,Argentina,ARG,0,2,12/22/80,0,47
+5,Gene Mayer,United States,USA,0,4,12/22/80,0,6
+6,Ivan Lendl,United States,USA,0,1,12/22/80,0,3420
+7,Harold Solomon,United States,USA,0,5,12/22/80,0,2
+8,Jose Luis Clerc,Argentina,ARG,0,4,12/22/80,0,20
+9,Vitas Gerulaitis,United States,USA,0,3,12/22/80,0,0
+10,Eliot Teltscher,United States,USA,0,6,12/22/80,0,15
+11,Brian Gottfried,United States,USA,0,3,12/22/80,0,0
+12,Eddie Dibbs,United States,USA,0,5,12/22/80,0,0
+13,Roscoe Tanner,United States,USA,0,4,12/22/80,0,0
+14,John Sadri,United States,USA,0,14,12/22/80,1,0
+15,Wojtek Fibak,Poland,POL,0,10,12/22/80,-1,0
+16,Victor Amaya,United States,USA,0,15,12/22/80,0,0
+17,Brian Teacher,United States,USA,0,7,12/22/80,3,0
+18,Johan Kriek,United States,USA,0,7,12/22/80,-1,268
+19,Vijay Amritraj,India,IND,0,18,12/22/80,0,69
+20,Robert Lutz,United States,USA,0,11,12/22/80,1,0
+21,Yannick Noah,France,FRA,0,3,12/22/80,-3,1079
+22,Balazs Taroczy,Hungary,HUN,0,12,12/22/80,0,0
+23,Corrado Barazzutti,Italy,ITA,0,7,12/22/80,0,0
+23,Tomas Smid,Czech Republic,CZE,0,11,12/22/80,0,28
+25,Heinz Gunthardt,Switzerland,SUI,0,22,12/22/80,1,0
+26,Bill Scanlon,United States,USA,0,9,12/22/80,-1,56
+27,Mel Purcell,United States,USA,0,21,12/22/80,0,21
+28,Stan Smith,United States,USA,0,2,12/22/80,0,0
+29,Jose Higueras,Spain,ESP,0,6,12/22/80,1,0
+30,Hans Gildemeister,Chile,CHI,0,12,12/22/80,1,0
+31,Victor Pecci,Paraguay,PAR,0,9,12/22/80,-2,0
+32,Adriano Panatta,Italy,ITA,0,4,12/22/80,0,0
+33,Paul Mcnamee,Australia,AUS,0,24,12/22/80,7,0
+34,Raul Ramirez,Mexico,MEX,0,4,12/22/80,1,0
+35,Peter Fleming,United States,USA,0,8,12/22/80,2,0
+36,Kim Warwick,Australia,AUS,0,15,12/22/80,0,15
+37,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,12/22/80,-4,0
+38,Rolf Gehring,Germany,GER,0,30,12/22/80,1,0
+39,Peter Mcnamara,Australia,AUS,0,7,12/22/80,-1,0
+40,Phil Dent,Australia,AUS,0,17,12/22/80,-6,0
+41,Fritz Buehning,United States,USA,0,21,12/22/80,27,0
+42,Vincent Van Patten,United States,USA,0,26,12/22/80,-1,0
+43,Rod Frawley,Australia,AUS,0,43,12/22/80,1,0
+44,Andres Gomez,Ecuador,ECU,0,4,12/22/80,-2,2005
+45,Buster C Mottram,United Kingdom,GBR,0,15,12/22/80,-2,0
+46,Tim Gullikson,United States,USA,0,15,12/22/80,-1,0
+47,Trey Waltke,United States,USA,0,41,12/22/80,-1,0
+48,Christophe Roger Vasselin,France,FRA,0,29,12/22/80,2,0
+49,Butch Walts,United States,USA,0,30,12/22/80,-2,0
+50,Marcos Hocevar,Brazil,BRA,0,30,12/22/80,2,23
+51,Terry Moor,United States,USA,0,32,12/22/80,2,0
+52,Sandy Mayer,United States,USA,0,7,12/22/80,-1,0
+53,Pat Dupre,United States,USA,0,14,12/22/80,14,0
+53,Ramesh Krishnan,India,IND,0,23,12/22/80,1,471
+56,Thomaz Koch,Brazil,BRA,0,16,12/22/80,-7,0
+57,Shlomo Glickstein,Israel,ISR,0,22,12/22/80,8,0
+58,Andrew Pattison,United States,USA,0,21,12/22/80,-10,0
+58,Manuel Orantes,Spain,ESP,0,2,12/22/80,0,0
+60,Bernard Mitton,South Africa,RSA,0,42,12/22/80,0,0
+61,Pascal Portes,France,FRA,0,41,12/22/80,0,0
+62,Carlos Kirmayr,Brazil,BRA,0,36,12/22/80,2,0
+64,Tom Gullikson,United States,USA,0,34,12/22/80,-8,0
+65,Pavel Slozil,Czech Republic,CZE,0,12,12/22/80,3,0
+66,Chris Lewis Nzl,New Zealand,NZL,0,19,12/22/80,-7,8
+67,Jose Luis Damiani,Uruguay,URU,0,32,12/22/80,3,0
+68,Per Hjertquist,Sweden,SWE,0,68,12/22/80,8,0
+69,Paolo Bertolucci,Italy,ITA,0,12,12/22/80,3,0
+70,Fernando Luna,Spain,ESP,0,33,12/22/80,-4,310
+71,Jorge Cano,Argentina,ARG,0,71,12/22/80,,0
+72,Tony Giammalva,United States,USA,0,54,12/22/80,-1,0
+73,Ricardo Ycaza,Ecuador,ECU,0,44,12/22/80,5,0
+74,Francisco Gonzalez,Paraguay,PAR,0,36,12/22/80,0,0
+75,Hank Pfister,United States,USA,0,19,12/22/80,-13,0
+76,Russell Simpson,New Zealand,NZL,0,47,12/22/80,,0
+77,Peter Feigl,Austria,AUT,0,35,12/22/80,-2,0
+78,Gustavo Guerrero,Argentina,ARG,0,78,12/22/80,6,9
+79,Bruce Manson,United States,USA,0,39,12/22/80,4,0
+79,Ilie Nastase,Romania,ROU,0,1,12/22/80,-2,0
+81,Ferdi Taygan,United States,USA,0,59,12/22/80,0,0
+82,Christophe Freyss,France,FRA,0,82,12/22/80,3,0
+83,Eduardo Bengoechea,Argentina,ARG,0,21,12/22/80,,273
+84,Sherwood Stewart,United States,USA,0,60,12/22/80,-3,0
+85,Tim Wilkison,United States,USA,0,23,12/22/80,10,269
+86,Jaime Fillol,Chile,CHI,0,14,12/22/80,,0
+86,Angel Gimenez,Spain,ESP,0,41,12/22/80,0,0
+88,Kjell Johansson,Sweden,SWE,0,32,12/22/80,0,0
+89,Richard Meyer,United States,USA,0,89,12/22/80,,0
+90,Van Winitsky,United States,USA,0,35,12/22/80,0,0
+91,Marty Riessen,United States,USA,0,8,12/22/80,1,0
+92,Paul Kronk,Australia,AUS,0,66,12/22/80,-12,0
+92,John Hayes,United States,USA,0,92,12/22/80,5,0
+94,Gianni Ocleppo,Italy,ITA,0,30,12/22/80,0,0
+95,Colin Dibley,Australia,AUS,0,27,12/22/80,-38,0
+96,Nick Saviano,United States,USA,0,48,12/22/80,-3,0
+96,Robert Vant Hof,United States,USA,0,25,12/22/80,-17,103
+98,John Austin,United States,USA,0,40,12/22/80,,0
+99,Haroon Ismail,Zimbabwe,ZIM,0,87,12/22/80,1,0
+100,Onny Parun,New Zealand,NZL,0,19,12/22/80,-4,0
+101,Jean Francois Caujolle,France,FRA,0,59,12/22/80,,0
+102,Mark Edmondson,Australia,AUS,0,15,12/22/80,-11,0
+103,Dominique Bedel,France,FRA,0,41,12/22/80,-4,0
+104,Klaus Eberhard,Germany,GER,0,81,12/22/80,,0
+104,Louk Sanders,Netherlands,NED,0,86,12/22/80,,0
+106,Eddie Edwards,South Africa,RSA,0,42,12/22/80,-8,18
+107,Tom Okker,Netherlands,NED,0,3,12/22/80,,0
+108,Howard Schoenfield,United States,USA,0,68,12/22/80,,0
+109,Jan Norback,Sweden,SWE,0,84,12/22/80,,0
+110,Peter Elter,Germany,GER,0,51,12/22/80,,0
+111,John Alexander,Australia,AUS,0,8,12/22/80,-11,0
+112,Raymond Moore,South Africa,RSA,0,20,12/22/80,,0
+113,Thierry Tulasne,France,FRA,0,10,12/22/80,,334
+114,Pavel Hutka,Czech Republic,CZE,0,84,12/22/80,,0
+115,Hans Simonsson,Sweden,SWE,0,45,12/22/80,,0
+115,Gabriel Urpi,Spain,ESP,0,106,12/22/80,,0
+115,Brad Drewett,Australia,AUS,0,34,12/22/80,,170
+118,Anand Amritraj,India,IND,0,74,12/22/80,,1
+118,Billy Martin,United States,USA,0,32,12/22/80,,0
+118,Jose Lopez Maeso,Spain,ESP,0,63,12/22/80,,66
+121,Terry Rocavert,Australia,AUS,0,92,12/22/80,,0
+122,Steve Docherty,Australia,AUS,0,74,12/22/80,,0
+123,Sashi Menon,India,IND,0,82,12/22/80,,0
+124,Chris Mayotte,United States,USA,0,85,12/22/80,,0
+125,Ben Mckown,United States,USA,0,94,12/22/80,,0
+125,Pedro Rebolledo,Chile,CHI,0,36,12/22/80,,335
+127,Wolfgang Popp,Germany,GER,0,80,12/22/80,,0
+128,Eric Deblicker,France,FRA,0,68,12/22/80,,0
+128,Antonio Zugarelli,Italy,ITA,0,24,12/22/80,,0
+130,Gustavo Tiberti,Argentina,ARG,0,130,12/22/80,,0
+130,Jonathan Smith,United Kingdom,GBR,0,130,12/22/80,,0
+132,Jiri Hrebec,Czech Republic,CZE,0,25,12/22/80,,0
+133,Guillermo Aubone,Argentina,ARG,0,133,12/22/80,,0
+134,Steve Krulevitz,United States,USA,0,70,12/22/80,,0
+135,Rick Fagel,United States,USA,0,60,12/22/80,,0
+136,John Fitzgerald,Australia,AUS,0,25,12/22/80,,321
+137,Chris Johnstone,Australia,AUS,0,70,12/22/80,,0
+138,Dick Stockton,United States,USA,0,8,12/22/80,,0
+140,Mark Cox,United Kingdom,GBR,0,12,12/22/80,,0
+141,Alvaro Fillol,Chile,CHI,0,102,12/22/80,,0
+142,Stefan Simonsson,Sweden,SWE,0,48,12/22/80,,0
+143,Hans Kary,Austria,AUT,0,54,12/22/80,,0
+144,Deon Joubert,South Africa,RSA,0,56,12/22/80,,0
+145,David Carter,Australia,AUS,0,78,12/22/80,,0
+146,George Hardie,United States,USA,0,80,12/22/80,,0
+146,Syd Ball,Australia,AUS,0,63,12/22/80,,0
+146,Christophe Casa,France,FRA,0,146,12/22/80,,0
+146,Patrice Dominguez,France,FRA,0,36,12/22/80,,0
+150,Byron Bertram,South Africa,RSA,0,51,12/22/80,,0
+151,Ricardo Acuna,Chile,CHI,0,47,12/22/80,,19
+151,Georges Goven,France,FRA,0,21,12/22/80,,0
+153,Stanislav Birner,Czech Republic,CZE,0,60,12/22/80,,1
+154,Belus Prajoux,Chile,CHI,0,62,12/22/80,,0
+155,Bernard Boileau,Belgium,BEL,0,41,12/22/80,,0
+156,Tom Gorman,United States,USA,0,7,12/22/80,,0
+157,Roberto Vizcaino,Spain,ESP,0,157,12/22/80,,0
+158,Emilio Montano,Mexico,MEX,0,99,12/22/80,,0
+158,Patrick Proisy,France,FRA,0,16,12/22/80,,0
+158,Charles Buzz Strode,United States,USA,0,158,12/22/80,,0
+161,Ulrich Marten,Germany,GER,0,161,12/22/80,,0
+162,John Feaver,United Kingdom,GBR,0,91,12/22/80,,0
+163,Ross Case,Australia,AUS,0,14,12/22/80,,0
+164,Bernard Fritz,France,FRA,0,79,12/22/80,,0
+164,Alvaro Betancur,Colombia,COL,0,68,12/22/80,,0
+166,Geoff Masters,Australia,AUS,0,42,12/22/80,,0
+167,Cliff Letcher,Australia,AUS,0,54,12/22/80,,0
+167,Ulrich Pinner,Germany,GER,0,19,12/22/80,,0
+169,Tony Graham,United States,USA,0,100,12/22/80,,0
+170,Chris Delaney,United States,USA,0,48,12/22/80,,0
+171,Tim Mayotte,United States,USA,0,7,12/22/80,,1274
+171,Welry Fritz,Canada,CAN,0,171,12/22/80,,0
+173,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,0,124,12/22/80,,0
+175,Alejandro Cortes,Colombia,COL,0,126,12/22/80,,0
+175,Wayne Hampson,Australia,AUS,0,174,12/22/80,,0
+177,Robert Trogolo,South Africa,RSA,0,83,12/22/80,,0
+178,Fernando Maynetto,Peru,PER,0,175,12/22/80,,0
+178,Tom Leonard,United States,USA,0,34,12/22/80,,0
+180,Erik Van Dillen,United States,USA,0,36,12/22/80,,0
+180,Carlos Castellan,Argentina,ARG,0,97,12/22/80,,1
+182,Fernando Dalla Fontana,Argentina,ARG,0,134,12/22/80,,0
+182,Anders Jarryd,Sweden,SWE,0,5,12/22/80,,957
+184,Roland Stadler,Switzerland,SUI,0,68,12/22/80,,55
+185,Juan Nunez,Chile,CHI,0,185,12/22/80,,0
+185,Robin Drysdale,United Kingdom,GBR,0,60,12/22/80,,0
+185,Brad Guan,Australia,AUS,0,183,12/22/80,,0
+188,John Yuill,South Africa,RSA,0,52,12/22/80,,0
+189,Mike Cahill,United States,USA,0,58,12/22/80,,0
+189,Sammy Giammalva Jr,United States,USA,0,28,12/22/80,,68
+189,Jeff Borowiak,United States,USA,0,20,12/22/80,,0
+192,Gilles Moretton,France,FRA,0,65,12/22/80,,0
+193,Greg Whitecross,Australia,AUS,0,161,12/22/80,,0
+194,Joao Soares,Brazil,BRA,0,74,12/22/80,,0
+194,Carlos Gattiker,Argentina,ARG,0,80,12/22/80,,0
+196,Michael Grant,United States,USA,0,88,12/22/80,,0
+197,Leo Palin,Finland,FIN,0,92,12/22/80,,0
+198,Wayne Pascoe,Australia,AUS,0,198,12/22/80,,0
+198,Charlie Fancutt,Australia,AUS,0,123,12/22/80,,0
+200,Andreas Maurer,Germany,GER,0,24,12/22/80,,12
+200,Randy Crawford,United States,USA,0,95,12/22/80,,0
+202,Miguel Mir,Spain,ESP,0,158,12/22/80,,0
+203,Mike Estep,United States,USA,0,59,12/22/80,,0
+203,Sean Sorensen,Ireland,IRL,0,203,12/22/80,,0
+203,Marko Ostoja,Croatia,CRO,0,74,12/22/80,,92
+203,Denis Naegelen,France,FRA,0,131,12/22/80,,0
+203,Scott Mccain,United States,USA,0,122,12/22/80,,0
+203,Jorge Andrew,"Venezuela, Bolivarian Republic of",VEN,0,66,12/22/80,,0
+209,Markus Gunthardt,Switzerland,SUI,0,209,12/22/80,,0
+209,John James,Australia,AUS,0,81,12/22/80,,28
+211,Dale Collings,Australia,AUS,0,101,12/22/80,,0
+211,Diego Perez,Uruguay,URU,0,27,12/22/80,,389
+211,Werner Zirngibl,Germany,GER,0,86,12/22/80,,0
+214,Warren Maher,Australia,AUS,0,101,12/22/80,,0
+215,Rick Fisher,United States,USA,0,113,12/22/80,,0
+215,Alejandro Ganzabal,Argentina,ARG,0,58,12/22/80,,0
+217,Alejandro Pierola,Chile,CHI,0,76,12/22/80,,0
+218,Jaime Pinto Bravo,Chile,CHI,0,73,12/22/80,,0
+219,Jim Gurfein,United States,USA,0,96,12/22/80,,0
+219,Tom Cain,United States,USA,0,70,12/22/80,,0
+221,Jan Kodes,Czech Republic,CZE,0,5,12/22/80,,14
+222,Gregoire Rafaitin,France,FRA,0,222,12/22/80,,0
+223,John Marks,Australia,AUS,0,60,12/22/80,,0
+224,Franco Merlone,Italy,ITA,0,224,12/22/80,,0
+224,Helmar Stiegler,Austria,AUT,0,224,12/22/80,,0
+224,Robbie Venter,South Africa,RSA,0,87,12/22/80,,0
+227,Filip Krajcik,Austria,AUT,0,227,12/22/80,,0
+227,Morris Skip Strode,United States,USA,0,98,12/22/80,,0
+227,Jerome Vanier,France,FRA,0,152,12/22/80,,0
+227,Famiano Meneschincheri,Italy,ITA,0,227,12/22/80,,0
+227,Juan Farrow,United States,USA,0,227,12/22/80,,1
+232,Ney Keller,Brazil,BRA,0,161,12/22/80,,0
+232,Craig A Miller,Australia,AUS,0,102,12/22/80,,0
+232,Tsuyoshi Fukui,Japan,JPN,0,177,12/22/80,,2
+232,Gianluca Rinaldini,Italy,ITA,0,94,12/22/80,,0
+232,Alejandro Gattiker,Argentina,ARG,0,194,12/22/80,,0
+232,Joel Bailey,United States,USA,0,197,12/22/80,,0
+238,Karl Meiler,Germany,GER,0,20,12/22/80,,0
+239,Damir Keretic,Germany,GER,0,58,12/22/80,,35
+239,Matt Mitchell,United States,USA,0,53,12/22/80,,0
+241,Carlos Lando,Argentina,ARG,0,229,12/22/80,,0
+241,Julio Goes,Brazil,BRA,0,68,12/22/80,,29
+241,Bill Maze,United States,USA,0,153,12/22/80,,0
+241,Tenny Svensson,Sweden,SWE,0,117,12/22/80,,0
+245,Cary Stansbury,United States,USA,0,220,12/22/80,,0
+245,Stefan Svensson,Sweden,SWE,0,245,12/22/80,,0
+245,Richard Lewis,United Kingdom,GBR,0,77,12/22/80,,0
+245,David Schneider,United States,USA,0,62,12/22/80,,0
+249,Birger Andersson,Sweden,SWE,0,88,12/22/80,,0
+249,Bruce Foxworth,United States,USA,0,97,12/22/80,,0
+249,Bernhard Pils,Austria,AUT,0,168,12/22/80,,10
+249,Matt Doyle,United States,USA,0,65,12/22/80,,0
+249,Eric Fromm,United States,USA,0,46,12/22/80,,0
+249,Vadim Borisov,Russian Federation,RUS,0,239,12/22/80,,0
+255,Gianni Marchetti,Italy,ITA,0,255,12/22/80,,0
+255,Heinz Gildemeister,Chile,CHI,0,229,12/22/80,,0
+255,Jean Louis Haillet,France,FRA,0,68,12/22/80,,0
+255,Eric Friedler,United States,USA,0,152,12/22/80,,0
+255,Gene Stuart Malin,United States,USA,0,116,12/22/80,,0
+255,Cassio Motta,Brazil,BRA,0,48,12/22/80,,352
+255,Ken Rosewall,Australia,AUS,0,1,12/22/80,,0
+255,Adolfo Gonzalez,Mexico,MEX,0,255,12/22/80,,0
+255,Jimmy Arias,United States,USA,0,5,12/22/80,,587
+264,John Whitlinger,United States,USA,0,75,12/22/80,,0
+264,Andy Kohlberg,United States,USA,0,142,12/22/80,,0
+264,Rory Chappell,South Africa,RSA,0,195,12/22/80,,0
+264,Jai Dilouie,United States,USA,0,171,12/22/80,,0
+268,Chris Kachel,Australia,AUS,0,77,12/22/80,,0
+269,Marty Davis,United States,USA,0,47,12/22/80,,158
+269,Jim Delaney,United States,USA,0,59,12/22/80,,0
+269,Juan Avendano,Spain,ESP,0,71,12/22/80,,8
+269,Colin Dowdeswell,United Kingdom,GBR,0,31,12/22/80,,0
+269,Jun Kamiwazumi,Japan,JPN,0,78,12/22/80,,0
+274,Jan Gunnarsson,Sweden,SWE,0,25,12/22/80,,579
+274,Mike Barr,United States,USA,0,249,12/22/80,,0
+274,Charles Owens,United States,USA,0,36,12/22/80,,0
+274,Ernie Ewert,Australia,AUS,0,189,12/22/80,,0
+274,Marco Alciati,Italy,ITA,0,274,12/22/80,,0
+274,Bruce Kleege,United States,USA,0,148,12/22/80,,0
+274,Peter Campbell,Australia,AUS,0,179,12/22/80,,1
+283,George Amaya,United States,USA,0,184,12/22/80,,0
+283,Roger Guedes,Brazil,BRA,0,89,12/22/80,,6
+283,Vittorio Magnelli,Italy,ITA,0,280,12/22/80,,0
+283,Jay Lapidus,United States,USA,0,34,12/22/80,,0
+283,Blaine Willenborg,United States,USA,0,50,12/22/80,,0
+283,Ismail El Shafei,Egypt,EGY,0,28,12/22/80,,0
+283,Jose Moreno,Spain,ESP,0,210,12/22/80,,5
+283,Mats Wilander,Sweden,SWE,0,1,12/22/80,,1075
+283,Chaim Arlozorov,Israel,ISR,0,283,12/22/80,,0
+292,Tim Garcia,United States,USA,0,175,12/22/80,,0
+292,Sivagnanam Suresh,Sri Lanka,SRI,0,292,12/22/80,,0
+292,Mike Shore,United States,USA,0,236,12/22/80,,0
+292,Florin Segarceanu,Romania,ROU,0,73,12/22/80,,91
+292,Lloyd Bourne,United States,USA,0,71,12/22/80,,0
+292,Ulf Eriksson,Sweden,SWE,0,189,12/22/80,,0
+292,Manuel Diaz,United States,USA,0,292,12/22/80,,0
+292,Egan Adams,United States,USA,0,109,12/22/80,,0
+292,Matt Wooldridge,United States,USA,0,287,12/22/80,,0
+292,Mike Myburg,South Africa,RSA,0,159,12/22/80,,0
+302,Junie Chatman,United States,USA,0,219,12/22/80,,0
+302,Jaroslav Navratil,Czech Republic,CZE,0,64,12/22/80,,16
+302,Guillermo Stevens,Mexico,MEX,0,302,12/22/80,,0
+302,Enzo Vattuone,Italy,ITA,0,302,12/22/80,,0
+302,Andres Molina,Argentina,ARG,0,290,12/22/80,,0
+302,Erick Iskersky,United States,USA,0,64,12/22/80,,0
+302,Peter Spang,Germany,GER,0,302,12/22/80,,0
+309,Rohun Beven,United Kingdom,GBR,0,296,12/22/80,,0
+309,Zoltan Ilin,Serbia,SRB,0,309,12/22/80,,0
+309,Konstantin Pugayev,Russian Federation,RUS,0,281,12/22/80,,0
+309,Ricardo Rivera,Argentina,ARG,0,236,12/22/80,,1
+309,Fred Mcnair,United States,USA,0,77,12/22/80,,0
+309,Zoltan Kuharszky,Hungary,HUN,0,53,12/22/80,,0
+309,Nandan Bal,India,IND,0,309,12/22/80,,3
+309,Andy Mccurry,United States,USA,0,309,12/22/80,,0
+309,Billy Nealon,United States,USA,0,230,12/22/80,,0
+309,Alvin Gardiner,Australia,AUS,0,77,12/22/80,,0
+309,Dick Crealy,Australia,AUS,0,19,12/22/80,,0
+309,Eric Wilborts,Netherlands,NED,0,269,12/22/80,,0
+309,Pablo Arraya,Peru,PER,0,29,12/22/80,,348
+309,Edgar Schurmann,Switzerland,SUI,0,309,12/22/80,,0
+309,Christoph Zipf,Germany,GER,0,138,12/22/80,,0
+309,Ivan Dupasquier,Switzerland,SUI,0,122,12/22/80,,0
+324,Craig Wittus,United States,USA,0,94,12/22/80,,0
+325,Frank Puncec,South Africa,RSA,0,179,12/22/80,,0
+325,Larry Stefanki,United States,USA,0,35,12/22/80,,8
+325,Dave Siegler,United States,USA,0,137,12/22/80,,0
+325,Jerome Potier,France,FRA,0,68,12/22/80,,287
+325,Robert Reininger,Austria,AUT,0,182,12/22/80,,0
+325,Raul Antonio Viver,Ecuador,ECU,0,94,12/22/80,,267
+325,Rand Evett,United States,USA,0,219,12/22/80,,0
+325,Herve Gauvain,France,FRA,0,148,12/22/80,,0
+333,Marco Armellini,Italy,ITA,0,145,12/22/80,,0
+333,Jorgen Windahl,Sweden,SWE,0,108,12/22/80,,89
+335,Bill Gilmour,Australia,AUS,0,335,12/22/80,,0
+335,Marcel Freeman,United States,USA,0,46,12/22/80,,0
+335,Beejong Sisson,Philippines,PHI,0,332,12/22/80,,0
+335,Scott Lipton,United States,USA,0,109,12/22/80,,0
+335,Patricio Cornejo,Chile,CHI,0,65,12/22/80,,0
+335,Javier Restrepo,Colombia,COL,0,203,12/22/80,,0
+335,Toby Crabel,United States,USA,0,328,12/22/80,,0
+335,Jorge Todero,Argentina,ARG,0,219,12/22/80,,0
+335,Ferrante Rocchi,Italy,ITA,0,153,12/22/80,,0
+344,Andrew Jarrett,United Kingdom,GBR,0,140,12/22/80,,0
+344,David Mustard,New Zealand,NZL,0,121,12/22/80,,0
+344,Guy Fritz,United States,USA,0,301,12/22/80,,0
+344,Javier Soler,Spain,ESP,0,74,12/22/80,,0
+344,Bruno Capineri,Italy,ITA,0,344,12/22/80,,0
+344,John Whiteford,United Kingdom,GBR,0,344,12/22/80,,0
+344,Ron Hightower,United States,USA,0,97,12/22/80,,0
+344,Patrizio Parrini,Italy,ITA,0,300,12/22/80,,0
+344,Paul Batten,United States,USA,0,344,12/22/80,,0
+344,Mark Turpin,United States,USA,0,211,12/22/80,,0
+344,Rodney Harmon,United States,USA,0,56,12/22/80,,0
+344,Peter Holl,Germany,GER,0,344,12/22/80,,0
+356,Jun Kuki,Japan,JPN,0,74,12/22/80,,0
+356,Jeremy Cohen,United States,USA,0,293,12/22/80,,0
+356,Paul Avis,South Africa,RSA,0,179,12/22/80,,0
+356,John Lloyd,United Kingdom,GBR,0,23,12/22/80,,0
+356,Givaldo Barbosa,Brazil,BRA,0,78,12/22/80,,71
+356,Rocky Royer,United States,USA,0,154,12/22/80,,0
+356,John Benson,United States,USA,0,279,12/22/80,,0
+356,Enrique Caviglia,Argentina,ARG,0,190,12/22/80,,0
+356,Bruce Nichols,United States,USA,0,275,12/22/80,,0
+365,Roberto Arguello,Argentina,ARG,0,38,12/22/80,,144
+365,Ivan Molina,Colombia,COL,0,40,12/22/80,,0
+365,Jeff Simpson,New Zealand,NZL,0,66,12/22/80,,0
+365,Craig Edwards,United States,USA,0,258,12/22/80,,0
+365,Jiri Prucha,Czech Republic,CZE,0,298,12/22/80,,0
+365,Bhanu Nunna,India,IND,0,199,12/22/80,,0
+365,Jan Kallquist,Sweden,SWE,0,177,12/22/80,,0
+372,Schalk Van Der Merwe,South Africa,RSA,0,157,12/22/80,,2
+372,Libor Pimek,Belgium,BEL,0,21,12/22/80,,73
+372,Roger Taylor,United Kingdom,GBR,0,9,12/22/80,,0
+372,Jeremy Bates,United Kingdom,GBR,0,54,12/22/80,,700
+372,Ezio Di Matteo,Italy,ITA,0,151,12/22/80,,0
+372,Stewart Keller,United States,USA,0,326,12/22/80,,0
+372,Gonzalo Nunez,United States,USA,0,220,12/22/80,,0
+372,Mike Leach,United States,USA,0,29,12/22/80,,0
+372,Jeff Robbins,United States,USA,0,372,12/22/80,,0
+372,Shigeyuki Nishio,Japan,JPN,0,263,12/22/80,,9
+372,Rolf Thung,Netherlands,NED,0,86,12/22/80,,0
+383,Kiyoski Tanabe,Japan,JPN,0,174,12/22/80,,0
+383,Derek Tarr,United States,USA,0,87,12/22/80,,1
+383,Dusan Kulhaj,Czech Republic,CZE,0,332,12/22/80,,0
+383,Glenn Petrovic,United States,USA,0,199,12/22/80,,0
+383,Nicola Spear,Serbia,SRB,0,49,12/22/80,,0
+383,Bill Csipkay,United States,USA,0,353,12/22/80,,0
+383,Greg Halder,Canada,CAN,0,56,12/22/80,,0
+390,Roberto Lombardi,Italy,ITA,0,221,12/22/80,,0
+390,Ola Hellgren,Sweden,SWE,0,389,12/22/80,,0
+390,Manuel Rodriguez,Chile,CHI,0,390,12/22/80,,6
+390,Juan Jimenez,Chile,CHI,0,390,12/22/80,,2
+390,Maurizio Bonaiti,Italy,ITA,0,390,12/22/80,,0
+390,Chip Hooper,United States,USA,0,17,12/22/80,,0
+390,Shinichi Sakamoto,Japan,JPN,0,274,12/22/80,,2
+390,Ernie Fernandez,Puerto Rico,PUR,0,183,12/22/80,,0
+390,Jiri Granat,Czech Republic,CZE,0,68,12/22/80,,0
+390,Juan Carlos Ayala,Chile,CHI,0,349,12/22/80,,0
+390,Javier Ordaz,Mexico,MEX,0,390,12/22/80,,0
+390,Gerard Toulon,France,FRA,0,165,12/22/80,,0
+390,Freddie Sauer,South Africa,RSA,0,98,12/22/80,,0
+403,Steve Denton,United States,USA,0,12,12/22/80,,0
+403,Lawrence Hall,Australia,AUS,0,308,12/22/80,,0
+403,Roberto Carruthers,Argentina,ARG,0,272,12/22/80,,0
+403,Andrei Dirzu,Romania,ROU,0,189,12/22/80,,0
+403,Larry Loeb,United States,USA,0,312,12/22/80,,0
+403,Marc Albert,Netherlands,NED,0,305,12/22/80,,1
+403,R Elangovan,India,IND,0,403,12/22/80,,0
+403,Eddie Myers,Australia,AUS,0,403,12/22/80,,0
+403,Miloslav Lacek,Czech Republic,CZE,0,170,12/22/80,,0
+403,Phil Davies,Australia,AUS,0,339,12/22/80,,0
+403,Bill Cowan,Canada,CAN,0,207,12/22/80,,1
+403,Lars Elvstrom,Denmark,DEN,0,218,12/22/80,,0
+403,Kelly Evernden,New Zealand,NZL,0,31,12/22/80,,535
+403,David Whyte,Australia,AUS,0,355,12/22/80,,0
+403,Claude England,New Zealand,NZL,0,403,12/22/80,,0
+403,Reinhart Probst,Germany,GER,0,276,12/22/80,,0
+403,Mark Lewis,New Zealand,NZL,0,403,12/22/80,,0
+403,Zdenek Slizek,Czech Republic,CZE,0,403,12/22/80,,0
+403,Huub Van Boeckel,Netherlands,NED,0,93,12/22/80,,0
+403,Ian Harris,United States,USA,0,259,12/22/80,,0
+423,Carlos Behar,Colombia,COL,0,283,12/22/80,,0
+423,Thibault Kuentz,France,FRA,0,397,12/22/80,,0
+423,Jeremy Dier,United Kingdom,GBR,0,344,12/22/80,,0
+423,David Dowlen,United States,USA,0,95,12/22/80,,0
+423,Brian Benson,Australia,AUS,0,423,12/22/80,,0
+423,Thierry Stevaux,Belgium,BEL,0,195,12/22/80,,0
+423,Juan Rivera,Argentina,ARG,0,423,12/22/80,,0
+423,Regis Brunet,France,FRA,0,205,12/22/80,,0
+423,John Muller,South Africa,RSA,0,229,12/22/80,,0
+423,Fabrizio Fanucci,Italy,ITA,0,309,12/22/80,,0
+423,Juan Torralbo,Spain,ESP,0,264,12/22/80,,0
+423,Shanker Krishnan,India,IND,0,373,12/22/80,,0
+423,Juan Carlos Yunis,Argentina,ARG,0,423,12/22/80,,3
+423,Francois Jauffret,France,FRA,0,20,12/22/80,,0
+423,Wally Masur,Australia,AUS,0,15,12/22/80,,1417
+423,Cliff Drysdale,South Africa,RSA,0,9,12/22/80,,0
+440,Andy Andrews,United States,USA,0,78,12/22/80,,0
+440,Peter Lamb,South Africa,RSA,0,440,12/22/80,,0
+440,Roberto Meneschincheri,Italy,ITA,0,279,12/22/80,,0
+440,Srinivasan Vasudevan,India,IND,0,166,12/22/80,,47
+440,Joakim Nystrom,Sweden,SWE,0,7,12/22/80,,54
+440,Ingo Wimmer,Austria,AUT,0,369,12/22/80,,0
+440,Henri Leconte,France,FRA,0,5,12/22/80,,948
+440,Per Larsson,Sweden,SWE,0,436,12/22/80,,0
+440,Glen Holroyd,United States,USA,0,185,12/22/80,,0
+440,Vincenzo Franchitti,Italy,ITA,0,138,12/22/80,,0
+440,Eduardo Osta,Spain,ESP,0,140,12/22/80,,10
+440,Torquato Rossini,Italy,ITA,0,440,12/22/80,,0
+440,Pat Serret,Australia,AUS,0,327,12/22/80,,0
+440,Lorenzo Fargas,Spain,ESP,0,201,12/22/80,,0
+440,Paschoal Penetta,Brazil,BRA,0,341,12/22/80,,0
+440,Rick Rozen,United States,USA,0,439,12/22/80,,0
+440,Marzio Miloro,Italy,ITA,0,282,12/22/80,,0
+457,Guillermo Oropez,United States,USA,0,222,12/22/80,,0
+457,Steve Rogul,United States,USA,0,457,12/22/80,,0
+457,Fabio Moscino,Italy,ITA,0,359,12/22/80,,0
+457,Bernard Balleret,Monaco,MON,0,310,12/22/80,,6
+457,Davn Santiago,Argentina,ARG,0,420,12/22/80,,0
+457,Wouter Fok,Netherlands,NED,0,314,12/22/80,,0
+457,Jose Ayala,Mexico,MEX,0,368,12/22/80,,52
+457,Hugo Roverano,Uruguay,URU,0,271,12/22/80,,0
+457,Scott Davis,United States,USA,0,11,12/22/80,,638
+457,Steven Alger,Bermuda,BER,0,457,12/22/80,,0
+457,Ivan Camus,Chile,CHI,0,267,12/22/80,,1
+457,Max Wunschig,Germany,GER,0,287,12/22/80,,0
+457,Robert Bettauer,Canada,CAN,0,397,12/22/80,,0
+457,Jose Antonio Fernandez,Chile,CHI,0,202,12/22/80,,133
+457,Jorge Lemann,Brazil,BRA,0,457,12/22/80,,0
+457,Peter Szoke,Hungary,HUN,0,47,12/22/80,,0
+457,Massimo Grassotti,Italy,ITA,0,332,12/22/80,,0
+457,Theo Gorter,Netherlands,NED,0,392,12/22/80,,0
+457,Alejandro Cerundolo,Argentina,ARG,0,309,12/22/80,,0
+457,Hans Dieter Beutel,Germany,GER,0,101,12/22/80,,18
+457,Nduka Odizor,Nigeria,NGR,0,52,12/22/80,,186
+457,Jochen Settelmeyer,Germany,GER,0,457,12/22/80,,0
+457,Jacques Bonnemaison,France,FRA,0,457,12/22/80,,0
+482,Peter Dellavedova,Australia,AUS,0,482,12/22/80,,0
+482,Ray Ruffels,Australia,AUS,0,21,12/22/80,,0
+482,Alvaro Margets,Spain,ESP,0,392,12/22/80,,0
+482,Brad Holland,United States,USA,0,482,12/22/80,,0
+482,Joaquin Loyo Mayo,Mexico,MEX,0,46,12/22/80,,0
+482,Rich Andrews,United States,USA,0,482,12/22/80,,0
+482,Massimo Di Domenico,Italy,ITA,0,199,12/22/80,,0
+482,Marco Ferrari,Italy,ITA,0,482,12/22/80,,0
+482,Claudio Panatta,Italy,ITA,0,46,12/22/80,,18
+482,Luis Baraldi,Mexico,MEX,0,323,12/22/80,,0
+482,Luis Ayala,Chile,CHI,0,482,12/22/80,,0
+482,Christophe Lesage,France,FRA,0,393,12/22/80,,0
+482,Cary Leeds,United States,USA,0,389,12/22/80,,0
+482,Enrique Haro,Mexico,MEX,0,393,12/22/80,,0
+482,Jean Luc Cotard,France,FRA,0,482,12/22/80,,0
+482,Etsuo Uchiyama,Japan,JPN,0,482,12/22/80,,0
+482,Alain Brichant,Belgium,BEL,0,329,12/22/80,,0
+482,Jurgen Fassbender,Germany,GER,0,31,12/22/80,,0
+482,Thomas Emmrich,United Kingdom,GBR,0,482,12/22/80,,0
+482,John Trickey,Australia,AUS,0,253,12/22/80,,0
+482,Leif Shiras,United States,USA,0,31,12/22/80,,291
+482,Rick Meyers,United States,USA,0,83,12/22/80,-393,0
+482,Luis Varela,Argentina,ARG,0,482,12/22/80,,0
+482,Cliff Skakle,United States,USA,0,244,12/22/80,,0
+482,Francisco Mastelli,Argentina,ARG,0,237,12/22/80,,0
+482,Hector Perez,Chile,CHI,0,482,12/22/80,,0
+482,Noel Phillips,Australia,AUS,0,201,12/22/80,,0

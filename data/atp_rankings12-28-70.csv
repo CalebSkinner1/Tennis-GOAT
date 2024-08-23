@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,12/28/70,0,0
+2,Ken Rosewall,Australia,AUS,0,1,12/28/70,1,0
+3,Arthur Ashe,United States,USA,0,2,12/28/70,1,0
+4,Cliff Richey,United States,USA,0,4,12/28/70,2,0
+5,John Newcombe,Australia,AUS,0,1,12/28/70,0,0
+6,Tony Roche,Australia,AUS,0,2,12/28/70,-4,0
+7,Stan Smith,United States,USA,0,2,12/28/70,0,0
+8,Ilie Nastase,Romania,ROU,0,1,12/28/70,0,0
+9,Roger Taylor,United Kingdom,GBR,0,9,12/28/70,4,0
+10,Roy Emerson,Australia,AUS,0,4,12/28/70,0,0
+11,Zeljko Franulovic,Croatia,CRO,0,11,12/28/70,6,0
+12,Dennis Ralston,United States,USA,0,7,12/28/70,4,0
+13,Tom Okker,Netherlands,NED,0,3,12/28/70,-4,0
+14,Jan Kodes,Czech Republic,CZE,0,5,12/28/70,0,14
+15,Andres Gimeno,Spain,ESP,0,3,12/28/70,-3,0
+16,Richard Pancho Gonzales,United States,USA,0,5,12/28/70,-5,0
+17,Clark Graebner,United States,USA,0,7,12/28/70,1,0
+18,Marty Riessen,United States,USA,0,8,12/28/70,1,0
+19,Dick Crealy,Australia,AUS,0,19,12/28/70,1,0
+20,Tom Gorman,United States,USA,0,7,12/28/70,3,0
+21,Manuel Santana,Spain,ESP,0,12,12/28/70,3,0
+22,Georges Goven,France,FRA,0,21,12/28/70,4,0
+23,Cliff Drysdale,South Africa,RSA,0,9,12/28/70,4,0
+24,Nikola Pilic,Croatia,CRO,0,10,12/28/70,-9,0
+25,Bob Hewitt,South Africa,RSA,0,16,12/28/70,-4,0
+26,Bob Carmichael,Australia,AUS,0,23,12/28/70,6,0
+27,Mark Cox,United Kingdom,GBR,0,12,12/28/70,1,0
+28,Ion Tiriac,Romania,ROU,0,23,12/28/70,-3,0
+29,Ray Ruffels,Australia,AUS,0,21,12/28/70,1,0
+30,Fred Stolle,Australia,AUS,0,7,12/28/70,-8,0
+31,Robert Lutz,United States,USA,0,11,12/28/70,-2,0
+32,Jaime Fillol,Chile,CHI,0,14,12/28/70,3,0
+33,Ismail El Shafei,Egypt,EGY,0,28,12/28/70,0,0
+34,Frew Mcmillan,South Africa,RSA,0,34,12/28/70,0,0
+35,Manuel Orantes,Spain,ESP,0,2,12/28/70,1,0
+36,Gerald Battrick,United Kingdom,GBR,0,28,12/28/70,1,0
+37,Brian Fairlie,New Zealand,NZL,0,24,12/28/70,1,0
+38,Jim Osborne,United States,USA,0,27,12/28/70,3,0
+39,Alex Metreveli,Russian Federation,RUS,0,9,12/28/70,1,0
+40,John Alexander,Australia,AUS,0,8,12/28/70,9,0
+41,Charlie Pasarell,United States,USA,0,15,12/28/70,1,0
+42,Thomaz Koch,Brazil,BRA,0,16,12/28/70,2,0
+43,Pierre Barthes,France,FRA,0,15,12/28/70,2,0
+44,Raymond Moore,South Africa,RSA,0,20,12/28/70,-1,0
+45,Francois Jauffret,France,FRA,0,20,12/28/70,-6,0
+46,Jim Mcmanus,United States,USA,0,41,12/28/70,0,0
+47,Robert Maud,South Africa,RSA,0,35,12/28/70,1,0
+48,Martin Mulligan,Australia,AUS,0,12,12/28/70,,0
+49,Nicola Spear,Serbia,SRB,0,49,12/28/70,1,0
+50,Earl Butch Buchholz,United States,USA,0,9,12/28/70,-19,0

@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Ivan Lendl,United States,USA,0,1,11/28/83,0,3420
+2,John McEnroe,United States,USA,0,1,11/28/83,0,1506
+3,Jimmy Connors,United States,USA,0,1,11/28/83,0,875
+4,Yannick Noah,France,FRA,0,3,11/28/83,0,1079
+5,Mats Wilander,Sweden,SWE,0,1,11/28/83,0,1075
+6,Jimmy Arias,United States,USA,0,5,11/28/83,0,587
+7,Jose Higueras,Spain,ESP,0,6,11/28/83,0,0
+8,Jose Luis Clerc,Argentina,ARG,0,4,11/28/83,2,20
+9,Kevin Curren,United States,USA,0,5,11/28/83,-1,684
+10,Gene Mayer,United States,USA,0,4,11/28/83,1,6
+11,Guillermo Vilas,Argentina,ARG,0,2,11/28/83,-2,47
+12,Bill Scanlon,United States,USA,0,9,11/28/83,0,56
+13,Johan Kriek,United States,USA,0,7,11/28/83,2,268
+14,Andres Gomez,Ecuador,ECU,0,4,11/28/83,-1,2005
+15,Eliot Teltscher,United States,USA,0,6,11/28/83,-1,15
+16,Vitas Gerulaitis,United States,USA,0,3,11/28/83,0,0
+17,Sandy Mayer,United States,USA,0,7,11/28/83,1,0
+18,Tomas Smid,Czech Republic,CZE,0,11,11/28/83,-1,28
+19,Anders Jarryd,Sweden,SWE,0,5,11/28/83,1,957
+20,Brian Gottfried,United States,USA,0,3,11/28/83,-1,0
+21,Peter Mcnamara,Australia,AUS,0,7,11/28/83,0,0
+22,Henrik Sundstrom,Sweden,SWE,0,6,11/28/83,0,1
+23,Brian Teacher,United States,USA,0,7,11/28/83,1,0
+24,Scott Davis,United States,USA,0,11,11/28/83,-1,638
+25,Heinz Gunthardt,Switzerland,SUI,0,22,11/28/83,8,0
+26,Hank Pfister,United States,USA,0,19,11/28/83,-1,0
+27,Mel Purcell,United States,USA,0,21,11/28/83,-1,21
+27,Chris Lewis Nzl,New Zealand,NZL,0,19,11/28/83,-1,8
+29,Steve Denton,United States,USA,0,12,11/28/83,-1,0
+30,Tim Mayotte,United States,USA,0,7,11/28/83,-1,1274
+31,Henri Leconte,France,FRA,0,5,11/28/83,-1,948
+32,Paul Mcnamee,Australia,AUS,0,24,11/28/83,-1,0
+33,Robert Vant Hof,United States,USA,0,25,11/28/83,-1,103
+34,Colin Dowdeswell,United Kingdom,GBR,0,31,11/28/83,43,0
+35,John Fitzgerald,Australia,AUS,0,25,11/28/83,-1,321
+36,Peter Fleming,United States,USA,0,8,11/28/83,-1,0
+37,Pat Cash,Australia,AUS,0,4,11/28/83,0,658
+38,Roscoe Tanner,United States,USA,0,4,11/28/83,3,0
+39,Pablo Arraya,Peru,PER,0,29,11/28/83,4,348
+40,Gianni Ocleppo,Italy,ITA,0,30,11/28/83,-4,0
+40,Wojtek Fibak,Poland,POL,0,10,11/28/83,-2,0
+42,Mark Edmondson,Australia,AUS,0,15,11/28/83,-2,0
+43,Shlomo Glickstein,Israel,ISR,0,22,11/28/83,-4,0
+44,Jimmy Brown,United States,USA,0,42,11/28/83,1,264
+45,John Alexander,Australia,AUS,0,8,11/28/83,-3,0
+46,Christophe Roger Vasselin,France,FRA,0,29,11/28/83,-2,0
+47,Roberto Arguello,Argentina,ARG,0,38,11/28/83,-1,144
+48,Diego Perez,Uruguay,URU,0,27,11/28/83,8,389
+49,Fritz Buehning,United States,USA,0,21,11/28/83,-2,0
+50,Sammy Giammalva Jr,United States,USA,0,28,11/28/83,-2,68
+51,Balazs Taroczy,Hungary,HUN,0,12,11/28/83,-1,0
+52,Tim Gullikson,United States,USA,0,15,11/28/83,9,0
+53,Fernando Luna,Spain,ESP,0,33,11/28/83,-2,310
+54,Eric Korita,United States,USA,0,46,11/28/83,-1,0
+55,Chip Hooper,United States,USA,0,17,11/28/83,-1,0
+56,Corrado Barazzutti,Italy,ITA,0,7,11/28/83,-7,0
+57,Stefan Edberg,Sweden,SWE,0,1,11/28/83,-2,3997
+58,Thomas Hogstedt,Sweden,SWE,0,38,11/28/83,-6,413
+59,Joakim Nystrom,Sweden,SWE,0,7,11/28/83,0,54
+60,Tom Gullikson,United States,USA,0,34,11/28/83,0,0
+61,Brad Gilbert,United States,USA,0,4,11/28/83,2,1786
+62,Libor Pimek,Belgium,BEL,0,21,11/28/83,-5,73
+63,Stefan Simonsson,Sweden,SWE,0,48,11/28/83,-5,0
+64,Nduka Odizor,Nigeria,NGR,0,52,11/28/83,-2,186
+65,Victor Pecci,Paraguay,PAR,0,9,11/28/83,0,0
+66,Mike Bauer,United States,USA,0,29,11/28/83,-2,66
+67,Juan Aguilera,Spain,ESP,0,7,11/28/83,1,1100
+68,Mark Dickson,United States,USA,0,32,11/28/83,-2,0
+69,Claudio Panatta,Italy,ITA,0,46,11/28/83,17,18
+70,Francesco Cancellotti,Italy,ITA,0,21,11/28/83,-1,264
+71,Sergio Casal,Spain,ESP,0,31,11/28/83,-1,122
+72,Manuel Orantes,Spain,ESP,0,2,11/28/83,-1,0
+73,Mario Martinez,"Bolivia, Plurinational State of",BOL,0,32,11/28/83,-6,0
+74,Raul Ramirez,Mexico,MEX,0,4,11/28/83,-2,0
+75,Eric Fromm,United States,USA,0,46,11/28/83,-2,0
+76,Brad Drewett,Australia,AUS,0,34,11/28/83,-2,170
+77,Cassio Motta,Brazil,BRA,0,48,11/28/83,,352
+78,Glenn Michibata,Canada,CAN,0,48,11/28/83,-3,152
+79,Ramesh Krishnan,India,IND,0,23,11/28/83,-1,471
+80,Pavel Slozil,Czech Republic,CZE,0,12,11/28/83,-4,0
+81,Mike De Palmer,United States,USA,0,35,11/28/83,-2,4
+82,Florin Segarceanu,Romania,ROU,0,73,11/28/83,-1,91
+83,Tim Wilkison,United States,USA,0,23,11/28/83,-1,269
+84,Roland Stadler,Switzerland,SUI,0,68,11/28/83,-1,55
+85,Bernard Boileau,Belgium,BEL,0,41,11/28/83,-1,0
+86,Steve Meister,United States,USA,0,69,11/28/83,,0
+87,Wally Masur,Australia,AUS,0,15,11/28/83,0,1417
+88,Eddie Dibbs,United States,USA,0,5,11/28/83,0,0
+89,Russell Simpson,New Zealand,NZL,0,47,11/28/83,-1,0
+90,Thierry Tulasne,France,FRA,0,10,11/28/83,-10,334
+91,Van Winitsky,United States,USA,0,35,11/28/83,-1,0
+92,Jeff Borowiak,United States,USA,0,20,11/28/83,6,0
+93,John Sadri,United States,USA,0,14,11/28/83,-1,0
+94,Marko Ostoja,Croatia,CRO,0,74,11/28/83,-1,92
+94,Aaron Krickstein,United States,USA,0,6,11/28/83,-1,1544
+94,Rolf Gehring,Germany,GER,0,30,11/28/83,-1,0
+97,Matt Doyle,United States,USA,0,65,11/28/83,2,0
+97,Miloslav Mecir,Slovakia,SVK,0,4,11/28/83,2,677
+99,Zoltan Kuharszky,Hungary,HUN,0,53,11/28/83,,0
+100,Nick Saviano,United States,USA,0,48,11/28/83,,0

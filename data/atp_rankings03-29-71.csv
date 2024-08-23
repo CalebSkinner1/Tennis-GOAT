@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,3/29/71,0,0
+2,Ken Rosewall,Australia,AUS,0,1,3/29/71,0,0
+3,Arthur Ashe,United States,USA,0,2,3/29/71,0,0
+4,John Newcombe,Australia,AUS,0,1,3/29/71,1,0
+5,Cliff Richey,United States,USA,0,4,3/29/71,-1,0
+6,Tony Roche,Australia,AUS,0,2,3/29/71,0,0
+7,Stan Smith,United States,USA,0,2,3/29/71,0,0
+8,Roy Emerson,Australia,AUS,0,4,3/29/71,2,0
+9,Tom Okker,Netherlands,NED,0,3,3/29/71,4,0
+10,Ilie Nastase,Romania,ROU,0,1,3/29/71,-2,0
+11,Zeljko Franulovic,Croatia,CRO,0,11,3/29/71,0,0
+12,Clark Graebner,United States,USA,0,7,3/29/71,5,0
+13,Jan Kodes,Czech Republic,CZE,0,5,3/29/71,1,14
+14,Andres Gimeno,Spain,ESP,0,3,3/29/71,1,0
+15,Roger Taylor,United Kingdom,GBR,0,9,3/29/71,-6,0
+16,Dennis Ralston,United States,USA,0,7,3/29/71,-4,0
+17,Cliff Drysdale,South Africa,RSA,0,9,3/29/71,6,0
+18,Richard Pancho Gonzales,United States,USA,0,5,3/29/71,-2,0
+19,Marty Riessen,United States,USA,0,8,3/29/71,-1,0
+20,Nikola Pilic,Croatia,CRO,0,10,3/29/71,4,0
+21,Georges Goven,France,FRA,0,21,3/29/71,1,0
+22,Mark Cox,United Kingdom,GBR,0,12,3/29/71,5,0
+23,Robert Lutz,United States,USA,0,11,3/29/71,8,0
+24,Bob Carmichael,Australia,AUS,0,23,3/29/71,2,0
+25,Tom Gorman,United States,USA,0,7,3/29/71,-5,0
+26,Bob Hewitt,South Africa,RSA,0,16,3/29/71,-1,0
+27,Jaime Fillol,Chile,CHI,0,14,3/29/71,5,0
+28,Manuel Santana,Spain,ESP,0,12,3/29/71,-7,0
+29,Ion Tiriac,Romania,ROU,0,23,3/29/71,-1,0
+30,Dick Crealy,Australia,AUS,0,19,3/29/71,-11,0
+31,Fred Stolle,Australia,AUS,0,7,3/29/71,-1,0
+32,Brian Fairlie,New Zealand,NZL,0,24,3/29/71,5,0
+33,Ray Ruffels,Australia,AUS,0,21,3/29/71,-4,0
+34,Frew Mcmillan,South Africa,RSA,0,34,3/29/71,0,0
+35,Manuel Orantes,Spain,ESP,0,2,3/29/71,0,0
+36,Alex Metreveli,Russian Federation,RUS,0,9,3/29/71,3,0
+37,Charlie Pasarell,United States,USA,0,15,3/29/71,4,0
+38,Ismail El Shafei,Egypt,EGY,0,28,3/29/71,-5,0
+39,Thomaz Koch,Brazil,BRA,0,16,3/29/71,3,0
+40,John Alexander,Australia,AUS,0,8,3/29/71,0,0
+41,Pierre Barthes,France,FRA,0,15,3/29/71,2,0
+42,Owen Davidson,Australia,AUS,0,13,3/29/71,,0
+43,Raymond Moore,South Africa,RSA,0,20,3/29/71,1,0
+44,Phil Dent,Australia,AUS,0,17,3/29/71,,0
+45,Gerald Battrick,United Kingdom,GBR,0,28,3/29/71,-9,0
+46,Vladimir Zednik,Czech Republic,CZE,0,35,3/29/71,,0
+47,Martin Mulligan,Australia,AUS,0,12,3/29/71,1,0
+48,Robert Maud,South Africa,RSA,0,35,3/29/71,-1,0
+49,Joaquin Loyo Mayo,Mexico,MEX,0,46,3/29/71,,0
+50,Francois Jauffret,France,FRA,0,20,3/29/71,-5,0

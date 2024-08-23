@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,7/14/69,0,0
+2,Tony Roche,Australia,AUS,0,2,7/14/69,1,0
+3,John Newcombe,Australia,AUS,0,1,7/14/69,1,0
+4,Arthur Ashe,United States,USA,0,2,7/14/69,1,0
+5,Ken Rosewall,Australia,AUS,0,1,7/14/69,-3,0
+6,Tom Okker,Netherlands,NED,0,3,7/14/69,1,0
+7,Andres Gimeno,Spain,ESP,0,3,7/14/69,-1,0
+8,Roy Emerson,Australia,AUS,0,4,7/14/69,0,0
+9,Cliff Drysdale,South Africa,RSA,0,9,7/14/69,3,0
+10,Fred Stolle,Australia,AUS,0,7,7/14/69,1,0
+11,Richard Pancho Gonzales,United States,USA,0,5,7/14/69,-2,0
+12,Clark Graebner,United States,USA,0,7,7/14/69,-2,0
+13,Marty Riessen,United States,USA,0,8,7/14/69,1,0
+14,Dennis Ralston,United States,USA,0,7,7/14/69,1,0
+15,Earl Butch Buchholz,United States,USA,0,9,7/14/69,-2,0
+16,Stan Smith,United States,USA,0,2,7/14/69,2,0
+17,Thomaz Koch,Brazil,BRA,0,16,7/14/69,10,0
+18,Nikola Pilic,Croatia,CRO,0,10,7/14/69,-2,0
+19,Pierre Barthes,France,FRA,0,15,7/14/69,7,0
+20,Bob Hewitt,South Africa,RSA,0,16,7/14/69,-3,0
+21,Robert Lutz,United States,USA,0,11,7/14/69,11,0
+22,Cliff Richey,United States,USA,0,4,7/14/69,3,0
+23,Jan Kodes,Czech Republic,CZE,0,5,7/14/69,11,14
+24,Roger Taylor,United Kingdom,GBR,0,9,7/14/69,-1,0
+25,Raymond Moore,South Africa,RSA,0,20,7/14/69,-5,0
+26,Charlie Pasarell,United States,USA,0,15,7/14/69,2,0
+27,Zeljko Franulovic,Croatia,CRO,0,11,7/14/69,13,0
+28,Bill Bowrey,Australia,AUS,0,10,7/14/69,1,0
+29,Ray Ruffels,Australia,AUS,0,21,7/14/69,-7,0
+30,Mark Cox,United Kingdom,GBR,0,12,7/14/69,-11,0
+31,Manuel Santana,Spain,ESP,0,12,7/14/69,-1,0
+32,Martin Mulligan,Australia,AUS,0,12,7/14/69,-11,0
+33,Ron Holmberg,United States,USA,0,33,7/14/69,2,0
+34,Dick Crealy,Australia,AUS,0,19,7/14/69,11,0
+35,Mal Anderson,Australia,AUS,0,21,7/14/69,-4,0
+36,Allan Stone,Australia,AUS,0,30,7/14/69,2,0
+37,Robert Maud,South Africa,RSA,0,35,7/14/69,10,0
+38,Ismail El Shafei,Egypt,EGY,0,28,7/14/69,,0
+39,Ilie Nastase,Romania,ROU,0,1,7/14/69,-2,0
+40,Manuel Orantes,Spain,ESP,0,2,7/14/69,10,0
+41,Istvan Gulyas,Hungary,HUN,0,30,7/14/69,-5,0
+42,Graham Stilwell,United Kingdom,GBR,0,35,7/14/69,,0
+43,Jim Mcmanus,United States,USA,0,41,7/14/69,-2,0
+44,Ion Tiriac,Romania,ROU,0,23,7/14/69,-20,0
+45,Torben Ulrich,Denmark,DEN,0,38,7/14/69,-1,0
+46,Jaime Fillol,Chile,CHI,0,14,7/14/69,,0
+47,Wilhelm Bungert,Germany,GER,0,22,7/14/69,,0
+48,Ove Nils Bengtson,Sweden,SWE,0,43,7/14/69,,0
+49,Pancho Segura,Ecuador,ECU,0,43,7/14/69,,0
+50,Jim Osborne,United States,USA,0,27,7/14/69,,0

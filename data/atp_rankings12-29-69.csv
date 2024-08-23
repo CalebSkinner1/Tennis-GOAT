@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,12/29/69,0,0
+2,Tony Roche,Australia,AUS,0,2,12/29/69,0,0
+3,Tom Okker,Netherlands,NED,0,3,12/29/69,2,0
+4,John Newcombe,Australia,AUS,0,1,12/29/69,-1,0
+5,Arthur Ashe,United States,USA,0,2,12/29/69,2,0
+6,Ken Rosewall,Australia,AUS,0,1,12/29/69,-2,0
+7,Andres Gimeno,Spain,ESP,0,3,12/29/69,-1,0
+8,Roy Emerson,Australia,AUS,0,4,12/29/69,0,0
+9,Stan Smith,United States,USA,0,2,12/29/69,2,0
+10,Richard Pancho Gonzales,United States,USA,0,5,12/29/69,0,0
+11,Fred Stolle,Australia,AUS,0,7,12/29/69,-2,0
+12,Earl Butch Buchholz,United States,USA,0,9,12/29/69,0,0
+13,Cliff Richey,United States,USA,0,4,12/29/69,0,0
+14,Marty Riessen,United States,USA,0,8,12/29/69,1,0
+15,Clark Graebner,United States,USA,0,7,12/29/69,-1,0
+16,Zeljko Franulovic,Croatia,CRO,0,11,12/29/69,2,0
+17,Thomaz Koch,Brazil,BRA,0,16,12/29/69,-1,0
+18,Robert Lutz,United States,USA,0,11,12/29/69,2,0
+19,Dennis Ralston,United States,USA,0,7,12/29/69,0,0
+20,Ilie Nastase,Romania,ROU,0,1,12/29/69,12,0
+21,Cliff Drysdale,South Africa,RSA,0,9,12/29/69,-4,0
+22,Charlie Pasarell,United States,USA,0,15,12/29/69,4,0
+23,Nikola Pilic,Croatia,CRO,0,10,12/29/69,10,0
+24,Ray Ruffels,Australia,AUS,0,21,12/29/69,3,0
+25,Bob Hewitt,South Africa,RSA,0,16,12/29/69,-4,0
+26,Manuel Santana,Spain,ESP,0,12,12/29/69,2,0
+27,Raymond Moore,South Africa,RSA,0,20,12/29/69,-5,0
+28,Roger Taylor,United Kingdom,GBR,0,9,12/29/69,-5,0
+29,Pierre Barthes,France,FRA,0,15,12/29/69,-4,0
+30,Mark Cox,United Kingdom,GBR,0,12,12/29/69,0,0
+31,Jan Kodes,Czech Republic,CZE,0,5,12/29/69,-2,14
+32,Bill Bowrey,Australia,AUS,0,10,12/29/69,-8,0
+33,Allan Stone,Australia,AUS,0,30,12/29/69,-2,0
+34,Jim Osborne,United States,USA,0,27,12/29/69,2,0
+35,Graham Stilwell,United Kingdom,GBR,0,35,12/29/69,0,0
+36,Manuel Orantes,Spain,ESP,0,2,12/29/69,-2,0
+37,Ismail El Shafei,Egypt,EGY,0,28,12/29/69,1,0
+38,Dick Crealy,Australia,AUS,0,19,12/29/69,-1,0
+39,Ron Holmberg,United States,USA,0,33,12/29/69,0,0
+40,Ion Tiriac,Romania,ROU,0,23,12/29/69,,0
+41,Martin Mulligan,Australia,AUS,0,12,12/29/69,-1,0
+42,Christian Kuhnke,Germany,GER,0,41,12/29/69,-1,0
+43,Mike Belkin,Canada,CAN,0,42,12/29/69,-1,0
+44,Bob Carmichael,Australia,AUS,0,23,12/29/69,0,0
+45,Jaime Fillol,Chile,CHI,0,14,12/29/69,-2,0
+46,Ove Nils Bengtson,Sweden,SWE,0,43,12/29/69,-1,0
+47,Robert Maud,South Africa,RSA,0,35,12/29/69,1,0
+48,John Alexander,Australia,AUS,0,8,12/29/69,,0
+49,Francois Jauffret,France,FRA,0,20,12/29/69,,0
+50,Roy Barth,United States,USA,0,49,12/29/69,0,0

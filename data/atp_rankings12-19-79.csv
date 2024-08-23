@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Bjorn Borg,Sweden,SWE,0,1,12/19/79,0,10
+2,Jimmy Connors,United States,USA,0,1,12/19/79,0,875
+3,John McEnroe,United States,USA,0,1,12/19/79,0,1506
+4,Vitas Gerulaitis,United States,USA,0,3,12/19/79,0,0
+5,Roscoe Tanner,United States,USA,0,4,12/19/79,0,0
+6,Guillermo Vilas,Argentina,ARG,0,2,12/19/79,0,47
+7,Arthur Ashe,United States,USA,0,2,12/19/79,0,0
+8,Harold Solomon,United States,USA,0,5,12/19/79,0,2
+9,Jose Higueras,Spain,ESP,0,6,12/19/79,0,0
+10,Eddie Dibbs,United States,USA,0,5,12/19/79,0,0
+11,Victor Pecci,Paraguay,PAR,0,9,12/19/79,0,0
+12,Gene Mayer,United States,USA,0,4,12/19/79,0,6
+13,Peter Fleming,United States,USA,0,8,12/19/79,0,0
+14,Hans Gildemeister,Chile,CHI,0,12,12/19/79,0,0
+15,Wojtek Fibak,Poland,POL,0,10,12/19/79,0,0
+16,Brian Gottfried,United States,USA,0,3,12/19/79,0,0
+17,Jose Luis Clerc,Argentina,ARG,0,4,12/19/79,0,20
+18,John Alexander,Australia,AUS,0,8,12/19/79,0,0
+19,Pat Dupre,United States,USA,0,14,12/19/79,0,0
+20,Manuel Orantes,Spain,ESP,0,2,12/19/79,0,0
+21,Ivan Lendl,United States,USA,0,1,12/19/79,0,3420
+22,Stan Smith,United States,USA,0,2,12/19/79,0,0
+23,Ulrich Pinner,Germany,GER,0,19,12/19/79,0,0
+24,Tim Gullikson,United States,USA,0,15,12/19/79,0,0
+25,Eliot Teltscher,United States,USA,0,6,12/19/79,0,15
+26,Tomas Smid,Czech Republic,CZE,0,11,12/19/79,0,28
+27,Adriano Panatta,Italy,ITA,0,4,12/19/79,0,0
+28,Yannick Noah,France,FRA,0,3,12/19/79,0,1079
+29,Victor Amaya,United States,USA,0,15,12/19/79,0,0
+30,Gianni Ocleppo,Italy,ITA,0,30,12/19/79,0,0
+31,Buster C Mottram,United Kingdom,GBR,0,15,12/19/79,0,0
+32,Corrado Barazzutti,Italy,ITA,0,7,12/19/79,0,0
+33,Vijay Amritraj,India,IND,0,18,12/19/79,0,69
+34,Johan Kriek,United States,USA,0,7,12/19/79,0,268
+35,Robert Lutz,United States,USA,0,11,12/19/79,0,0
+36,Marty Riessen,United States,USA,0,8,12/19/79,0,0
+37,Hank Pfister,United States,USA,0,19,12/19/79,0,0
+38,Terry Moor,United States,USA,0,32,12/19/79,0,0
+39,Butch Walts,United States,USA,0,30,12/19/79,0,0
+40,Raul Ramirez,Mexico,MEX,0,4,12/19/79,0,0
+41,Bill Scanlon,United States,USA,0,9,12/19/79,0,56
+42,Balazs Taroczy,Hungary,HUN,0,12,12/19/79,0,0
+43,Vincent Van Patten,United States,USA,0,26,12/19/79,0,0
+44,Kim Warwick,Australia,AUS,0,15,12/19/79,5,15
+45,Sandy Mayer,United States,USA,0,7,12/19/79,-1,0
+46,John Sadri,United States,USA,0,14,12/19/79,-1,0
+47,Peter Feigl,Austria,AUT,0,35,12/19/79,0,0
+48,Peter Mcnamara,Australia,AUS,0,7,12/19/79,0,0
+49,Tim Wilkison,United States,USA,0,23,12/19/79,-3,269
+50,Andrew Pattison,United States,USA,0,21,12/19/79,0,0
+51,Ilie Nastase,Romania,ROU,0,1,12/19/79,1,0
+52,Heinz Gunthardt,Switzerland,SUI,0,22,12/19/79,1,0
+53,Bernard Mitton,South Africa,RSA,0,42,12/19/79,4,0
+54,Tom Gorman,United States,USA,0,7,12/19/79,0,0
+55,Rolf Gehring,Germany,GER,0,30,12/19/79,0,0
+56,Dick Stockton,United States,USA,0,8,12/19/79,-5,0
+57,Tom Okker,Netherlands,NED,0,3,12/19/79,-1,0
+58,Carlos Kirmayr,Brazil,BRA,0,36,12/19/79,0,0
+59,Brian Teacher,United States,USA,0,7,12/19/79,0,0
+60,Peter Rennert,United States,USA,0,40,12/19/79,0,0
+61,Andres Gomez,Ecuador,ECU,0,4,12/19/79,0,2005
+62,Patrice Dominguez,France,FRA,0,36,12/19/79,0,0
+63,Charles Owens,United States,USA,0,36,12/19/79,0,0
+64,Geoff Masters,Australia,AUS,0,42,12/19/79,0,0
+65,Billy Martin,United States,USA,0,32,12/19/79,0,0
+66,Ferdi Taygan,United States,USA,0,59,12/19/79,0,0
+67,Dominique Bedel,France,FRA,0,41,12/19/79,0,0
+68,Chris Lewis Nzl,New Zealand,NZL,0,19,12/19/79,0,8
+69,Erik Van Dillen,United States,USA,0,36,12/19/79,0,0
+70,Jean Francois Caujolle,France,FRA,0,59,12/19/79,0,0
+71,Nick Saviano,United States,USA,0,48,12/19/79,0,0
+72,Jairo Velasco,Spain,ESP,0,46,12/19/79,0,0
+73,Jean Louis Haillet,France,FRA,0,68,12/19/79,1,0
+74,Mark Cox,United Kingdom,GBR,0,12,12/19/79,1,0
+75,Francisco Gonzalez,Paraguay,PAR,0,36,12/19/79,1,0
+76,Pavel Slozil,Czech Republic,CZE,0,12,12/19/79,1,0
+77,Phil Dent,Australia,AUS,0,17,12/19/79,-4,0
+78,Ross Case,Australia,AUS,0,14,12/19/79,0,0
+79,Bruce Manson,United States,USA,0,39,12/19/79,0,0
+80,Fritz Buehning,United States,USA,0,21,12/19/79,0,0
+81,Alejandro Pierola,Chile,CHI,0,76,12/19/79,0,0
+82,Stanislav Birner,Czech Republic,CZE,0,60,12/19/79,0,1
+83,Thomaz Koch,Brazil,BRA,0,16,12/19/79,0,0
+84,Rod Frawley,Australia,AUS,0,43,12/19/79,0,0
+85,Fernando Luna,Spain,ESP,0,33,12/19/79,0,310
+86,Paul Mcnamee,Australia,AUS,0,24,12/19/79,0,0
+87,Mark Edmondson,Australia,AUS,0,15,12/19/79,1,0
+88,Jan Kodes,Czech Republic,CZE,0,5,12/19/79,1,14
+89,Carlos Gattiker,Argentina,ARG,0,80,12/19/79,1,0
+89,Trey Waltke,United States,USA,0,41,12/19/79,1,0
+91,Jiri Hrebec,Czech Republic,CZE,0,25,12/19/79,2,0
+92,Patrick Proisy,France,FRA,0,16,12/19/79,2,0
+92,Hans Kary,Austria,AUT,0,54,12/19/79,2,0
+94,Chris Kachel,Australia,AUS,0,77,12/19/79,-8,0
+95,Michael Grant,United States,USA,0,88,12/19/79,2,0
+96,Brad Drewett,Australia,AUS,0,34,12/19/79,-4,170
+97,Zeljko Franulovic,Croatia,CRO,0,11,12/19/79,1,0
+97,Per Hjertquist,Sweden,SWE,0,68,12/19/79,,0
+99,Raymond Moore,South Africa,RSA,0,20,12/19/79,-3,0
+100,Matt Mitchell,United States,USA,0,53,12/19/79,-1,0

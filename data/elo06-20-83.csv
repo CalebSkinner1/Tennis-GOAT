@@ -1,0 +1,271 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,pointsDiff,bestPoints
+1,John McEnroe,United States,USA,2410,1,6/20/83,0,0,2583
+2,Jimmy Connors,United States,USA,2404,1,6/20/83,0,0,2521
+3,Ivan Lendl,United States,USA,2376,1,6/20/83,0,0,2518
+4,Yannick Noah,France,FRA,2268,4,6/20/83,0,0,2268
+5,Mats Wilander,Sweden,SWE,2243,2,6/20/83,0,0,2371
+6,Gene Mayer,United States,USA,2239,4,6/20/83,0,0,2303
+7,Guillermo Vilas,Argentina,ARG,2231,2,6/20/83,0,0,2431
+8,Jose Higueras,Spain,ESP,2201,7,6/20/83,0,0,2210
+9,Vitas Gerulaitis,United States,USA,2155,3,6/20/83,0,0,2335
+10,Johan Kriek,United States,USA,2149,7,6/20/83,1,17,2169
+11,Peter Mcnamara,Australia,AUS,2142,8,6/20/83,-1,0,2168
+12,Jose Luis Clerc,Argentina,ARG,2091,5,6/20/83,0,0,2297
+13,Brian Teacher,United States,USA,2083,10,6/20/83,0,-8,2133
+14,Tomas Smid,Czech Republic,CZE,2082,9,6/20/83,0,0,2133
+15,Kevin Curren,United States,USA,2081,5,6/20/83,0,0,2162
+16,Steve Denton,United States,USA,2074,16,6/20/83,0,0,2093
+17,Sandy Mayer,United States,USA,2073,8,6/20/83,0,-1,2178
+18,Brian Gottfried,United States,USA,2071,3,6/20/83,0,0,2324
+19,Bill Scanlon,United States,USA,2070,13,6/20/83,0,0,2122
+20,Eliot Teltscher,United States,USA,2070,7,6/20/83,0,0,2200
+21,Raul Ramirez,Mexico,MEX,2062,5,6/20/83,0,0,2249
+22,Hank Pfister,United States,USA,2049,21,6/20/83,0,-10,2060
+23,Jimmy Arias,United States,USA,2039,6,6/20/83,0,0,2157
+24,Eddie Dibbs,United States,USA,2038,5,6/20/83,0,0,2282
+25,Paul Mcnamee,Australia,AUS,2032,25,6/20/83,0,0,2032
+26,Henri Leconte,France,FRA,2032,7,6/20/83,0,0,2187
+27,Wojtek Fibak,Poland,POL,2031,9,6/20/83,0,0,2180
+28,Roscoe Tanner,United States,USA,2019,5,6/20/83,0,0,2261
+29,Manuel Orantes,Spain,ESP,2006,4,6/20/83,0,0,2290
+30,Balazs Taroczy,Hungary,HUN,2003,12,6/20/83,1,0,2124
+31,Andres Gomez,Ecuador,ECU,1993,5,6/20/83,1,0,2223
+32,Tim Mayotte,United States,USA,1990,7,6/20/83,-2,-14,2179
+33,Buster C Mottram,United Kingdom,GBR,1989,21,6/20/83,0,0,2068
+34,Corrado Barazzutti,Italy,ITA,1984,13,6/20/83,0,0,2142
+35,Hans Gildemeister,Chile,CHI,1970,13,6/20/83,0,0,2104
+36,Vijay Amritraj,India,IND,1966,13,6/20/83,0,0,2124
+37,Fritz Buehning,United States,USA,1963,32,6/20/83,0,0,2003
+38,Robert Lutz,United States,USA,1961,11,6/20/83,0,0,2134
+39,Shlomo Glickstein,Israel,ISR,1956,34,6/20/83,0,0,1995
+40,Victor Pecci,Paraguay,PAR,1955,8,6/20/83,0,0,2181
+41,Henrik Sundstrom,Sweden,SWE,1950,8,6/20/83,1,0,2121
+42,Heinz Gunthardt,Switzerland,SUI,1949,24,6/20/83,1,0,2075
+43,Stan Smith,United States,USA,1949,1,6/20/83,-2,-5,2381
+44,Kim Warwick,Australia,AUS,1948,28,6/20/83,0,0,2040
+45,Chip Hooper,United States,USA,1947,36,6/20/83,0,0,1988
+46,Mel Purcell,United States,USA,1945,17,6/20/83,0,0,2088
+47,Tom Gullikson,United States,USA,1941,35,6/20/83,17,36,1965
+48,Robert Vant Hof,United States,USA,1941,35,6/20/83,0,0,1984
+49,Eric Fromm,United States,USA,1939,49,6/20/83,0,0,1939
+50,John Alexander,Australia,AUS,1935,10,6/20/83,-3,-10,2159
+51,Jeff Borowiak,United States,USA,1928,24,6/20/83,-1,0,2079
+52,Thierry Tulasne,France,FRA,1925,14,6/20/83,0,0,2067
+53,Tim Wilkison,United States,USA,1924,18,6/20/83,0,-1,2036
+54,Vincent Van Patten,United States,USA,1922,37,6/20/83,0,0,1984
+55,Tim Gullikson,United States,USA,1915,15,6/20/83,0,0,2113
+56,Harold Solomon,United States,USA,1915,5,6/20/83,0,0,2256
+57,Mark Dickson,United States,USA,1915,30,6/20/83,-6,-12,1975
+58,Pablo Arraya,Peru,PER,1914,37,6/20/83,-1,0,1961
+59,Jay Lapidus,United States,USA,1913,55,6/20/83,-1,0,1916
+60,Pavel Slozil,Czech Republic,CZE,1913,46,6/20/83,-1,0,1930
+61,Stefan Simonsson,Sweden,SWE,1908,48,6/20/83,0,0,1930
+62,Mario Martinez,"Bolivia, Plurinational State of",BOL,1907,45,6/20/83,0,0,1950
+63,Fernando Luna,Spain,ESP,1906,51,6/20/83,0,0,1934
+64,Carlos Kirmayr,Brazil,BRA,1905,31,6/20/83,1,0,2010
+65,Marcos Hocevar,Brazil,BRA,1903,42,6/20/83,5,5,1953
+66,Ramesh Krishnan,India,IND,1900,19,6/20/83,13,21,2032
+67,Anders Jarryd,Sweden,SWE,1900,6,6/20/83,0,0,2182
+68,Mark Edmondson,Australia,AUS,1900,26,6/20/83,-8,-10,2050
+69,John Fitzgerald,Australia,AUS,1900,27,6/20/83,3,5,2011
+70,Chris Lewis Nzl,New Zealand,NZL,1899,31,6/20/83,-2,0,2000
+71,Christophe Roger Vasselin,France,FRA,1899,69,6/20/83,-2,0,1899
+72,Terry Moor,United States,USA,1891,29,6/20/83,1,0,2035
+73,Jaime Fillol,Chile,CHI,1891,12,6/20/83,-2,-5,2145
+74,Mike De Palmer,United States,USA,1891,52,6/20/83,-8,-14,1925
+75,John Sadri,United States,USA,1885,18,6/20/83,-1,0,2080
+76,Victor Amaya,United States,USA,1885,15,6/20/83,-1,0,2108
+77,Van Winitsky,United States,USA,1883,39,6/20/83,0,0,1986
+78,Adriano Panatta,Italy,ITA,1883,5,6/20/83,0,0,2241
+79,Mike Bauer,United States,USA,1881,45,6/20/83,-3,-3,1935
+80,Nick Saviano,United States,USA,1879,52,6/20/83,0,0,1937
+81,Diego Perez,Uruguay,URU,1876,31,6/20/83,0,0,1963
+82,Brad Gilbert,United States,USA,1876,5,6/20/83,0,0,2210
+83,Butch Walts,United States,USA,1872,29,6/20/83,1,0,2039
+84,Sammy Giammalva Jr,United States,USA,1871,33,6/20/83,1,0,1966
+85,Peter Fleming,United States,USA,1871,9,6/20/83,1,0,2148
+86,Lloyd Bourne,United States,USA,1869,64,6/20/83,25,41,1906
+87,Russell Simpson,New Zealand,NZL,1867,56,6/20/83,1,0,1925
+88,Joakim Nystrom,Sweden,SWE,1866,5,6/20/83,1,0,2242
+89,Ulrich Pinner,Germany,GER,1866,31,6/20/83,1,0,2031
+90,Pat Cash,Australia,AUS,1864,6,6/20/83,-7,-11,2217
+91,Francisco Gonzalez,Paraguay,PAR,1862,58,6/20/83,1,0,1912
+92,Phil Dent,Australia,AUS,1861,24,6/20/83,1,0,2075
+93,Rod Frawley,Australia,AUS,1860,51,6/20/83,-6,-9,1951
+94,Pat Dupre,United States,USA,1857,15,6/20/83,0,0,2094
+95,Dick Stockton,United States,USA,1854,7,6/20/83,0,0,2212
+96,Florin Segarceanu,Romania,ROU,1853,70,6/20/83,0,0,1884
+97,Rodney Harmon,United States,USA,1853,55,6/20/83,2,2,1908
+98,Bernard Fritz,France,FRA,1852,89,6/20/83,-1,0,1857
+99,Peter Elter,Germany,GER,1852,56,6/20/83,-1,0,1930
+100,Matt Doyle,United States,USA,1852,48,6/20/83,-9,-11,1932
+101,Bernard Boileau,Belgium,BEL,1851,84,6/20/83,-1,0,1864
+102,Jimmy Brown,United States,USA,1851,53,6/20/83,-1,0,1921
+103,Hans Simonsson,Sweden,SWE,1850,96,6/20/83,-1,0,1850
+104,Ilie Nastase,Romania,ROU,1849,1,6/20/83,0,9,2363
+105,Pascal Portes,France,FRA,1848,43,6/20/83,-2,0,1983
+106,Peter Bastiansen,Denmark,DEN,1837,75,6/20/83,-1,0,1866
+107,Damir Keretic,Germany,GER,1836,53,6/20/83,-1,0,1911
+108,Paolo Bertolucci,Italy,ITA,1833,27,6/20/83,-1,0,2052
+109,Jan Gunnarsson,Sweden,SWE,1833,26,6/20/83,-1,0,1979
+110,Juan Avendano,Spain,ESP,1832,104,6/20/83,-1,0,1841
+111,Jose Lopez Maeso,Spain,ESP,1828,74,6/20/83,-1,0,1892
+112,Pedro Rebolledo,Chile,CHI,1822,52,6/20/83,0,0,1946
+113,Mike Cahill,United States,USA,1821,77,6/20/83,1,0,1875
+114,Drew Gitlin,United States,USA,1820,102,6/20/83,-1,-1,1844
+115,Bruce Manson,United States,USA,1819,44,6/20/83,0,0,1963
+116,Konstantin Pugaev,Uzbekistan,URS,1819,109,6/20/83,0,0,1820
+117,Peter Rennert,United States,USA,1815,68,6/20/83,0,0,1900
+118,Jairo Velasco,Spain,ESP,1814,76,6/20/83,0,0,1867
+119,Tony Giammalva,United States,USA,1812,76,6/20/83,0,0,1889
+120,Richard Meyer,United States,USA,1810,89,6/20/83,0,0,1852
+121,Dominique Bedel,France,FRA,1808,87,6/20/83,0,0,1846
+122,Cassio Motta,Brazil,BRA,1807,62,6/20/83,0,0,1897
+123,Tom Cain,United States,USA,1804,118,6/20/83,0,0,1815
+124,Roland Stadler,Switzerland,SUI,1799,90,6/20/83,0,0,1846
+125,Eddie Edwards,South Africa,RSA,1798,64,6/20/83,0,0,1896
+126,Thomas Hogstedt,Sweden,SWE,1798,60,6/20/83,0,0,1897
+127,Andrew Pattison,United States,USA,1797,21,6/20/83,0,0,2060
+128,Per Hjertquist,Sweden,SWE,1792,61,6/20/83,0,0,1920
+129,Roberto Arguello,Argentina,ARG,1791,73,6/20/83,0,0,1870
+130,Craig Wittus,United States,USA,1790,130,6/20/83,0,0,1790
+131,Scott Davis,United States,USA,1788,17,6/20/83,0,0,2052
+132,Gilles Moretton,France,FRA,1788,77,6/20/83,0,0,1877
+133,Jose Luis Damiani,Uruguay,URU,1787,54,6/20/83,0,0,1936
+134,Michael Westphal,Germany,GER,1786,51,6/20/83,0,0,1921
+135,Guy Forget,France,FRA,1785,6,6/20/83,0,0,2179
+136,Mike Myburg,South Africa,RSA,1782,135,6/20/83,0,0,1782
+137,Zeljko Franulovic,Croatia,CRO,1782,13,6/20/83,0,0,2126
+138,David Carter,Australia,AUS,1781,77,6/20/83,0,0,1880
+139,Nduka Odizor,Nigeria,NGR,1780,65,6/20/83,12,9,1896
+140,Claudio Panatta,Italy,ITA,1780,62,6/20/83,-1,0,1898
+141,Wally Masur,Australia,AUS,1780,19,6/20/83,4,6,2054
+142,Sergio Casal,Spain,ESP,1779,29,6/20/83,-2,0,1971
+143,Stanislav Birner,Czech Republic,CZE,1778,83,6/20/83,-2,0,1879
+144,Carlos Castellan,Argentina,ARG,1777,123,6/20/83,-2,0,1800
+145,Marko Ostoja,Croatia,CRO,1775,86,6/20/83,-1,0,1862
+146,Paul Kronk,Australia,AUS,1773,80,6/20/83,0,0,1857
+147,Ricardo Acuna,Chile,CHI,1773,73,6/20/83,43,42,1887
+148,Alejandro Ganzabal,Argentina,ARG,1772,105,6/20/83,-1,0,1828
+149,Rolf Gehring,Germany,GER,1772,46,6/20/83,-1,0,1964
+150,Freddie Sauer,South Africa,RSA,1772,111,6/20/83,-1,0,1820
+151,Angel Gimenez,Spain,ESP,1771,66,6/20/83,-1,0,1912
+152,Gianni Ocleppo,Italy,ITA,1771,44,6/20/83,0,0,1958
+153,Trey Waltke,United States,USA,1769,53,6/20/83,0,0,1939
+154,Erick Iskersky,United States,USA,1769,96,6/20/83,0,0,1840
+155,Jim Gurfein,United States,USA,1768,100,6/20/83,0,0,1847
+156,Peter Feigl,Austria,AUT,1765,47,6/20/83,0,0,1959
+157,Bernard Mitton,South Africa,RSA,1765,46,6/20/83,0,0,1962
+158,Andreas Maurer,Germany,GER,1765,37,6/20/83,0,0,1960
+159,Sean Sorensen,Ireland,IRL,1764,153,6/20/83,0,0,1774
+160,Chris Johnstone,Australia,AUS,1763,114,6/20/83,-17,-13,1816
+161,Magnus Tideman,Sweden,SWE,1763,159,6/20/83,0,0,1763
+162,Ferdi Taygan,United States,USA,1763,69,6/20/83,-2,0,1891
+163,Loic Courteau,France,FRA,1762,123,6/20/83,-1,0,1804
+164,Heinz Gildemeister,Chile,CHI,1762,109,6/20/83,-1,0,1803
+165,Morris Skip Strode,United States,USA,1761,141,6/20/83,-1,0,1783
+166,Sherwood Stewart,United States,USA,1761,63,6/20/83,-1,0,1907
+167,Ricardo Cano,Argentina,ARG,1760,50,6/20/83,0,0,1943
+168,Charlie Fancutt,Australia,AUS,1760,139,6/20/83,-2,0,1783
+169,Gustavo Tiberti,Argentina,ARG,1759,130,6/20/83,-1,0,1794
+170,Marty Davis,United States,USA,1756,34,6/20/83,-1,0,1959
+171,Mike Brunnberg,United States,USA,1754,147,6/20/83,-1,0,1776
+172,Francesco Cancellotti,Italy,ITA,1750,33,6/20/83,-1,0,1976
+173,Alberto Tous,Spain,ESP,1750,113,6/20/83,-1,0,1813
+174,Tsuyoshi Fukui,Japan,JPN,1750,113,6/20/83,-1,0,1818
+175,Zoltan Kuharszky,Hungary,HUN,1746,76,6/20/83,0,0,1878
+176,Ricardo Ycaza,Ecuador,ECU,1745,78,6/20/83,0,0,1881
+177,Craig A Miller,Australia,AUS,1745,153,6/20/83,0,0,1765
+178,Klaus Eberhard,Germany,GER,1743,105,6/20/83,0,0,1816
+179,Dave Siegler,United States,USA,1743,152,6/20/83,0,0,1754
+180,Broderick Dyke,Australia,AUS,1741,58,6/20/83,0,0,1895
+181,John James,Australia,AUS,1740,86,6/20/83,0,0,1855
+182,Schalk Van Der Merwe,South Africa,RSA,1736,173,6/20/83,0,0,1741
+183,Juan Aguilera,Spain,ESP,1736,19,6/20/83,0,0,2059
+184,Michael Mortensen,Denmark,DEN,1736,141,6/20/83,0,0,1783
+185,Ben Testerman,United States,USA,1736,41,6/20/83,-11,-11,1947
+186,Brad Drewett,Australia,AUS,1735,58,6/20/83,-1,0,1905
+187,Warren Maher,Australia,AUS,1734,144,6/20/83,-1,0,1766
+188,Karl Meiler,Germany,GER,1732,34,6/20/83,-1,0,2015
+189,Mike Leach,United States,USA,1732,39,6/20/83,-1,0,1945
+190,Danie Visser,South Africa,RSA,1731,66,6/20/83,-1,0,1879
+191,Jiri Granat,Czech Republic,CZE,1728,97,6/20/83,1,0,1832
+192,Glenn Michibata,Canada,CAN,1728,95,6/20/83,2,0,1844
+193,Matt Mitchell,United States,USA,1726,70,6/20/83,2,0,1890
+194,Mike Estep,United States,USA,1726,71,6/20/83,2,0,1887
+195,John Lloyd,United Kingdom,GBR,1726,26,6/20/83,2,0,2027
+196,Jonathan Smith,United Kingdom,GBR,1724,136,6/20/83,-5,-5,1780
+197,Rejean Genois,Canada,CAN,1722,167,6/20/83,1,0,1743
+198,Gabriel Urpi,Spain,ESP,1721,131,6/20/83,1,-1,1788
+199,Joao Soares,Brazil,BRA,1718,123,6/20/83,-6,-10,1806
+200,Christophe Casa,France,FRA,1717,186,6/20/83,0,0,1719
+201,Michiel Schapers,Netherlands,NED,1716,33,6/20/83,0,0,1970
+202,Richard Lewis,United Kingdom,GBR,1715,100,6/20/83,0,0,1829
+203,Larry Stefanki,United States,USA,1715,63,6/20/83,0,0,1895
+204,Raul Antonio Viver,Ecuador,ECU,1714,120,6/20/83,0,0,1804
+205,Leo Palin,Finland,FIN,1713,132,6/20/83,0,0,1789
+206,Georges Goven,France,FRA,1712,28,6/20/83,0,0,2005
+207,Pender Murphy,United States,USA,1711,195,6/20/83,0,0,1723
+208,David Dowlen,United States,USA,1711,155,6/20/83,0,0,1779
+209,Gianluca Rinaldini,Italy,ITA,1708,136,6/20/83,0,0,1783
+210,Harald Theissen,Germany,GER,1707,199,6/20/83,0,0,1719
+211,Scott Mccain,United States,USA,1707,144,6/20/83,0,0,1792
+212,Chris Mayotte,United States,USA,1706,144,6/20/83,0,-1,1770
+213,Sashi Menon,India,IND,1705,91,6/20/83,0,0,1833
+214,Tony Graham,United States,USA,1703,114,6/20/83,0,0,1808
+215,Robert Reininger,Austria,AUT,1703,200,6/20/83,0,0,1719
+216,Matt Anger,United States,USA,1702,38,6/20/83,1,0,1946
+217,Jim Delaney,United States,USA,1702,82,6/20/83,-1,0,1849
+218,Ramiro Benavides,"Bolivia, Plurinational State of",BOL,1701,138,6/20/83,1,0,1752
+219,Jerome Potier,France,FRA,1697,84,6/20/83,1,0,1857
+220,Haroon Ismail,Zimbabwe,ZIM,1696,116,6/20/83,1,0,1803
+221,Christoph Zipf,Germany,GER,1694,139,6/20/83,1,0,1798
+222,Syd Ball,Australia,AUS,1694,76,6/20/83,1,0,1861
+223,Blaine Willenborg,United States,USA,1694,122,6/20/83,1,0,1808
+224,Chris Dunk,United States,USA,1694,165,6/20/83,1,0,1746
+225,Brad Guan,Australia,AUS,1689,217,6/20/83,1,0,1691
+226,Andy Andrews,United States,USA,1686,145,6/20/83,1,0,1787
+227,Robbie Venter,South Africa,RSA,1686,188,6/20/83,1,0,1714
+228,Slobodan Zivojinovic,Serbia,SRB,1684,18,6/20/83,1,0,2044
+229,Colin Dowdeswell,United Kingdom,GBR,1684,70,6/20/83,1,0,1882
+230,John Hayes,United States,USA,1683,136,6/20/83,1,0,1780
+231,Marcel Freeman,United States,USA,1682,76,6/20/83,1,0,1878
+232,Ivan Dupasquier,Switzerland,SUI,1680,141,6/20/83,1,0,1768
+233,Alejandro Pierola,Chile,CHI,1675,140,6/20/83,1,0,1764
+235,Bernard Balleret,Monaco,MON,1672,183,6/20/83,1,0,1716
+236,Peter Doohan,Australia,AUS,1670,60,6/20/83,1,0,1892
+237,Dale Collings,Australia,AUS,1669,145,6/20/83,1,0,1763
+238,Mark Vines,United States,USA,1669,102,6/20/83,1,0,1832
+239,Antonio Zugarelli,Italy,ITA,1667,51,6/20/83,1,0,1940
+240,Hans Dieter Beutel,Germany,GER,1661,154,6/20/83,1,0,1781
+241,Brent Pirow,South Africa,RSA,1661,240,6/20/83,1,0,1661
+242,Charles Buzz Strode,United States,USA,1659,197,6/20/83,1,0,1712
+243,Anand Amritraj,India,IND,1659,75,6/20/83,1,0,1860
+244,Jeff Simpson,New Zealand,NZL,1653,113,6/20/83,1,0,1780
+245,Wayne Hampson,Australia,AUS,1648,194,6/20/83,2,0,1718
+246,Egan Adams,United States,USA,1647,183,6/20/83,2,0,1741
+247,Wolfgang Popp,Germany,GER,1647,119,6/20/83,2,0,1803
+248,Robert Machan,Hungary,HUN,1646,123,6/20/83,2,0,1757
+249,Ahmed El Mehelmy,Egypt,EGY,1641,211,6/20/83,2,0,1716
+251,Greg Whitecross,Australia,AUS,1640,226,6/20/83,2,0,1681
+252,Andy Kohlberg,United States,USA,1639,189,6/20/83,2,0,1723
+253,Cary Leeds,United States,USA,1639,246,6/20/83,2,0,1645
+254,Derek Tarr,United States,USA,1635,153,6/20/83,2,0,1783
+255,Bruce Derlin,New Zealand,NZL,1633,112,6/20/83,2,-1,1815
+257,Cliff Letcher,Australia,AUS,1630,99,6/20/83,2,0,1825
+258,Givaldo Barbosa,Brazil,BRA,1627,219,6/20/83,-12,-21,1701
+260,Hans Peter Kandler,Austria,AUT,1623,234,6/20/83,2,0,1676
+262,Ross Case,Australia,AUS,1620,23,6/20/83,2,0,2070
+263,Andrew Jarrett,United Kingdom,GBR,1618,164,6/20/83,2,0,1732
+265,Steve Krulevitz,United States,USA,1612,65,6/20/83,2,0,1904
+267,Bruce Kleege,United States,USA,1600,209,6/20/83,2,0,1669
+268,Alejandro Cortes,Colombia,COL,1597,155,6/20/83,2,0,1762
+269,Bruce Foxworth,United States,USA,1595,194,6/20/83,2,0,1705
+270,Bernhard Pils,Austria,AUT,1590,181,6/20/83,3,0,1745
+271,Rick Fagel,United States,USA,1586,111,6/20/83,4,0,1800
+272,Glen Holroyd,United States,USA,1571,256,6/20/83,4,0,1633
+273,Miguel Mir,Spain,ESP,1563,200,6/20/83,4,0,1679
+275,Julio Goes,Brazil,BRA,1543,207,6/20/83,4,0,1688
+277,Jean Louis Haillet,France,FRA,1513,94,6/20/83,4,0,1836
+278,Rocky Royer,United States,USA,1511,262,6/20/83,4,0,1626
+279,David Mustard,New Zealand,NZL,1501,142,6/20/83,4,0,1782

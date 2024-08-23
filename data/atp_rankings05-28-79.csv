@@ -1,0 +1,102 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,5/28/79,0,875
+2,Bjorn Borg,Sweden,SWE,0,1,5/28/79,0,10
+3,John McEnroe,United States,USA,0,1,5/28/79,0,1506
+4,Vitas Gerulaitis,United States,USA,0,3,5/28/79,1,0
+5,Guillermo Vilas,Argentina,ARG,0,2,5/28/79,-1,47
+6,Roscoe Tanner,United States,USA,0,4,5/28/79,0,0
+7,Eddie Dibbs,United States,USA,0,5,5/28/79,1,0
+8,Harold Solomon,United States,USA,0,5,5/28/79,-1,2
+9,Arthur Ashe,United States,USA,0,2,5/28/79,1,0
+10,Jose Higueras,Spain,ESP,0,6,5/28/79,-1,0
+11,Manuel Orantes,Spain,ESP,0,2,5/28/79,3,0
+12,Brian Gottfried,United States,USA,0,3,5/28/79,-1,0
+13,Jose Luis Clerc,Argentina,ARG,0,4,5/28/79,-1,20
+14,Wojtek Fibak,Poland,POL,0,10,5/28/79,-1,0
+15,John Alexander,Australia,AUS,0,8,5/28/79,0,0
+16,Corrado Barazzutti,Italy,ITA,0,7,5/28/79,1,0
+17,Tim Gullikson,United States,USA,0,15,5/28/79,-1,0
+18,Raul Ramirez,Mexico,MEX,0,4,5/28/79,3,0
+19,Adriano Panatta,Italy,ITA,0,4,5/28/79,-1,0
+20,Ilie Nastase,Romania,ROU,0,1,5/28/79,-1,0
+21,Peter Fleming,United States,USA,0,8,5/28/79,-1,0
+22,Gene Mayer,United States,USA,0,4,5/28/79,5,6
+23,Dick Stockton,United States,USA,0,8,5/28/79,-1,0
+24,Sandy Mayer,United States,USA,0,7,5/28/79,-1,0
+25,Balazs Taroczy,Hungary,HUN,0,12,5/28/79,-1,0
+26,Ulrich Pinner,Germany,GER,0,19,5/28/79,-1,0
+27,Johan Kriek,United States,USA,0,7,5/28/79,-1,268
+28,Vijay Amritraj,India,IND,0,18,5/28/79,1,69
+29,Victor Pecci,Paraguay,PAR,0,9,5/28/79,1,0
+30,Eliot Teltscher,United States,USA,0,6,5/28/79,-2,15
+31,Stan Smith,United States,USA,0,2,5/28/79,2,0
+32,Chris Lewis Nzl,New Zealand,NZL,0,19,5/28/79,2,8
+33,Victor Amaya,United States,USA,0,15,5/28/79,-1,0
+34,Tom Okker,Netherlands,NED,0,3,5/28/79,1,0
+35,Pat Dupre,United States,USA,0,14,5/28/79,1,0
+36,Peter Feigl,Austria,AUT,0,35,5/28/79,4,0
+37,Brian Teacher,United States,USA,0,7,5/28/79,2,0
+38,Buster C Mottram,United Kingdom,GBR,0,15,5/28/79,-7,0
+39,Robert Lutz,United States,USA,0,11,5/28/79,-1,0
+40,Yannick Noah,France,FRA,0,3,5/28/79,3,1079
+41,Tony Roche,Australia,AUS,0,2,5/28/79,0,0
+42,Butch Walts,United States,USA,0,30,5/28/79,-5,0
+43,Tomas Smid,Czech Republic,CZE,0,11,5/28/79,1,28
+44,Hans Gildemeister,Chile,CHI,0,12,5/28/79,1,0
+45,Marty Riessen,United States,USA,0,8,5/28/79,-3,0
+46,Hank Pfister,United States,USA,0,19,5/28/79,0,0
+47,Ivan Lendl,United States,USA,0,1,5/28/79,1,3420
+48,Geoff Masters,Australia,AUS,0,42,5/28/79,-1,0
+49,Paolo Bertolucci,Italy,ITA,0,12,5/28/79,4,0
+50,Tim Wilkison,United States,USA,0,23,5/28/79,-1,269
+51,Andrew Pattison,United States,USA,0,21,5/28/79,0,0
+52,Ken Rosewall,Australia,AUS,0,1,5/28/79,0,0
+53,Rolf Gehring,Germany,GER,0,30,5/28/79,-3,0
+54,Kim Warwick,Australia,AUS,0,15,5/28/79,0,15
+55,Tom Gorman,United States,USA,0,7,5/28/79,1,0
+56,Tom Gullikson,United States,USA,0,34,5/28/79,1,0
+57,Allan Stone,Australia,AUS,0,30,5/28/79,2,0
+58,Carlos Kirmayr,Brazil,BRA,0,36,5/28/79,-3,0
+59,Terry Moor,United States,USA,0,32,5/28/79,10,0
+60,Heinz Gunthardt,Switzerland,SUI,0,22,5/28/79,2,0
+61,Peter Mcnamara,Australia,AUS,0,7,5/28/79,-1,0
+62,Bill Scanlon,United States,USA,0,9,5/28/79,2,56
+63,Zeljko Franulovic,Croatia,CRO,0,11,5/28/79,-6,0
+64,Deon Joubert,South Africa,RSA,0,52,5/28/79,-3,0
+65,Bernard Mitton,South Africa,RSA,0,42,5/28/79,0,0
+66,Francisco Gonzalez,Paraguay,PAR,0,36,5/28/79,0,0
+67,Mark Edmondson,Australia,AUS,0,15,5/28/79,0,0
+67,Sherwood Stewart,United States,USA,0,60,5/28/79,4,0
+69,Nick Saviano,United States,USA,0,48,5/28/79,3,0
+69,Jan Kodes,Czech Republic,CZE,0,5,5/28/79,17,14
+71,John Newcombe,Australia,AUS,0,1,5/28/79,-8,0
+71,John Sadri,United States,USA,0,14,5/28/79,2,0
+73,Mike Cahill,United States,USA,0,58,5/28/79,-3,0
+74,Kevin Curren,United States,USA,0,5,5/28/79,1,684
+75,Ricardo Cano,Argentina,ARG,0,41,5/28/79,-7,0
+76,Dominique Bedel,France,FRA,0,41,5/28/79,,0
+77,Billy Martin,United States,USA,0,32,5/28/79,3,0
+78,Rick Fagel,United States,USA,0,60,5/28/79,5,0
+79,Gianni Ocleppo,Italy,ITA,0,30,5/28/79,,0
+80,John Marks,Australia,AUS,0,60,5/28/79,-6,0
+81,Jose Luis Damiani,Uruguay,URU,0,32,5/28/79,-4,0
+82,Peter Elter,Germany,GER,0,51,5/28/79,10,0
+83,Ricardo Ycaza,Ecuador,ECU,0,44,5/28/79,6,0
+84,Jean Louis Haillet,France,FRA,0,68,5/28/79,-9,0
+84,David Schneider,United States,USA,0,62,5/28/79,-5,0
+86,Patrice Dominguez,France,FRA,0,36,5/28/79,-6,0
+86,Ross Case,Australia,AUS,0,14,5/28/79,-8,0
+88,Ivan Molina,Colombia,COL,0,40,5/28/79,9,0
+89,Ferdi Taygan,United States,USA,0,59,5/28/79,-5,0
+90,Werner Zirngibl,Germany,GER,0,86,5/28/79,,0
+91,Paul Kronk,Australia,AUS,0,66,5/28/79,-3,0
+92,John James,Australia,AUS,0,81,5/28/79,-3,28
+93,Jiri Hrebec,Czech Republic,CZE,0,25,5/28/79,,0
+94,Raymond Moore,South Africa,RSA,0,20,5/28/79,-2,0
+95,Jaime Fillol,Chile,CHI,0,14,5/28/79,-9,0
+96,Phil Dent,Australia,AUS,0,17,5/28/79,,0
+96,Vladimir Zednik,Czech Republic,CZE,0,35,5/28/79,-11,0
+98,Pascal Portes,France,FRA,0,41,5/28/79,2,0
+99,Ramesh Krishnan,India,IND,0,23,5/28/79,-3,471
+100,Haroon Ismail,Zimbabwe,ZIM,0,87,5/28/79,-2,0
+104,Randy Crawford,United States,USA,0,95,5/28/79,-2,0

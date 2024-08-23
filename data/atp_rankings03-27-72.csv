@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Ken Rosewall,Australia,AUS,0,1,3/27/72,1,0
+2,Rod Laver,Australia,AUS,0,1,3/27/72,-1,0
+3,Stan Smith,United States,USA,0,2,3/27/72,2,0
+4,John Newcombe,Australia,AUS,0,1,3/27/72,-1,0
+5,Arthur Ashe,United States,USA,0,2,3/27/72,-1,0
+6,Tom Okker,Netherlands,NED,0,3,3/27/72,0,0
+7,Jan Kodes,Czech Republic,CZE,0,5,3/27/72,0,14
+8,Ilie Nastase,Romania,ROU,0,1,3/27/72,0,0
+9,Cliff Drysdale,South Africa,RSA,0,9,3/27/72,1,0
+10,Marty Riessen,United States,USA,0,8,3/27/72,-1,0
+11,Robert Lutz,United States,USA,0,11,3/27/72,0,0
+12,Cliff Richey,United States,USA,0,4,3/27/72,0,0
+13,Zeljko Franulovic,Croatia,CRO,0,11,3/27/72,1,0
+14,Andres Gimeno,Spain,ESP,0,3,3/27/72,2,0
+15,Manuel Orantes,Spain,ESP,0,2,3/27/72,2,0
+16,Clark Graebner,United States,USA,0,7,3/27/72,-3,0
+17,Tom Gorman,United States,USA,0,7,3/27/72,1,0
+18,John Alexander,Australia,AUS,0,8,3/27/72,1,0
+19,Roy Emerson,Australia,AUS,0,4,3/27/72,-4,0
+20,Roger Taylor,United Kingdom,GBR,0,9,3/27/72,2,0
+21,Jimmy Connors,United States,USA,0,1,3/27/72,14,875
+22,Pierre Barthes,France,FRA,0,15,3/27/72,3,0
+23,Richard Pancho Gonzales,United States,USA,0,5,3/27/72,4,0
+24,Frank Froehling,United States,USA,0,21,3/27/72,-3,0
+25,Alex Metreveli,Russian Federation,RUS,0,9,3/27/72,15,0
+26,Charlie Pasarell,United States,USA,0,15,3/27/72,7,0
+27,Nikola Pilic,Croatia,CRO,0,10,3/27/72,-7,0
+28,Gerald Battrick,United Kingdom,GBR,0,28,3/27/72,6,0
+29,Jaime Fillol,Chile,CHI,0,14,3/27/72,-6,0
+30,Mal Anderson,Australia,AUS,0,21,3/27/72,,0
+31,Colin Dibley,Australia,AUS,0,27,3/27/72,-2,0
+32,Fred Stolle,Australia,AUS,0,7,3/27/72,-1,0
+33,Mark Cox,United Kingdom,GBR,0,12,3/27/72,-9,0
+34,Ray Ruffels,Australia,AUS,0,21,3/27/72,-6,0
+35,Jeff Borowiak,United States,USA,0,20,3/27/72,4,0
+36,Ismail El Shafei,Egypt,EGY,0,28,3/27/72,-4,0
+37,Allan Stone,Australia,AUS,0,30,3/27/72,,0
+38,Onny Parun,New Zealand,NZL,0,19,3/27/72,-1,0
+39,Bob Carmichael,Australia,AUS,0,23,3/27/72,-9,0
+40,Georges Goven,France,FRA,0,21,3/27/72,,0
+41,Juan Gisbert,Spain,ESP,0,29,3/27/72,6,0
+42,Haroon Rahim,Pakistan,PAK,0,34,3/27/72,,0
+43,Bob Hewitt,South Africa,RSA,0,16,3/27/72,-2,0
+44,Jan Leschly,Denmark,DEN,0,19,3/27/72,1,0
+45,Ion Tiriac,Romania,ROU,0,23,3/27/72,-2,0
+46,Robert Maud,South Africa,RSA,0,35,3/27/72,0,0
+47,Raymond Moore,South Africa,RSA,0,20,3/27/72,-3,0
+48,Dennis Ralston,United States,USA,0,7,3/27/72,-22,0
+49,Martin Mulligan,Australia,AUS,0,12,3/27/72,-7,0
+50,Patrick Proisy,France,FRA,0,16,3/27/72,,0

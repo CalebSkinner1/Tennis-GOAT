@@ -1,0 +1,51 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Rod Laver,Australia,AUS,0,1,7/15/68,0,0
+2,Ken Rosewall,Australia,AUS,0,1,7/15/68,0,0
+3,Andres Gimeno,Spain,ESP,0,3,7/15/68,1,0
+4,John Newcombe,Australia,AUS,0,1,7/15/68,-1,0
+5,Roy Emerson,Australia,AUS,0,4,7/15/68,0,0
+6,Tony Roche,Australia,AUS,0,2,7/15/68,0,0
+7,Fred Stolle,Australia,AUS,0,7,7/15/68,1,0
+8,Clark Graebner,United States,USA,0,7,7/15/68,5,0
+9,Dennis Ralston,United States,USA,0,7,7/15/68,-2,0
+10,Earl Butch Buchholz,United States,USA,0,9,7/15/68,-1,0
+11,Tom Okker,Netherlands,NED,0,3,7/15/68,10,0
+12,Bill Bowrey,Australia,AUS,0,10,7/15/68,-2,0
+13,Arthur Ashe,United States,USA,0,2,7/15/68,11,0
+14,Manuel Santana,Spain,ESP,0,12,7/15/68,-2,0
+15,Marty Riessen,United States,USA,0,8,7/15/68,5,0
+16,Richard Pancho Gonzales,United States,USA,0,5,7/15/68,28,0
+17,Cliff Richey,United States,USA,0,4,7/15/68,2,0
+18,Cliff Drysdale,South Africa,RSA,0,9,7/15/68,-2,0
+19,Jan Leschly,Denmark,DEN,0,19,7/15/68,3,0
+20,Nikola Pilic,Croatia,CRO,0,10,7/15/68,-9,0
+21,Barry Phillips Moore,Australia,AUS,0,19,7/15/68,11,0
+22,Bob Hewitt,South Africa,RSA,0,16,7/15/68,6,0
+23,Ray Ruffels,Australia,AUS,0,21,7/15/68,3,0
+24,Pierre Barthes,France,FRA,0,15,7/15/68,-9,0
+25,Martin Mulligan,Australia,AUS,0,12,7/15/68,-11,0
+26,Lew Hoad,Australia,AUS,0,26,7/15/68,15,0
+27,Mark Cox,United Kingdom,GBR,0,12,7/15/68,,0
+28,Ion Tiriac,Romania,ROU,0,23,7/15/68,14,0
+29,Alex Metreveli,Russian Federation,RUS,0,9,7/15/68,21,0
+30,Owen Davidson,Australia,AUS,0,13,7/15/68,-13,0
+31,Thomaz Koch,Brazil,BRA,0,16,7/15/68,-1,0
+32,Stan Smith,United States,USA,0,2,7/15/68,-1,0
+33,Juan Gisbert,Spain,ESP,0,29,7/15/68,2,0
+34,Barry Mackay,United States,USA,0,26,7/15/68,-7,0
+35,Charlie Pasarell,United States,USA,0,15,7/15/68,-6,0
+36,Dick Crealy,Australia,AUS,0,19,7/15/68,3,0
+37,Gene Scott,United States,USA,0,37,7/15/68,3,0
+38,Michael Davies,United Kingdom,GBR,0,20,7/15/68,-13,0
+39,Roger Taylor,United Kingdom,GBR,0,9,7/15/68,-21,0
+40,Ron Barnes,Brazil,BRA,0,33,7/15/68,-7,0
+41,Boro Jovanovic,Croatia,CRO,0,37,7/15/68,,0
+42,Raymond Moore,South Africa,RSA,0,20,7/15/68,,0
+43,Edison Mandarino,Brazil,BRA,0,35,7/15/68,4,0
+44,Rafael Osuna,Mexico,MEX,0,36,7/15/68,-8,0
+45,Bobby Wilson,Unknown,???,0,45,7/15/68,3,0
+46,Wilhelm Bungert,Germany,GER,0,22,7/15/68,-23,0
+47,Mike Belkin,Canada,CAN,0,42,7/15/68,-2,0
+48,Allan Stone,Australia,AUS,0,30,7/15/68,,0
+49,Torben Ulrich,Denmark,DEN,0,38,7/15/68,,0
+50,Pierre Darmon,France,FRA,0,36,7/15/68,-13,0

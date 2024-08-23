@@ -1,0 +1,101 @@
+rank,name,country_name,country_id,points,bestRank,bestRankDate,rankDiff,bestPoints
+1,Jimmy Connors,United States,USA,0,1,5/31/76,0,875
+2,Bjorn Borg,Sweden,SWE,0,1,5/31/76,1,10
+3,Guillermo Vilas,Argentina,ARG,0,2,5/31/76,1,47
+4,Arthur Ashe,United States,USA,0,2,5/31/76,-2,0
+5,Manuel Orantes,Spain,ESP,0,2,5/31/76,0,0
+6,Adriano Panatta,Italy,ITA,0,4,5/31/76,3,0
+7,Ilie Nastase,Romania,ROU,0,1,5/31/76,-1,0
+8,Eddie Dibbs,United States,USA,0,5,5/31/76,2,0
+9,Ken Rosewall,Australia,AUS,0,1,5/31/76,-1,0
+10,Raul Ramirez,Mexico,MEX,0,4,5/31/76,-3,0
+11,Tom Okker,Netherlands,NED,0,3,5/31/76,0,0
+12,Roscoe Tanner,United States,USA,0,4,5/31/76,0,0
+13,Harold Solomon,United States,USA,0,5,5/31/76,0,2
+14,John Newcombe,Australia,AUS,0,1,5/31/76,11,0
+15,Tony Roche,Australia,AUS,0,2,5/31/76,-1,0
+16,Jaime Fillol,Chile,CHI,0,14,5/31/76,0,0
+17,Brian Gottfried,United States,USA,0,3,5/31/76,0,0
+18,Robert Lutz,United States,USA,0,11,5/31/76,0,0
+19,Ross Case,Australia,AUS,0,14,5/31/76,0,0
+20,John Alexander,Australia,AUS,0,8,5/31/76,1,0
+21,Vitas Gerulaitis,United States,USA,0,3,5/31/76,-1,0
+22,Vijay Amritraj,India,IND,0,18,5/31/76,0,69
+23,Stan Smith,United States,USA,0,2,5/31/76,0,0
+24,Corrado Barazzutti,Italy,ITA,0,7,5/31/76,3,0
+25,Jan Kodes,Czech Republic,CZE,0,5,5/31/76,-10,14
+26,Dick Stockton,United States,USA,0,8,5/31/76,0,0
+27,Onny Parun,New Zealand,NZL,0,19,5/31/76,-3,0
+28,Rod Laver,Australia,AUS,0,1,5/31/76,0,0
+29,Sandy Mayer,United States,USA,0,7,5/31/76,1,0
+30,Andrew Pattison,United States,USA,0,21,5/31/76,2,0
+31,Cliff Drysdale,South Africa,RSA,0,9,5/31/76,-2,0
+32,Tom Gorman,United States,USA,0,7,5/31/76,2,0
+33,Wojtek Fibak,Poland,POL,0,10,5/31/76,-2,0
+34,Phil Dent,Australia,AUS,0,17,5/31/76,-2,0
+35,Mark Edmondson,Australia,AUS,0,15,5/31/76,4,0
+36,Francois Jauffret,France,FRA,0,20,5/31/76,-1,0
+37,Karl Meiler,Germany,GER,0,20,5/31/76,-1,0
+38,Cliff Richey,United States,USA,0,4,5/31/76,-1,0
+39,Buster C Mottram,United Kingdom,GBR,0,15,5/31/76,-1,0
+40,Jose Higueras,Spain,ESP,0,6,5/31/76,9,0
+41,Jeff Borowiak,United States,USA,0,20,5/31/76,0,0
+42,Raymond Moore,South Africa,RSA,0,20,5/31/76,-2,0
+43,Alex Metreveli,Russian Federation,RUS,0,9,5/31/76,-1,0
+44,Ivan Molina,Colombia,COL,0,40,5/31/76,2,0
+45,Thomaz Koch,Brazil,BRA,0,16,5/31/76,2,0
+46,Juan Gisbert,Spain,ESP,0,29,5/31/76,-3,0
+47,Ricardo Cano,Argentina,ARG,0,41,5/31/76,1,0
+48,Patrick Proisy,France,FRA,0,16,5/31/76,2,0
+48,Balazs Taroczy,Hungary,HUN,0,12,5/31/76,9,0
+48,Zeljko Franulovic,Croatia,CRO,0,11,5/31/76,3,0
+51,Geoff Masters,Australia,AUS,0,42,5/31/76,-7,0
+52,Ulrich Pinner,Germany,GER,0,19,5/31/76,10,0
+53,Dick Crealy,Australia,AUS,0,19,5/31/76,3,0
+54,Hans Kary,Austria,AUT,0,54,5/31/76,10,0
+55,Victor Pecci,Paraguay,PAR,0,9,5/31/76,-3,0
+56,Jiri Hrebec,Czech Republic,CZE,0,25,5/31/76,5,0
+57,Mark Cox,United Kingdom,GBR,0,12,5/31/76,-2,0
+58,Bob Hewitt,South Africa,RSA,0,16,5/31/76,-1,0
+58,Marty Riessen,United States,USA,0,8,5/31/76,-4,0
+60,Bernard Mitton,South Africa,RSA,0,42,5/31/76,-1,0
+61,Ray Ruffels,Australia,AUS,0,21,5/31/76,-1,0
+62,Nikola Pilic,Croatia,CRO,0,10,5/31/76,-9,0
+63,Billy Martin,United States,USA,0,32,5/31/76,0,0
+64,Haroon Rahim,Pakistan,PAK,0,34,5/31/76,2,0
+65,Allan Stone,Australia,AUS,0,30,5/31/76,2,0
+66,Graham Stilwell,United Kingdom,GBR,0,35,5/31/76,-1,0
+67,Kim Warwick,Australia,AUS,0,15,5/31/76,2,15
+68,Jairo Velasco,Spain,ESP,0,46,5/31/76,7,0
+69,Paolo Bertolucci,Italy,ITA,0,12,5/31/76,-24,0
+70,Han Jurgen Pohmann,Germany,GER,0,30,5/31/76,-1,0
+71,Sherwood Stewart,United States,USA,0,60,5/31/76,3,0
+72,Norman Holmes,United States,USA,0,70,5/31/76,6,0
+73,Kjell Johansson,Sweden,SWE,0,32,5/31/76,18,0
+74,Frew Mcmillan,South Africa,RSA,0,34,5/31/76,2,0
+75,Mike Cahill,United States,USA,0,58,5/31/76,-6,0
+76,Jim Delaney,United States,USA,0,59,5/31/76,-8,0
+77,Charlie Pasarell,United States,USA,0,15,5/31/76,-4,0
+78,Erik Van Dillen,United States,USA,0,36,5/31/76,3,0
+79,John Andrews,United States,USA,0,64,5/31/76,1,0
+80,Eric Deblicker,France,FRA,0,68,5/31/76,13,0
+81,Hans Jaochim Plotz,Germany,GER,0,65,5/31/76,0,0
+82,Byron Bertram,South Africa,RSA,0,51,5/31/76,18,0
+83,Bob Carmichael,Australia,AUS,0,23,5/31/76,-4,0
+84,Jun Kuki,Japan,JPN,0,74,5/31/76,14,0
+85,John Whitlinger,United States,USA,0,75,5/31/76,-2,0
+86,Colin Dowdeswell,United Kingdom,GBR,0,31,5/31/76,-1,0
+87,Paul Kronk,Australia,AUS,0,66,5/31/76,-4,0
+88,Mike Estep,United States,USA,0,59,5/31/76,1,0
+89,John Lloyd,United Kingdom,GBR,0,23,5/31/76,-3,0
+90,Brian Fairlie,New Zealand,NZL,0,24,5/31/76,-3,0
+91,Syd Ball,Australia,AUS,0,63,5/31/76,-1,0
+92,Victor Amaya,United States,USA,0,15,5/31/76,-4,0
+93,Colin Dibley,Australia,AUS,0,27,5/31/76,-16,0
+94,Roger Taylor,United Kingdom,GBR,0,9,5/31/76,-22,0
+94,Antonio Munoz,Spain,ESP,0,74,5/31/76,0,0
+94,Jurgen Fassbender,Germany,GER,0,31,5/31/76,1,0
+97,Gerald Battrick,United Kingdom,GBR,0,28,5/31/76,,0
+98,Julian Ganzabal,Argentina,ARG,0,68,5/31/76,-1,0
+99,Ismail El Shafei,Egypt,EGY,0,28,5/31/76,-3,0
+100,Sashi Menon,India,IND,0,82,5/31/76,,0
