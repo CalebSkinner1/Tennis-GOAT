@@ -5,6 +5,7 @@ library("tidyverse")
 library("janitor")
 library("here")
 library("plotly")
+library("tidygeocoder")
 
 path_to_file <- here("data")
 
@@ -163,14 +164,14 @@ rankings_100 <- rankings %>% filter(date %in% last_issue, rank < 101) %>%
       player == "David Nalbandian" ~ -31.2339887,
       player == "Viktor Troicki" ~ 44.8178131,
       player == "Juan Carlos Ferrero" ~ 38.8208523,
-      player == "Thomaz Belluci" ~ -22.4133188,
+      player == "Thomaz Bellucci" ~ -22.4133188,
       player == "Feliciano Lopez" ~ 39.8560679,
       player == "Guillermo Garcia Lopez" ~ 39.20702,
       player == "Philipp Kohlschreiber" ~ 48.3690341,
       player == "Yen Hsun Lu" ~ 24.99111557006836,
       player == "Andrey Golubev" ~ 48.8176,
       player == "Florian Mayer" ~ 49.9427202,
-      player == "Juan Ignacio Chela " ~ -34.6073387,
+      player == "Juan Ignacio Chela" ~ -34.6073387,
       player == "Jarkko Nieminen" ~ 60.566667,
       player == "Denis Istomin" ~ 41.3123363,
       player == "Gilles Simon" ~ 43.7009358,
@@ -230,7 +231,8 @@ rankings_100 <- rankings %>% filter(date %in% last_issue, rank < 101) %>%
       player == "Paul Henri Mathieu" ~ 48.584614,
       player == "Kei Nishikori" ~ 35.468115,
       player == "Michael Russell" ~ 42.3315509,
-      player == "Igor Kunitsyn" ~ 43.1150678
+      player == "Igor Kunitsyn" ~ 43.1150678,
+      player == "Lukasz Kubot" ~ 51.2630333
       ),
     birth_long = case_when(
       player == "Novak Djokovic" ~ 20.4568974,
@@ -358,14 +360,14 @@ rankings_100 <- rankings %>% filter(date %in% last_issue, rank < 101) %>%
       player == "David Nalbandian" ~ -64.3164639,
       player == "Viktor Troicki" ~ 20.4568974,
       player == "Juan Carlos Ferrero" ~ -0.6099929,
-      player == "Thomaz Belluci" ~ -48.450554,
+      player == "Thomaz Bellucci" ~ -48.450554,
       player == "Feliciano Lopez" ~ -4.0239568,
       player == "Guillermo Garcia Lopez" ~ -2.1581637,
       player == "Philipp Kohlschreiber" ~ 10.8979522,
       player == "Yen Hsun Lu" ~ 121.31143188476562,
       player == "Andrey Golubev" ~ 44.7519454,
       player == "Florian Mayer" ~ 11.5763079,
-      player == "Juan Ignacio Chela " ~ -58.40231704711914,
+      player == "Juan Ignacio Chela" ~ -58.40231704711914,
       player == "Jarkko Nieminen" ~ 22.1,
       player == "Denis Istomin" ~ 69.2787079,
       player == "Gilles Simon" ~ 7.2683912,
@@ -425,12 +427,201 @@ rankings_100 <- rankings %>% filter(date %in% last_issue, rank < 101) %>%
       player == "Paul Henri Mathieu" ~ 7.7507127,
       player == "Kei Nishikori" ~ 133.048768,
       player == "Michael Russell" ~ -83.0466403,
-      player == "Igor Kunitsyn" ~ 131.8855768))
+      player == "Igor Kunitsyn" ~ 131.8855768,
+      player == "Lukasz Kubot" ~ 15.5651049),
+    birth_city = case_when(
+      player == "Milos Raonic" ~ "Podgorica, Montenegro",
+      player == "David Goffin" ~ "Rocourt, Belgium",
+      player == "Bernard Tomic" ~ "Stuttgart, Germany",
+      player == "Benoit Paire" ~ "Avignon, France",
+      player == "Jack Sock" ~ "Lincoln, Nebraska, United States",
+      player == "Nick Kyrgios" ~ "Canberra, Australia",
+      player == "Steve Johnson" ~ "Washington, D.C., United States",
+      player == "Joao Sousa" ~ "Guimaraes, Portugal",
+      player == "Gilles Muller" ~ "Luxembourg, Luxembourg",
+      player == "Vasek Pospisil" ~ "Vernon, Canada",
+      player == "Jiri Vesely" ~ "Příbram, Czechia",
+      player == "Martin Klizan" ~ "Bratislava, Slovakia",
+      player == "Aljaz Bedene" ~ "Ljubljana, Slovenia",
+      player == "Donald Young" ~ "Chicago, Illinois, United States",
+      player == "Hyeon Chung" ~ "Suwon-si, South Korea",
+      player == "Federico Delbonis" ~ "Azul, Argentina",
+      player == "Lukas Rosol" ~ "Brno, Czechia",
+      player == "Victor Estrella" ~ "Santiago de los Caballeros, Dominican Republic",
+      player == "Jerzy Janowicz" ~ "Łódź, Poland",
+      player == "Simone Bolelli" ~ "Bologna, Italy",
+      player == "Sam Groth" ~ "Narrandera, Australia",
+      player == "Andreas Haider Maurer" ~ "Zwettl, Austria",
+      player == "Pablo Carreno Busta" ~ "Gijón, Spain",
+      player == "Paolo Lorenzi" ~ "Rome, Italy",
+      player == "Denis Kudla" ~ "Kyiv, Ukraine",
+      player == "Nicolas Mahut" ~ "Angers, France",
+      player == "Inigo Cervantes Huegun" ~ "Hondarribia, Spain",
+      player == "Guido Pella" ~ "Buenos Aires, Argentina",
+      player == "Daniel Munoz de la Nava" ~ "Madrid, Spain",
+      player == "Lucas Pouille" ~ "Grande-Synthe, France",
+      player == "Andrey Kuznetsov" ~ "Tula, Russia",
+      player == "Damir Dzumhur" ~ "Sarajevo, Bosnia and Herzegovina",
+      player == "Steve Darcis" ~ "Liège, Belgium",
+      player == "Diego Schwartzman" ~ "Buenos Aires, Argentina",
+      player == "Rajeev Ram" ~ "Denver, CO",
+      player == "Marco Cecchinato" ~ "Palermo, Italy",
+      player == "Evgeny Donskoy" ~ "Moscow, Russia",
+      player == "John Millman" ~ "Brisbane, Australia",
+      player == "Yuki Bhambri" ~ "New Delhi, India",
+      player == "Denis Shapovalov" ~ "Tel Aviv-Yafo, Israel",
+      player == "Filip Krajinovic" ~ "Sombor, Serbia",
+      player == "Reilly Opelka" ~ "St. Joseph, Michigan, United States",
+      player == "Nikoloz Basilashvili" ~ "Tbilisi, Georgia",
+      player == "Kyle Edmund" ~ "Johannesburg, South Africa",
+      player == "Tennys Sandgren" ~ "Gallatin, Tennessee, United States",
+      player == "Stefano Travaglia" ~ "Ascoli Piceno, Italy",
+      player == "Salvatore Caruso" ~ "Avola, Italy",
+      player == "Corentin Moutet" ~ "Neuilly-sur-Seine, France",
+      player == "Egor Gerasimov" ~ "Minsk, Belarus",
+      player == "Juan Ignacio Londero" ~ "Jesus Maria, Argentina",
+      player == "Pierre Hugues Herbert" ~ "Schiltigheim, France",
+      player == "Thiago Monteiro" ~ "Fortaleza, Ceará, Brazil",
+      player == "Pedro Martinez" ~ "Alzira, Spain",
+      player == "Lloyd Harris" ~ "Cape Town, South Africa",
+      player == "Norbert Gombos" ~ "Galanta, Slovakia",
+      player == "Attila Balazs" ~ "Budapest, Hungary",
+      player == "Radu Albot" ~ "Chișinău, Moldova",
+      player == "Mikael Ymer" ~ "Skara, Sweden",
+      player == "Soon Woo Kwon" ~ "Sangju-si, South Korea",
+      player == "Dennis Novak" ~ "Wiener Neustadt, Austria",
+      player == "Gianluca Mager" ~ "Sanremo, Italy",
+      player == "Mariano Navone" ~ "Nueve de Julio, Buenos Aires, Argentina",
+      player == "Luciano Darderi" ~ "Villa Gesell, Argentina",
+      player == "Flavio Cobolli" ~ "Rome, Italy",
+      player == "Giovanni Mpetshi Perricard" ~ "Lyon, France",
+      player == "Luca Nardi" ~ "Pesaro, Italy",
+      player == "Jakub Mensik" ~ "Prostějov, Czechia",
+      player == "Arthur Cazaux" ~ "Montpellier, France",
+      player == "Brandon Nakashima" ~ "San Diego, California, United States",
+      player == "Aleksandar Kovacevic" ~ "New York City, New York, United States",
+      player == "Hugo Gaston" ~ "Toulouse, France",
+      player == "Juncheng Shang" ~ "Beijing, China",
+      player == "Sumit Nagal" ~ "Jhajjar, India",
+      player == "Adam Walton" ~ "Brisbane, Australia",
+      player == "Francisco Comesana" ~ "Mar del Plata, Buenos Aires, Argentina",
+      player == "Gustavo Kuerten" ~ "Florianópolis, Brazil",
+      player == "Marat Safin" ~ "Moscow, Russia",
+      player == "Pete Sampras" ~ "Washington, D.C, United States",
+      player == "Magnus Norman" ~ "Filipstad, Sweden",
+      player == "Yevgeny Kafelnikov" ~ "Sochi, Russia",
+      player == "Andre Agassi" ~ "Las Vegas, Nevada",
+      player == "Alex Corretja" ~ "Barcelona, Spain",
+      player == "Thomas Enqvist" ~ "Stockholm, Sweden",
+      player == "Tim Henman" ~ "Oxford, United Kingdom",
+      player == "Mark Philippoussis" ~ "Melbourne, Australia",
+      player == "Wayne Ferreira" ~ "Johannesburg, South Africa",
+      player == "Franco Squillari" ~ "Buenos Aires, Argentina",
+      player == "Patrick Rafter" ~ "Mount Isa City, Australia",
+      player == "Cedric Pioline" ~ "Neuilly-sur-Seine, France",
+      player == "Dominik Hrbaty" ~ "Bratislava, Slovakia",
+      player == "Sebastien Grosjean" ~ "Marseille, France",
+      player == "Nicolas Kiefer" ~ "Holzminden, Germany",
+      player == "Mariano Puerta" ~ "San Francisco, Argentina",
+      player == "Sjeng Schalken" ~ "Weert, Netherlands",
+      player == "Tommy Haas" ~ "Hamburg, Germany",
+      player == "Nicolas Lapentti" ~ "Guayaquil, Ecuador",
+      player == "Younes El Aynaoui" ~ "Rabat, Morocco",
+      player == "Albert Costa" ~ "Lleida, Spain",
+      player == "Andrei Pavel" ~ "Constanța, Romania",
+      player == "Marc Rosset" ~ "Geneva, Switzerland",
+      player == "Hicham Arazi" ~ "Casablanca, Morocco",
+      player == "Fabrice Santoro" ~ "Tahiti, French Polynesia",
+      player == "Michael Chang" ~ "Hoboken, New Jersey, United States",
+      player == "Jan Michael Gambill" ~ "Spokane, Washington, United States",
+      player == "Gaston Gaudio" ~ "Temperley, Argentina",
+      player == "Byron Black" ~ "Harare, Zimbabwe",
+      player == "Richard Krajicek" ~ "Rotterdam, Netherlands",
+      player == "Marcelo Rios" ~ "Santiago, Chile",
+      player == "David Prinosil" ~ "Olomouc, Czechia",
+      player == "Thomas Johansson" ~ "Linköping, Sweden",
+      player == "Max Mirnyi" ~ "Minsk, Belarus",
+      player == "Carlos Moya" ~ "Palma, Spain",
+      player == "Jerome Golmard" ~ "Dijon, France",
+      player == "Gianluca Pozzi" ~ "Bari, Italy",
+      player == "Jonas Bjorkman" ~ "Växjö, Sweden",
+      player == "Vladimir Voltchkov" ~ "Minsk, Belarus",
+      player == "Fernando Vicente" ~ "Benicarló, Spain",
+      player == "Nicolas Escude" ~ "Chartres, France",
+      player == "Francisco Clavet" ~ "Aranjuez, Spain",
+      player == "Andrew Ilie" ~ "Bucharest, Romania",
+      player == "Albert Portas" ~ "Barcelona, Spain",
+      player == "Andreas Vinciguerra" ~ "Malmö Municipality, Sweden",
+      player == "Jiri Novak" ~ "Prostejov, Czech Republic",
+      player == "Stefan Koubek" ~ "Klagenfurt, Austria",
+      player == "Todd Martin" ~ "Hinsdale, Illinois, United States",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      
+      
+      
+      
+      
+      )) %>%
+  geocode(birth_city, method = 'osm', lat = new_lat, long = new_long) %>%
+  mutate(
+    birth_lat = if_else(is.na(birth_lat), new_lat, birth_lat),
+    birth_long = if_else(is.na(birth_long), new_long, birth_long)) %>%
+  select(-contains("new"))
 
-rankings2023 <- rankings_100 %>% filter(year(rank_date) == 2023)
-
+# world map
 world_map <- map_data("world") %>% 
   filter(! long > 180)
+
+
+
+
+
+# 2000
+rankings2000 <- rankings_100 %>% filter(year(rank_date) == 2000)
+
+
+# 2010
+rankings2010 <- rankings_100 %>% filter(year(rank_date) == 2010)
+
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings2010,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "2010 ATP Top 100")
+
+# 2015
+rankings2015 <- rankings_100 %>% filter(year(rank_date) == 2015)
+
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings2015,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "2015 ATP Top 100")
+
+# 2020
+rankings2020 <- rankings_100 %>% filter(year(rank_date) == 2020)
+
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings2020,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "2020 ATP Top 100")
+
+# 2023
+rankings2023 <- rankings_100 %>% filter(year(rank_date) == 2023)
 
 world_map %>%
   ggplot() +
@@ -440,4 +631,13 @@ world_map %>%
               aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
   labs(x = "Longitude", y = "Latitude", title = "2023 ATP Top 100")
 
-rankings2023 %>% slice(20:30)
+# 2024
+rankings2024 <- rankings_100 %>% filter(year(rank_date) == 2024)
+
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings2024,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "2024 ATP Top 100")
