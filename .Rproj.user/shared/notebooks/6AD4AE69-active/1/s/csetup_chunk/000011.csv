@@ -1,6 +1,0 @@
-"0","knitr::opts_chunk$set("
-"0","  comment = ""#"", fig.height = 3, "
-"0","  cache = FALSE, collapse = TRUE,"
-"0","  error = TRUE, echo = FALSE,"
-"0","  message = FALSE,"
-"0","  warning = FALSE)"

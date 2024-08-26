@@ -1,0 +1,37 @@
+"0","#| tbl-cap: Player Rankings by Grand Slam Results
+players %>%
+  group_by(name, dob, ioc) %>%
+  summarize(
+    Titles = sum(result == ""winner"" & round == ""F""),
+    Finals = sum(round == ""F""),
+    Semis = sum(round == ""SF""),
+    Quarters = sum(round == ""QF""),
+    ""4th Round"" = sum(round == ""R16""),
+    ""3rd Round"" = sum(round == ""R32""),
+    ""2nd Round"" = sum(round == ""R64""),
+    ""1st Round"" = sum(round == ""R128"")) %>%
+  arrange(desc(Titles), desc(Finals), desc(Semis), desc(Quarters),
+          desc(`4th Round`), desc(`3rd Round`), desc(`2nd Round`), desc(`1st Round`)) %>%
+  ungroup() %>%
+  mutate(
+    Rank = row_number(),
+    `Birth Year` = year(dob)) %>%
+  relocate(Rank, .before = name) %>%
+  rename(
+    Country = ioc,
+    Name = name) %>%
+  relocate(`Birth Year`, .before = Country) %>%
+  select(-dob) %>%
+  slice(1:25) %>%
+  flextable() %>%
+  align(align = ""center"", part = ""all"") %>%
+  width(j= 2, width = 2) %>%
+  width(j = 3, width = 1.9) %>%
+  width(j = c(1, 4), width = .7) %>%
+  width(j = c(9:12), width = 1) %>%
+  colformat_double(j = 5, digits = 0) %>%
+  colformat_double(j = 3,
+    big.mark = """", digits = 0, na_str = ""N/A"")
+"
+"1","[38;5;250m`summarise()` has grouped output by 'name', 'dob'. You can override using the `.groups` argument.[39m
+"
