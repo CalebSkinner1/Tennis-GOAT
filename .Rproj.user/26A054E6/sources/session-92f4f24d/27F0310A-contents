@@ -16,6 +16,7 @@ website:
       - us_open.qmd
       - age.qmd
       - country.qmd
+      - maps.qmd
 
 format:
   html:
