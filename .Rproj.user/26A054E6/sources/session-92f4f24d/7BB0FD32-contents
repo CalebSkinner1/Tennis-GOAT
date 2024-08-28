@@ -585,6 +585,107 @@ rankings_100 <- rankings %>% filter(date %in% last_issue, rank < 101) %>%
       player == "Richard Fromberg" ~ "Ulverstone, Tasmania, Australia",
       player == "Sergi Bruguera" ~ "Barcelona, Spain",
       player == "Alexander Popp" ~ "Heidelberg, Germany",
+      player == "Nicolas Massu" ~ "Viña del Mar, Chile",
+      player == "Guillermo Coria" ~ "Rufino, Argentina",
+      player == "David Sanchez" ~ "Zamora, Spain",
+      player == "Justin Gimelstob" ~ "Livingston, New Jersey, United States",
+      player == "Hyung Taik Lee" ~ "Hoingsung, South Korea",
+      player == "German Puentes" ~ "Barcelona, Spain",
+      player == "Michel Kratochvil" ~ "Bern, Switzerland",
+      player == "Sargis Sargsian" ~ "Yerevan, Armenia",
+      player == "Raemon Sluiter" ~ "Rotterdam, Netherlands",
+      player == "Michal Tabara" ~ "Uherske Hradiste, Czechia",
+      player == "Daniel Elsner" ~ "Memmingerberg, Germany",
+      player == "Felix Mantilla" ~ "Barcelona, Spain",
+      player == "Fernando Meligeni" ~ "Buenos Aires, Argentina",
+      player == "Stefan Edberg" ~ "Västervik, Sweden",
+      player == "Boris Becker" ~ "Leimen, Germany",
+      player == "Ivan Lendl" ~ "Ostrava, Czechia",
+      player == "Andres Gomez" ~ "Guayaquil, Ecuador",
+      player == "Thomas Muster" ~ "Leibnitz, Austria",
+      player == "Emilio Sanchez" ~ "Madrid, Spain",
+      player == "Goran Ivanisevic" ~ "Split, Croatia",
+      player == "Brad Gilbert" ~ "Oakland, California, United States",
+      player == "Jonas Svensson" ~ "Gothenburg, Sweden",
+      player == "Andrei Chesnokov" ~ "Moscow, Russia",
+      player == "John McEnroe" ~ "Wiesbaden, Germany",
+      player == "Guillermo Perez Roldan" ~ "Tandil, Argentina",
+      player == "Guy Forget" ~ "Casablanca, Morocco",
+      player == "Jakob Hlasek" ~ "Prague, Czechia",
+      player == "Jay Berger" ~ "Fort Dix, New Jersey, United States",
+      player == "Juan Aguilera" ~ "Barcelona, Spain",
+      player == "Aaron Krickstein" ~ "Ann Arbor, Michigan, United States",
+      player == "Andrei Cherkasov" ~ "Ufa, Russia",
+      player == "Richey Reneberg" ~ "Phoenix, Arizona, United States",
+      player == "Alexander Volkov" ~ "Kaliningrad, Russia",
+      player == "Jim Courier" ~ "Sanford, Florida, United States",
+      player == "Horst Skoff" ~ "Klagenfurt am Wörthersee, Austria",
+      player == "David Wheaton" ~ "Minneapolis, Minnesota, United States",
+      player == "Ronald Agenor" ~ "Rabat, Morocco",
+      player == "Henri Leconte" ~ "Lillers, France",
+      player == "Amos Mansdorf" ~ "Tel Aviv-Yafo, Israel",
+      player == "Karel Novacek" ~ "Prostějov, Czechia",
+      player == "Franco Davin" ~ "Buenos Aires, Argentina",
+      player == "Martin Jaite" ~ "Buenos Aires, Argentina",
+      player == "Tim Mayotte" ~ "Springfield, Massachusetts, United States",
+      player == "Petr Korda" ~ "Prague, Czechia",
+      player == "Jordi Arrese" ~ "Barcelona, Spain",
+      player == "Yannick Noah" ~ "Sedan, France",
+      player == "Mats Wilander" ~ "Växjö, Sweden",
+      player == "Michael Stich" ~ "Pinneberg, Germany",
+      player == "Luiz Mattar" ~ "São Paulo, Brazil",
+      player == "Scott Davis" ~ "Santa Monica, California, United States",
+      player == "Omar Camporese" ~ "Bologna, Italy",
+      player == "Carl Uwe Steeb" ~ "Aalen, Germany",
+      player == "Derrick Rostagno" ~ "Los Angeles, California, United States",
+      player == "Mark Koevermans" ~ "Rotterdam, Netherlands",
+      player == "Marcelo Filippini" ~ "Montevideo, Uruguay",
+      player == "Todd Woodbridge" ~ "Sydney, Australia",
+      player == "Nicklas Kulti" ~ "Stockholm, Sweden",
+      player == "Gary Muller" ~ "Durban, South Africa",
+      player == "Wally Masur" ~ "Sydney, Australia",
+      player == "Paul Haarhuis" ~ "Eindhoven, Netherlands",
+      player == "Goran Prpic" ~ "Zagreb, Croatia",
+      player == "Darren Cahill" ~ "Adelaide, Australia",
+      player == "Todd Witsken" ~ "Indianapolis, Indiana, United States",
+      player == "Thierry Champion" ~ "Bagnols-sur-Cèze, France",
+      player == "Jimmy Arias" ~ "Grand Island, New York, United States",
+      player == "Christo Van Rensburg" ~ "Uitenhage, South Africa",
+      player == "Horacio De La Pena" ~ "Buenos Aires, Argentina",
+      player == "Alex Antonitsch" ~ "Villach, Austria",
+      player == "Peter Lundgren" ~ "Gudmundrå, Sweden",
+      player == "Gilad Bloom" ~ "Tel Aviv, Israel",
+      player == "Jean Philippe Fleurian" ~ "Paris, France",
+      player == "Eric Jelen" ~ "Trier, Germany",
+      player == "Veli Paloheimo" ~ "Tampere, Finland",
+      player == "Javier Sanchez" ~ "Pamplona, Spain",
+      player == "Kevin Curren" ~ "Durban, South Africa",
+      player == "Jim Grabb" ~ "Tucson, Arizona, United States",
+      player == "Anders Jarryd" ~ "Lidköping, Sweden",
+      player == "Aki Rahunen" ~ "Helsinki, Finland",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
+      player == "" ~ "",
       player == "" ~ "",
       player == "" ~ "",
       player == "" ~ "",
@@ -659,11 +760,27 @@ world_map <- map_data("world") %>%
 
 
 
+# 1990
+rankings1990 <- rankings_100 %>% filter(year(rank_date) == 1990)
 
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings1990,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "1990 ATP Top 100")
 
 # 2000
 rankings2000 <- rankings_100 %>% filter(year(rank_date) == 2000)
 
+world_map %>%
+  ggplot() +
+  geom_map(map = world_map, aes(x = long, y = lat, map_id = region), color = "darkgreen", fill = "tan") +
+  coord_map("moll") +
+  geom_jitter(data = rankings2000,
+              aes(birth_long, birth_lat), width = 1, height = 1, size = 1.5) +
+  labs(x = "Longitude", y = "Latitude", title = "2000 ATP Top 100")
 
 # 2010
 rankings2010 <- rankings_100 %>% filter(year(rank_date) == 2010)

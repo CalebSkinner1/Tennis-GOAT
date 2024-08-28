@@ -23,9 +23,9 @@ set_flextable_defaults(
   text.align = "center")
 ```
 
-This website measures the success of professional male tennis players in Grand Slam Tournaments in the Open Era (from 1968 onward).
+This website displays various rankings and timelines concerning men's professional tennis. It is intended to provide interesting insights and answer some of eclectic curiosities. Some pages of the site compare the success of the top men's players and countries at various tournaments. Other pages display player age or birth location trends.
 
-The scoring system is simple. Players earn points for defeating players and advancing far in one of the four Grand Slam Tournaments each year. Players earn "victory points" corresponding to their opponent's official ranking by defeating them. Players lose victory points for each loss. Victory points are earned on the following scale:
+In particular, I utilize a simple scoring system to measure the success of professional male tennis players in Grand Slam Tournaments in the Open Era (from 1968 onward). In this scoring system, players earn points for defeating players and advancing far in one of the four Grand Slam Tournaments each year. Players earn "victory points" corresponding to their opponent's official ranking by defeating them. Players lose victory points for each loss. Victory points are earned on the following scale:
 
 ```{r victory points}
 #| tbl-cap: Victory Points
