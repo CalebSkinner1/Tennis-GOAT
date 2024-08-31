@@ -32,10 +32,8 @@ set_flextable_defaults(
   text.align = "center")
 ```
 
-```{r}
+```{r, fig.height = 7, fig.width = 10}
 #| fig-cap: Top 25 Players over Time
-#| fig-height: 7
-#| fig-width: 10
 players_sum <- players %>%
   group_by(name, dob, ioc, height, hand) %>%
   # group_by(name) %>%
