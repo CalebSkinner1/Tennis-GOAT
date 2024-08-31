@@ -1,5 +1,5 @@
 ---
-title: "Player Rankings"
+title: "Rankings"
 ---
 
 ```{r setup, include=FALSE}
@@ -30,7 +30,6 @@ set_flextable_defaults(
 #| tbl-cap: All Time Rankings
 players %>%
   group_by(name, dob, ioc) %>%
-  # group_by(name) %>%
   summarize(
     `Total Points` = sum(points) + sum(bonus),
     `Victory Points` = sum(points),
