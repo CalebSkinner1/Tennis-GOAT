@@ -2,6 +2,8 @@
 title: "Active Players"
 ---
 
+This page ranks the top active players. It also shows the best players who have yet to win a Grand Slam.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 

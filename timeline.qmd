@@ -2,6 +2,8 @@
 title: "Timeline"
 ---
 
+This page shows the progression of the top players over time. Hover 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 
@@ -32,6 +34,8 @@ set_flextable_defaults(
 
 ```{r}
 #| fig-cap: Top 25 Players over Time
+#| fig-height: 7
+#| fig-width: 10
 players_sum <- players %>%
   group_by(name, dob, ioc, height, hand) %>%
   # group_by(name) %>%

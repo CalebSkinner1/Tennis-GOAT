@@ -3,9 +3,9 @@
     "path": "~/Desktop/Rock Chucks/Miscellaneous/Truly Miscellaneous/Sports/Tennis/Tennis GOAT/wimbledon.qmd",
     "project_path": "wimbledon.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1517594138",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1725145171135.0,
     "source_on_save": false,
     "relative_order": 15,
@@ -23,11 +23,11 @@
         "last_setup_crc32": "d084b4b0a4254bef"
     },
     "folds": "",
-    "lastKnownWriteTime": 1725056486,
+    "lastKnownWriteTime": 1725147189,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725145184492,
+    "last_content_update": 1725147189776,
     "read_only": false,
     "read_only_alternatives": []
 }

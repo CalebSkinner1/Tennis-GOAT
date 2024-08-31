@@ -2,6 +2,8 @@
 title: "Rankings"
 ---
 
+This page ranks the top players overall and shows the best players without a Grand Slam title.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 
