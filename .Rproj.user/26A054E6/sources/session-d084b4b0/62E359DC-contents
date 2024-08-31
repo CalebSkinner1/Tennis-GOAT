@@ -68,7 +68,7 @@ sum %>%
     big.mark = "", digits = 0, na_str = "N/A")
 ```
 
-```{r, fig.height = 7, fig.width = 10}
+```{r, fig.height = 7, fig.width = 12}
 #| fig.cap: Top 25 Players at US Open
 
 # top players over time

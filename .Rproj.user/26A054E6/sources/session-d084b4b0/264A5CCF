@@ -3,9 +3,9 @@
     "path": "~/Desktop/Rock Chucks/Miscellaneous/Truly Miscellaneous/Sports/Tennis/Tennis GOAT/australian_open.qmd",
     "project_path": "australian_open.qmd",
     "type": "quarto_markdown",
-    "hash": "825567812",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1725144737240.0,
     "source_on_save": false,
     "relative_order": 13,
@@ -17,8 +17,8 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "95,0",
-        "scrollLine": "87",
+        "cursorPosition": "70,38",
+        "scrollLine": "65",
         "rmdVisualModeLocation": "2:0",
         "last_setup_crc32": "d084b4b0a4254bef"
     },
@@ -27,7 +27,7 @@
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1725147192360,
+    "last_content_update": 1725148231281,
     "read_only": false,
     "read_only_alternatives": []
 }
