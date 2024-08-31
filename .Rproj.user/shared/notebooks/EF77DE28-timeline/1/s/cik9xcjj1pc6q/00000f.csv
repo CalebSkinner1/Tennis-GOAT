@@ -90,3 +90,34 @@ Attaching package: ‘scales’
     col_factor
 
 "
+"0","matches <- read_csv(here(""data/gs_matches.csv""))"
+"1","[1mRows: [22m[34m27095[39m [1mColumns: [22m[34m11[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (6): tourney_name, winner_name, loser_name, round, score, tourney_id
+[32mdbl[39m  (4): winner_id, loser_id, winner_rank, loser_rank
+[34mdate[39m (1): date
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","players <- read_csv(here(""data/gs_players.csv""))"
+"1","[1mRows: [22m[34m54190[39m [1mColumns: [22m[34m18[39m
+"
+"1","[36m──[39m [1mColumn specification[22m [36m─────────────────────────────────────────────────────────────────────────────────────────[39m
+[1mDelimiter:[22m "",""
+[31mchr[39m  (9): tourney_name, name, opp_name, round, score, tourney_id, result, hand, ioc
+[32mdbl[39m  (7): player_id, opp_id, rank, opp_rank, points, bonus, height
+[34mdate[39m (2): date, dob
+"
+"1","
+[36mℹ[39m Use `spec()` to retrieve the full column specification for this data.
+[36mℹ[39m Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"
+"0","set_flextable_defaults("
+"0","  font.size = 10, theme_fun = theme_apa,"
+"0","  padding = 3,"
+"0","  background.color = ""#FFFFFF"","
+"0","  text.align = ""center"")"

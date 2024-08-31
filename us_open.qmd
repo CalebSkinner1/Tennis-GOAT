@@ -61,8 +61,8 @@ sum %>%
   align(align = "center", part = "all") %>%
   width(j = 12, width = 1.3) %>%
   width(j = 2, width = 3.5) %>%
-  width(j = 4, width = 1.6) %>%
-  width(j = c(1,8:11), width = .7) %>%
+  width(j = 4, width = 1.7) %>%
+  width(j = c(1,3,5:12), width = .7) %>%
   colformat_double(j = c(5,7,8,9), digits = 0) %>%
   colformat_double(j = 3,
     big.mark = "", digits = 0, na_str = "N/A")
