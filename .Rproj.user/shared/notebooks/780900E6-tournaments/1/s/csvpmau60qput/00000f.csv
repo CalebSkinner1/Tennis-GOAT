@@ -1,0 +1,42 @@
+"0","#| tbl-cap: Top Individual Tournament
+players %>%
+  group_by(name, dob, ioc, tourney_name, tourney_id) %>%
+  summarize(
+    `Total Points` = sum(points) + sum(bonus)) %>%
+  ungroup() %>%
+  arrange(desc(`Total Points`)) %>%
+  slice(1:25) %>%
+  left_join((players %>% filter(round == ""F"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Final"" = opp_name) %>% 
+  left_join((players %>% filter(round == ""SF"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Semifinal"" = opp_name) %>%
+  left_join((players %>% filter(round == ""QF"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Quarterfinal"" = opp_name) %>%
+  left_join((players %>% filter(round == ""R16"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Round of 16"" = opp_name) %>%
+  left_join((players %>% filter(round == ""R32"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Round of 32"" = opp_name) %>%
+  left_join((players %>% filter(round == ""R64"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Round of 64"" = opp_name) %>%
+  left_join((players %>% filter(round == ""R128"") %>% select(name, tourney_id, opp_name)), by = join_by(tourney_id, name)) %>%
+  rename(""Round of 128"" = opp_name) %>%
+  rename(
+    Country = ioc,
+    Name = name,
+    Tournament = tourney_name) %>%
+  mutate(
+    Rank = row_number(),
+    `Birth Year` = year(dob),
+    Year = str_extract(tourney_id, ""^.{4}"")) %>%
+  relocate(Rank, .before = Name) %>%
+  relocate(`Birth Year`, .before = Country) %>%
+  relocate(Year, .after = Tournament) %>%
+  relocate(`Total Points`, .before = Final) %>%
+  select(-dob, -tourney_id) %>%
+  flextable() %>%
+  align(align = ""center"", part = ""all"") %>%
+  colformat_double(j = 3,
+    big.mark = """", digits = 0, na_str = ""N/A"")
+"
+"1","[38;5;250m`summarise()` has grouped output by 'name', 'dob', 'ioc', 'tourney_name'. You can override using the `.groups` argument.[39m
+"

@@ -54,7 +54,8 @@ players %>%
   align(align = "center", part = "all") %>%
   width(j = 10, width = 1.3) %>%
   width(j = 2, width = 2.2) %>%
-  width(j = c(1,4,8:9), width = .7) %>%
+  width(j = 4, width = 1.6) %>%
+  width(j = c(1,3,8:10), width = .6) %>%
   colformat_double(j = c(5,7,8,9), digits = 0) %>%
   colformat_double(j = 3,
     big.mark = "", digits = 0, na_str = "N/A")
@@ -88,11 +89,10 @@ players %>%
   slice(1:25) %>%
   flextable() %>%
   align(align = "center", part = "all") %>%
-  width(j= 2, width = 2) %>%
-  width(j = 3, width = 1.9) %>%
-  width(j = c(1, 4), width = .7) %>%
-  width(j = c(9:12), width = 1) %>%
-  colformat_double(j = 5, digits = 0) %>%
+  width(j = 2, width = 2) %>%
+  width(j = 4, width = 1.6) %>%
+  width(j = 1, width = .6) %>%
+  width(j = c(5:12), width = .8) %>%
   colformat_double(j = 3,
     big.mark = "", digits = 0, na_str = "N/A")
 ```
@@ -126,9 +126,9 @@ players %>%
   slice(1:25) %>% 
   flextable() %>%
   align(align = "center", part = "all") %>%
-  width(j = 11, width = 1.3) %>%
   width(j = 2, width = 2.2) %>%
-  width(j = c(1,4,8:10), width = .7) %>%
+  width(j = 4, width = 1.6) %>%
+  width(j = c(1,3,8:11), width = .6) %>%
   colformat_double(j = c(5:9), digits = 0) %>%
   colformat_double(j = 3,
     big.mark = "", digits = 0, na_str = "N/A")

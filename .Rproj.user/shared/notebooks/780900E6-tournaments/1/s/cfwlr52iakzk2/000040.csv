@@ -1,0 +1,43 @@
+"0","#| tbl-cap: Top Year
+players %>%
+  mutate(
+    Year = str_extract(tourney_id, ""^.{4}"")) %>%
+  group_by(name, dob, ioc, Year) %>%
+  summarize(
+    `Total Points` = sum(points) + sum(bonus),
+    `Australian Open` = sum(tourney_name == ""Australian Open"") + sum(tourney_name == ""Australian Open"" & result == ""winner"" & round == ""F""),
+    `French Open` = sum(tourney_name == ""Roland Garros"") + sum(tourney_name == ""Roland Garros"" & result == ""winner"" & round == ""F""),
+    `Wimbledon` = sum(tourney_name == ""Wimbledon"") + sum(tourney_name == ""Wimbledon"" & result == ""winner"" & round == ""F""),
+    `US Open` = sum(tourney_name == ""US Open"") + sum(tourney_name == ""US Open"" & result == ""winner"" & round == ""F"")) %>%
+  ungroup() %>%
+  arrange(desc(`Total Points`)) %>%
+  slice(1:25) %>%
+  rename(
+    Country = ioc,
+    Name = name) %>%
+  mutate(
+    Rank = row_number(),
+    `Birth Year` = year(dob),
+    across(`Australian Open`:`US Open`,
+           ~ case_when(
+             .x == ""8"" ~ ""Champion"",
+             .x == ""7"" ~ ""Finalist"",
+             .x == ""6"" ~ ""Semifinal"",
+             .x == ""5"" ~ ""Quarters"",
+             .x == ""4"" ~ ""R16"",
+             .x == ""3"" ~ ""R32"",
+             .x == ""2"" ~ ""R64"",
+             .x == ""2"" ~ ""R128"",
+             .default = """"))) %>%
+  relocate(Rank, .before = Name) %>%
+  relocate(`Birth Year`, .before = Country) %>%
+  select(-dob) %>% 
+  flextable() %>%
+  align(align = ""center"", part = ""all"") %>%
+  width(j = 2, width = 2.2) %>%
+  width(j = 4, width = 1.6) %>%
+  colformat_double(j = 3,
+    big.mark = """", digits = 0, na_str = ""N/A"")
+"
+"1","[38;5;250m`summarise()` has grouped output by 'name', 'dob', 'ioc'. You can override using the `.groups` argument.[39m
+"
