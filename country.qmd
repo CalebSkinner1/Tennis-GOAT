@@ -17,6 +17,7 @@ knitr::opts_chunk$set(
 library("tidyverse"); theme_set(theme_minimal())
 library("here")
 library("flextable")
+library("plotly")
 
 matches <- read_csv(here("data/gs_matches.csv"))
 players <- read_csv(here("data/gs_players.csv"))
