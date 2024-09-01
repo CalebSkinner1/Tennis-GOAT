@@ -18,7 +18,7 @@ players %>%
   filter(Matchups > 2) %>%
   mutate(
     Wins = round(Wins, 0),
-    Rank = rank(-Matchups, ties.method = ""first"")) %>%
+    Rank = rank(-Matchups, ties.method = ""min"")) %>%
   rename(
     `Player 1` = name,
     `Player 2` = opp_name) %>%
