@@ -30,7 +30,7 @@ This website displays various rankings and timelines concerning men's profession
 In particular, I utilize a simple scoring system to measure the success of professional male tennis players in Grand Slam Tournaments in the Open Era (from 1968 onward). In this scoring system, players earn points for defeating players and advancing far in one of the four Grand Slam Tournaments each year. Players earn "victory points" corresponding to their opponent's official ranking by defeating them. Players lose victory points for each loss. Victory points are earned on the following scale:
 
 ```{r victory points}
-tibble("Opponent's Rank" = c("1-100", "100+"),
+tibble("Opponent's Rank" = c("1-99", "100+"),
        "After Win" = c("100 - Opponent's Rank", "1"),
        "After Loss" = c("-Opponent's Rank", "-99")) %>%
   flextable() %>%
