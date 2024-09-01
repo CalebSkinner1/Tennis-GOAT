@@ -55,11 +55,11 @@ players %>%
   width(j = 1, width = .6) %>%
   width(j = c(3:9,11), width = 1.2) %>%
   colformat_double(j = c(5,7,8,9), digits = 0) %>%
-  width(j = 2, width = 1.6)
+  width(j = 2, width = 2)
 ```
 
 ```{r}
-#| tbl-cap: Player Rankings by Grand Slam Results
+#| tbl-cap: Country Rankings by Grand Slam Results
 players %>%
   group_by(ioc) %>%
   summarize(
@@ -79,6 +79,48 @@ players %>%
   align(align = "center", part = "all") %>%
   width(j = c(1:6), width = 1) %>%
   width(j = 2, width = 1.6)
+```
+
+```{r, fig.height = 7, fig.width = 12}
+#| fig-cap: Countries over Time
+country_sum <- players %>%
+  group_by(ioc) %>%
+  summarize(
+    `Total Points` = sum(if_else(points > 0 , points, 0)) + sum(bonus),
+    `Victory Points` = sum(if_else(points > 0 , points, 0)),
+    `Bonus Points` = sum(bonus),
+    `Australian Open` = sum(if_else(tourney_name == "Australian Open" & points > 0, points + bonus, 0)),
+    `French Open` = sum(if_else(tourney_name == "Roland Garros" & points > 0, points + bonus, 0)),
+    `Wimbledon` = sum(if_else(tourney_name == "Wimbledon" & points > 0, points + bonus, 0)),
+    `US Open` = sum(if_else(tourney_name == "US Open" & points > 0, points + bonus, 0)),
+    Victories = sum(points > 0),
+    `Win Percent` = scales::percent(sum(points > 0)/(sum(points > 0) + sum(points < 0)), accuracy = .01)) %>%
+  ungroup() %>%
+  arrange(desc(`Total Points`))
+
+top10 <- country_sum %>% ungroup() %>% slice(1:10) %>% select(ioc) %>% pull()
+top20 <- country_sum %>% ungroup() %>% slice(1:20) %>% select(ioc) %>% pull()
+top25 <- country_sum %>% ungroup() %>% slice(1:25) %>% select(ioc) %>% pull()
+top30 <- country_sum %>% ungroup() %>% slice(1:30) %>% select(ioc) %>% pull()
+top50 <- country_sum %>% ungroup() %>% slice(1:50) %>% select(ioc) %>% pull()
+
+# top players over time
+p <- players %>%
+  mutate(points_revision = if_else(points > 0, points, 0)) %>%
+  group_by(ioc) %>%
+  mutate(
+    `Total Points` = cumsum(points_revision + bonus)) %>%
+  filter(ioc %in% top25) %>%
+  rename(
+    Country = ioc,
+    Date = date) %>%
+  ungroup() %>%
+  ggplot(aes(x = Date, y = `Total Points`, color = Country)) +
+  geom_line() +
+  scale_x_date(expand = c(0, 1000)) +
+  theme(legend.position = "none")
+
+ggplotly(p)
 ```
 
 ```{r top country without a grand slam}
