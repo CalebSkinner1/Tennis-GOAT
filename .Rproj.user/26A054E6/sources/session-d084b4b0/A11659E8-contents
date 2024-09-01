@@ -70,7 +70,7 @@ active %>%
     big.mark = "", digits = 0, na_str = "N/A")
 ```
 
-```{r}
+```{r,fig.topcaption=TRUE}
 #| fig-cap: Active Player Timeline
 p <- players %>%
   group_by(name) %>%

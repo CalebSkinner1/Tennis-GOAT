@@ -10,7 +10,8 @@ knitr::opts_chunk$set(
   cache = FALSE, collapse = TRUE,
   error = TRUE, echo = FALSE,
   message = FALSE,
-  warning = FALSE)
+  warning = FALSE,
+  fig.topcaption=TRUE)
 ```
 
 ```{r load, include = FALSE}
@@ -32,7 +33,7 @@ set_flextable_defaults(
   text.align = "center")
 ```
 
-```{r, fig.height = 7, fig.width = 12}
+```{r, fig.height = 7, fig.width = 1}
 #| fig-cap: Top 25 Players over Time
 players_sum <- players %>%
   group_by(name, dob, ioc, height, hand) %>%
