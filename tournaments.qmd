@@ -2,6 +2,8 @@
 title: "Tournaments"
 ---
 
+This page describes the most impressive individual tournaments and years in the Open Era.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 

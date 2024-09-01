@@ -2,7 +2,7 @@
 title: "Timeline"
 ---
 
-This page shows the progression of the top players over time. Hover 
+This page shows the progression of the top players over time.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -71,6 +71,8 @@ p <- players %>%
 
 ggplotly(p)
 ```
+
+Scroll to see each player's results at individual tournaments.
 
 ```{r}
 #| tbl-cap: Player Timelines

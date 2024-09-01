@@ -2,6 +2,8 @@
 title: "Australian Open"
 ---
 
+Rankings, timeline, and frequent matchups at the Australian Open. The Australian Open is a Hard Court event typically held in January in Melbourne, Australia.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 

@@ -2,6 +2,8 @@
 title: "French Open"
 ---
 
+Rankings, timeline, and frequent matchups at the French Open. The French Open is played at Roland Garros on red clay. It is held in late May in Paris, France.
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   comment = "#", fig.height = 3, 

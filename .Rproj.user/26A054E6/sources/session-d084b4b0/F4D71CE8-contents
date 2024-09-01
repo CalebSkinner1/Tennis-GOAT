@@ -28,7 +28,6 @@ This website displays various rankings and timelines concerning men's profession
 In particular, I utilize a simple scoring system to measure the success of professional male tennis players in Grand Slam Tournaments in the Open Era (from 1968 onward). In this scoring system, players earn points for defeating players and advancing far in one of the four Grand Slam Tournaments each year. Players earn "victory points" corresponding to their opponent's official ranking by defeating them. Players lose victory points for each loss. Victory points are earned on the following scale:
 
 ```{r victory points}
-#| tbl-cap: Victory Points
 tibble("Opponent's Rank" = c("1-100", "100+"),
        "After Win" = c("100 - Opponent's Rank", "1"),
        "After Loss" = c("-Opponent's Rank", "-99")) %>%
@@ -41,7 +40,6 @@ tibble("Opponent's Rank" = c("1-100", "100+"),
 Moreover, players earn bonus points for advancing far in tournaments.
 
 ```{r bonus points}
-#| tbl-cap: Bonus Points
 tibble("Round" = c("Quarterfinal", "Semifinal", "Final", "Champion"),
        "Points" = c("10", "20", "30", "50")) %>%
   flextable() %>%
@@ -50,12 +48,11 @@ tibble("Round" = c("Quarterfinal", "Semifinal", "Final", "Champion"),
   set_caption("Bonus Points")
 ```
 
-*Rankings*
+**Rankings**
 
 The ATP released its first international tennis ranking on August 23, 1973. From 1973 onward, the ATP released updated rankings at several points in the season. Until the early 1980s, however, the ranking updates came at irregular intervals. Thus, at many Grand Slam tournaments in the 1970s, players' rankings had not been updated in several months. To make matters worse, in the 1970s, it was common for the ATP's rankings to only include the top 50 players. This makes comparison with more recent years difficult. For this reason, I have turned to Ultimate Tennis Statistics' ELO ratings for Grand Slam matches in the late 1960s and 1970s. If a player is not included in the official ATP ranking, then the algorithm uses the players' ELO ranking.
 
-
-The match and rank data is courtesy of [Jeff Sackmann's Github](https://github.com/JeffSackmann/tennis_atp) and [ultimate tennis statistics](https://www.ultimatetennisstatistics.com). The data is updated through the 2024 Australian Open.
+The match and rank data is courtesy of [Jeff Sackmann's Github](https://github.com/JeffSackmann/tennis_atp) and [ultimate tennis statistics](https://www.ultimatetennisstatistics.com). The data is updated through the 2024 Australian Open. Thus, results from the 2024 French Open, 2024 Wimbledon, and 2024 US Open are not included.
 
 This website has been edited, produced, and published by Caleb A. Skinner in R Quarto via GitPages.
 
