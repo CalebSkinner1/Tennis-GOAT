@@ -1,0 +1,100 @@
+"0","players %>%
+  filter(name %in% titles3) %>%
+  group_by(name) %>%
+  mutate(
+    start = min(date),
+    Year = year(date)) %>%
+  group_by(name, Year, tourney_name, tourney_id) %>%
+  mutate(
+    round = case_when(
+      round == ""R128"" ~ 1,
+      round == ""R64"" ~ 2,
+      round == ""R32"" ~ 3,
+      round == ""R16"" ~ 4,
+      round == ""QF"" ~ 5,
+      round == ""SF"" ~ 6,
+      round == ""F"" & result == ""loser"" ~ 7,
+      round == ""F""  & result == ""winner"" ~ 8,
+      .default = NA)) %>%
+  summarize(
+    round = max(round),
+    start = min(start)) %>%
+  ungroup() %>%
+  mutate(
+    round = case_when(
+      round == ""1"" ~ ""1st"",
+      round == ""2"" ~ ""2nd"",
+      round == ""3"" ~ ""3rd"",
+      round == ""4"" ~ ""4th"",
+      round == ""5"" ~ ""QF"",
+      round == ""6"" ~ ""SF"",
+      round == ""7"" ~ ""F"",
+      round == ""8"" ~ ""W"",
+      .default = NA),
+    Year = str_extract(tourney_id, ""[0-9]{1,4}"")
+    ) %>%
+  select(-tourney_id) %>%
+  arrange(start, name, tourney_name) %>%
+  select(-start) %>%
+  pivot_wider(names_from = Year, values_from = round, values_fill = NA) %>%
+  rename(
+    Player = name,
+    Tournament = tourney_name) %>%
+  mutate(
+    Tournament = recode(Tournament, ""Roland Garros"" = ""French"", ""Australian Open"" = ""Australian"")) %>%
+  unnest() %>%
+  mutate(
+    Player2 = Player,
+    Player3 = Player,
+    Player4 = Player,
+    Player5 = Player,
+    Player6 = Player,
+    `1977` = case_when(
+      Player == ""Ken Rosewall"" & Tournament == ""Australian"" ~ ""SF/QF"",
+      .default = `1977`),
+    across(`1968`:`2024`, ~factor(., levels = c(""W"", ""F"", ""SF"", ""SF/QF"", ""QF"", ""4th"", ""3rd"", ""2nd"", ""1st"", """")))) %>%
+  relocate(`1990`, .before = `1991`) %>% 
+  relocate(`1998`, .before = `1999`) %>% 
+  relocate(`2002`, .before = `2003`) %>%
+  relocate(`2007`, .before = `2008`) %>%
+  relocate(Player2, .before = `1980`) %>% 
+  relocate(Player3, .before = `1990`) %>% 
+  relocate(Player4, .before = `2000`) %>% 
+  relocate(Player5, .before = `2010`) %>% 
+  relocate(Player6, .before = `2020`) %>%
+  distinct() %>%
+  gt() %>%
+  cols_align(align = ""center"") %>%
+  sub_missing(
+    columns = everything(),
+    rows = everything(),
+    missing_text = "" "") %>%
+  cols_width(
+    Player ~ px(200),
+    Player2 ~ px(200),
+    Player3 ~ px(200),
+    Player4 ~ px(200),
+    Player5 ~ px(200),
+    Player6 ~ px(200),
+    Tournament ~ px(100),
+    everything() ~ px(50)) %>%
+  cols_label(
+    Player2 = ""Player"",
+    Player3 = ""Player"",
+    Player4 = ""Player"",
+    Player5 = ""Player"",
+    Player6 = ""Player"") %>%
+  data_color(
+    palette = c(""white"", ""lightblue"", ""cadetblue2"", ""blue"", ""navy"", ""tan"", ""yellow"", ""yellow"", ""hotpink2"", ""forestgreen""),
+    columns = num_range(prefix = """", range = 968:2024),
+    method = ""factor"",
+    levels = c("" "", ""1st"", ""2nd"", ""3rd"", ""4th"", ""QF"", ""SF/QF"", ""SF"", ""F"", ""W""),
+    apply_to = ""fill"",
+    ordered = TRUE) %>%
+  tab_style_body(
+    fn = function(x) is.na(x),
+    style = cell_fill(color = ""white""))
+"
+"1","[38;5;250m`summarise()` has grouped output by 'name', 'Year', 'tourney_name'. You can override using the
+`.groups` argument.[39m
+"
