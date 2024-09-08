@@ -4,6 +4,7 @@ library("tidyverse")
 library("janitor")
 library("here")
 library("countrycode")
+library("tidymodels")
 
 path_to_file <- here("data")
 
@@ -232,7 +233,11 @@ matches <- pre_matches %>%
       !is.na(loser_seed) ~ loser_seed,
       !is.na(loser_rank) ~ loser_rank,
       is.na(rank) ~ elo_rank,
-      .default = rank)) %>%
+      .default = rank),
+    tourney_name = case_when(
+      tourney_name == "Us Open" ~ "US Open",
+      tourney_name == "Australian Open-2" ~ "Australian Open",
+      .default = tourney_name)) %>%
   select(-rank, -elo_rank) %>%
   select(-contains("seed")) %>%
   mutate(round = factor(round, levels = c("R128", "R64", "R32", "R16", "QF", "SF", "F"))) %>% 
@@ -253,7 +258,7 @@ missing %>% group_by(date, tourney_id) %>%
 
 # create players csv
 
-players_results <- matches %>%
+players_results0 <- matches %>%
   rename(
     "player_id" = winner_id,
     "opp_id" = loser_id,
@@ -271,7 +276,46 @@ players_results <- matches %>%
         "opp_name" = winner_name,
         "rank" = loser_rank,
         "opp_rank" = winner_rank) %>%
-      mutate(result = "loser")) %>%
+      mutate(result = "loser"))
+
+# win rate model
+win_rate_data <- players_results %>%
+  filter(between(rank, 1, 100)) %>%
+  group_by(rank) %>%
+  summarize(
+    wins = sum(result == "winner"),
+    losses = sum(result == "loser")) %>%
+  mutate(
+    win_rate = wins/(wins + losses))
+
+lm_spec <- linear_reg() %>%
+  set_mode("regression") %>%
+  set_engine("lm")
+
+wr_rec <- recipe(win_rate ~ rank, data = win_rate_data) %>%
+  step_mutate(rank2 = sqrt(rank))
+
+wr_wf <- workflow() %>%
+  add_model(lm_spec) %>%
+  add_recipe(wr_rec)
+
+wr_fit <- wr_wf %>% fit(win_rate_data)
+
+win_rate_data_update <- win_rate_data %>%
+  mutate(
+    rank2 = sqrt(rank),
+    fitted_values = wr_fit$fit$fit$fit$fitted.values,
+    win_points = (fitted_values - min(fitted_values))*99/(max(fitted_values) - min(fitted_values)) + 1,
+    lose_points = -.5*rank)
+
+win_rate_data_update %>%
+  ggplot() +
+  geom_point(aes(x = rank, y = win_rate), color = "indianred3") +
+  geom_line(aes(x = rank, y = fitted_values), color = "cadetblue4")
+
+# finish player results
+  
+players_results <- players_results0 %>%
   mutate(
     points = case_when(
       score == "W/O" ~ 0,
