@@ -1,0 +1,27 @@
+"0","players %>%
+  group_by(name, dob, ioc) %>%
+  summarize(
+    `Total Points` = sum(points) + sum(bonus),
+    `Victory Points` = sum(points),
+    `Bonus Points` = sum(bonus),
+    Titles = sum(round == ""F"" & result == ""winner""),
+    Finals = sum(round == ""F""),
+    last_tournament = max(date),
+    Victories = sum(points > 0),
+    Defeats = sum(points < 0),
+    `Win Percent` = scales::percent(Victories/(Victories + Defeats), accuracy = .01)) %>%
+  ungroup() %>%
+  filter(last_tournament > ymd(20230101), name != ""Andy Murray"") %>%
+  rename(
+    Country = ioc,
+    Player = name) %>%
+  arrange(desc(`Total Points`)) %>%
+  mutate(
+    Rank = row_number(),
+    `Birth Year` = year(dob)) %>%
+  relocate(Rank, .before = Player) %>%
+  relocate(`Birth Year`, .before = Country) %>%
+  select(-dob, -last_tournament) %>% view()
+"
+"1","[38;5;250m`summarise()` has grouped output by 'name', 'dob'. You can override using the `.groups` argument.[39m
+"
