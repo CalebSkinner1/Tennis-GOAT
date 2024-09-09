@@ -66,7 +66,7 @@ sum %>%
   width(j = 2, width = 3) %>%
   width(j = 4, width = 2) %>%
   width(j = c(1,8:11), width = .7) %>%
-  colformat_double(j = c(5,7,8,9), digits = 0) %>%
+  colformat_double(j = c(5,6,7,8,9), digits = 0) %>%
   colformat_double(j = 3,
     big.mark = "", digits = 0, na_str = "N/A")
 ```
@@ -129,7 +129,6 @@ players %>%
   colformat_double(j = c(7,8),
                    big.mark = "", digits = 0, na_str = "N/A")
 ```
-
 
 ```{r table country rank}
 #| tbl-cap: All Time Country Rankings

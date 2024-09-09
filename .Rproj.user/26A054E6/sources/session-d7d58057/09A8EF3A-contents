@@ -278,8 +278,10 @@ players_results0 <- matches %>%
         "opp_rank" = winner_rank) %>%
       mutate(result = "loser"))
 
+write_csv(players_results0, here("data/player_results.csv"))
+
 # win rate model
-win_rate_data <- players_results %>%
+win_rate_data <- players_results0 %>%
   filter(between(rank, 1, 100)) %>%
   group_by(rank) %>%
   summarize(
@@ -320,11 +322,11 @@ players_results <- players_results0 %>%
     points = case_when(
       score == "W/O" ~ 0,
       is.na(opp_rank) & result == "winner" ~ 1,
-      is.na(opp_rank) & result == "loser" ~ -99,
-      result == "winner" & opp_rank < 100 ~ 100 - opp_rank,
+      is.na(opp_rank) & result == "loser" ~ -50,
+      result == "winner" & opp_rank < 100 ~ win_rate_data_update$win_points[opp_rank],
       result == "winner" & opp_rank >= 100 ~ 1,
-      result == "loser" & opp_rank < 100 ~ -opp_rank,
-      result == "loser" & opp_rank >= 100 ~ -99,
+      result == "loser" & opp_rank < 100 ~ win_rate_data_update$lose_points[opp_rank],
+      result == "loser" & opp_rank >= 100 ~ -50,
       .default = NA),
     bonus = case_when(
       result == "winner" & round == "R16" ~ 10,

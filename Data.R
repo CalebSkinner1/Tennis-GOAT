@@ -306,7 +306,7 @@ win_rate_data_update <- win_rate_data %>%
     rank2 = sqrt(rank),
     fitted_values = wr_fit$fit$fit$fit$fitted.values,
     win_points = (fitted_values - min(fitted_values))*99/(max(fitted_values) - min(fitted_values)) + 1,
-    lose_points = -.5*rank)
+    lose_points = -.5*rank) %>% view()
 
 win_rate_data_update %>%
   ggplot() +
@@ -320,11 +320,11 @@ players_results <- players_results0 %>%
     points = case_when(
       score == "W/O" ~ 0,
       is.na(opp_rank) & result == "winner" ~ 1,
-      is.na(opp_rank) & result == "loser" ~ -99,
-      result == "winner" & opp_rank < 100 ~ 100 - opp_rank,
+      is.na(opp_rank) & result == "loser" ~ -50,
+      result == "winner" & opp_rank < 100 ~ win_rate_data_update$win_points[opp_rank],
       result == "winner" & opp_rank >= 100 ~ 1,
-      result == "loser" & opp_rank < 100 ~ -opp_rank,
-      result == "loser" & opp_rank >= 100 ~ -99,
+      result == "loser" & opp_rank < 100 ~ win_rate_data_update$lose_points[opp_rank],
+      result == "loser" & opp_rank >= 100 ~ -50,
       .default = NA),
     bonus = case_when(
       result == "winner" & round == "R16" ~ 10,
