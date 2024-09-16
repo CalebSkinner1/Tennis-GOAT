@@ -278,8 +278,10 @@ players_results0 <- matches %>%
         "opp_rank" = winner_rank) %>%
       mutate(result = "loser"))
 
+write_csv(players_results0, here("data/player_results.csv"))
+
 # win rate model
-win_rate_data <- players_results %>%
+win_rate_data <- players_results0 %>%
   filter(between(rank, 1, 100)) %>%
   group_by(rank) %>%
   summarize(
@@ -306,7 +308,7 @@ win_rate_data_update <- win_rate_data %>%
     rank2 = sqrt(rank),
     fitted_values = wr_fit$fit$fit$fit$fitted.values,
     win_points = (fitted_values - min(fitted_values))*99/(max(fitted_values) - min(fitted_values)) + 1,
-    lose_points = -.5*rank) %>% view()
+    lose_points = -.5*rank)
 
 win_rate_data_update %>%
   ggplot() +
